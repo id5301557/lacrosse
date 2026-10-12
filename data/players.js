@@ -1728,8 +1728,8 @@ window.PLAYERS = [
       "en": "Lives in a four-person Ravens House suite with Lachie, Grant and one unnamed member of the men’s lacrosse team. Each has an individual bedroom."
     },
     "languages": {
-      "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다. 수치·기술·의학·군대 보고체를 일상적으로 쓰지 않는다. 당황하거나 감정을 합리화할 때는 설명이 길어져도 일상어를 유지한다.",
-      "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion. Numerical, technical, medical and military-report phrasing are not his everyday register. Explanations may lengthen when flustered or rationalizing feelings, while remaining ordinary in wording."
+      "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
+      "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion."
     },
     "appearance": {
       "ko": "단정한 애시·다크 블론드 머리, 회청색 눈, 각진 이목구비. 넓고 큰 골키퍼 체형에 절제된 인상이다.",
@@ -1955,8 +1955,8 @@ window.PLAYERS = [
               "en": "Languages & Speech"
             },
             "body": {
-              "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다. 수치·기술·의학·군대 보고체를 일상적으로 쓰지 않는다. 당황하거나 감정을 합리화할 때는 설명이 길어져도 일상어를 유지한다.",
-              "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion. Numerical, technical, medical and military-report phrasing are not his everyday register. Explanations may lengthen when flustered or rationalizing feelings, while remaining ordinary in wording."
+              "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
+              "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion."
             },
             "sources": [
               "staff"
