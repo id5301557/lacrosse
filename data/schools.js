@@ -931,8 +931,8 @@ window.SCHOOLS = {
           64
         ],
         "description": {
-          "ko": "남녀 라크로스팀 중심 교내 스위트 주거관",
-          "en": "Campus suite residence centered on men’s and women’s lacrosse"
+          "ko": "남녀 라크로스팀 전용 교내 스위트 주거관",
+          "en": "Campus suite residence exclusively for the men’s and women’s lacrosse teams"
         }
       },
       {
@@ -1766,8 +1766,8 @@ window.SCHOOLS = {
       "en": "Weekdays fit weights, field practice, positional meetings, film and rehabilitation between classes, with adjusted intensity in game weeks. Equipment checks, warm-ups and positional meetings precede games; cooldowns, treatment and brief feedback come before later film review. Away commitments include travel the day before or on game day, team meals, hotels, meetings and the return after play, sometimes conflicting with personal plans. The captain coordinates players and coaches, supports younger teammates and helps the atmosphere rather than acting as a substitute coach, with no special treatment. Ability and condition determine starts and minutes; friendship guarantees neither. Locker-room jokes, team meals, study, rehabilitation and group chats support everyday exchanges, while newcomers and backups keep independent lives. Parties do not follow every game. Fan interaction, including signatures and photos, centers on game days and public events; players remain campus figures."
     },
     "residenceLife": {
-      "ko": "팀원의 방문과 공용 라운지 합석은 흔하지만 일반 기숙사 출입·게스트·소음 규칙이 적용됩니다. 개인 침실에는 허락 없이 들어가지 않습니다. 공용 냉장고·설거지·쓰레기·청소·욕실 사용 순서 등 생활 분담이 필요합니다. 훈련복·스틱·테이프·간식이 거실에 늘기 쉽습니다. 거실은 게임·식사·필름 복습·잡담에 자주 쓰이며 항상 파티가 열리는 공간은 아닙니다. 늦은 밤에는 수면·수업·훈련 일정을 존중합니다. 남녀 주거층은 분리되며 1층 라운지·세탁·스터디·공용주방은 함께 사용합니다. 입주는 의무가 아니며 코치는 거주하지 않습니다.",
-      "en": "Teammate visits and joining others in the common lounge are frequent, subject to ordinary residence access, guest and noise rules. Private bedrooms require permission to enter. Refrigerator use, dishes, trash, cleaning and bathroom turns require shared responsibilities. Training clothes, sticks, tape and snacks easily accumulate in the living room. Games, meals, film revision and conversation are common uses, without making it a permanent party space. Late nights respect sleep, class and training schedules. Men’s and women’s residence floors are separate, with shared ground-floor lounge, laundry, study and kitchen spaces. Residence is optional and coaches do not live here."
+      "ko": "남녀 라크로스팀 전용 교내 스위트 주거관입니다. 팀원의 방문과 공용 라운지 합석은 흔하지만 일반 기숙사 출입·게스트·소음 규칙이 적용됩니다. 개인 침실에는 허락 없이 들어가지 않습니다. 공용 냉장고·설거지·쓰레기·청소·욕실 사용 순서 등 생활 분담이 필요합니다. 훈련복·스틱·테이프·간식이 거실에 늘기 쉽습니다. 거실은 게임·식사·필름 복습·잡담에 자주 쓰이며 항상 파티가 열리는 공간은 아닙니다. 늦은 밤에는 수면·수업·훈련 일정을 존중합니다. 남녀 주거층은 분리되며 1층 라운지·세탁·스터디·공용주방은 함께 사용합니다. 입주는 의무가 아니며 코치는 거주하지 않습니다.",
+      "en": "A campus suite residence exclusively for the men’s and women’s lacrosse teams. Teammate visits and joining others in the common lounge are frequent, subject to ordinary residence access, guest and noise rules. Private bedrooms require permission to enter. Refrigerator use, dishes, trash, cleaning and bathroom turns require shared responsibilities. Training clothes, sticks, tape and snacks easily accumulate in the living room. Games, meals, film revision and conversation are common uses, without making it a permanent party space. Late nights respect sleep, class and training schedules. Men’s and women’s residence floors are separate, with shared ground-floor lounge, laundry, study and kitchen spaces. Residence is optional and coaches do not live here."
     }
   }
 };

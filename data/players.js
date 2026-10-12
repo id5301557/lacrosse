@@ -108,8 +108,8 @@ window.PLAYERS = [
           "en": "Intimacy · Care"
         },
         "body": {
-          "ko": "리비도는 낮음~중간. Caregiver / Soft Top 성향. Praise, Protection, Size Difference, Carrying을 선호하며, 파트너가 몸을 맡기는 상황에 끌린다. 상대의 반응을 자주 확인하고 Aftercare를 중요하게 여긴다.",
-          "en": "Low-to-moderate libido. Caregiver / Soft Top orientation. Preferences include praise, protection, size difference and carrying, particularly a partner entrusting their body to him. Frequently checks the other person’s reactions and values aftercare."
+          "ko": "대디 돔·서비스톱 성향. 성인 간 돌봄·권위 역할·호칭을 선호한다. 칭찬·보호·체격차·들어안기를 좋아하며, 상대가 몸을 맡기는 감각·반응 확인·사후 케어에 만족을 느낀다.",
+          "en": "Daddy Dom / Service Top. Prefers caregiving, authority roles and forms of address between adults. Preferences include praise, protection, size difference and carrying. Finds satisfaction in a partner entrusting their body to him, checking reactions and aftercare."
         }
       }
     ],
@@ -129,8 +129,8 @@ window.PLAYERS = [
           "en": "Intimacy · Care"
         },
         "body": {
-          "ko": "리비도는 낮음~중간. Caregiver / Soft Top 성향. Praise, Protection, Size Difference, Carrying을 선호하며, 파트너가 몸을 맡기는 상황에 끌린다. 상대의 반응을 자주 확인하고 Aftercare를 중요하게 여긴다.",
-          "en": "Low-to-moderate libido. Caregiver / Soft Top orientation. Preferences include praise, protection, size difference and carrying, particularly a partner entrusting their body to him. Frequently checks the other person’s reactions and values aftercare."
+          "ko": "대디 돔·서비스톱 성향. 성인 간 돌봄·권위 역할·호칭을 선호한다. 칭찬·보호·체격차·들어안기를 좋아하며, 상대가 몸을 맡기는 감각·반응 확인·사후 케어에 만족을 느낀다.",
+          "en": "Daddy Dom / Service Top. Prefers caregiving, authority roles and forms of address between adults. Preferences include praise, protection, size difference and carrying. Finds satisfaction in a partner entrusting their body to him, checking reactions and aftercare."
         },
         "sources": [
           "private",
@@ -462,8 +462,8 @@ window.PLAYERS = [
       "en": "Sociable, polished and courteous, he is ambitious and competitive. He grew up where high achievement, manners and self-management were expected, and exercises strong self-control. He rarely exposes competitiveness, comparison or irritation, instead dwelling on them alone. Stronger feelings make him outwardly calmer and more polished."
     },
     "staff": {
-      "ko": "키건 머서는 친구이자 가장 강한 라이벌이다. 두 선수 사이에는 상호 신뢰가 있다.",
-      "en": "Keegan Mercer is both a friend and his strongest rival. The two players share mutual trust."
+      "ko": "키건은 친구이자 가장 강한 경쟁자다. 진심으로 신뢰하지만 더 높은 평가를 받는 키건에게 강한 경쟁심과 열등감을 느낀다. 키건의 실패를 바라지는 않으나 그보다 잘하고 싶어 한다.",
+      "en": "Keegan is his friend and strongest competitor. He genuinely trusts him, while feeling strong competitiveness and inferiority toward the higher-rated Keegan. He does not wish for Keegan’s failure, but wants to outperform him."
     },
     "future": {
       "ko": "가족은 라크로스를 지지하며 장기적으로 법·정책·재단계 진로를 기대한다.",
@@ -476,8 +476,8 @@ window.PLAYERS = [
           "en": "Comparison and trust"
         },
         "body": {
-          "ko": "키건과의 관계에는 경쟁과 열등감 요소가 함께 존재한다. 친구로서의 신뢰와 경쟁심이 공존하는 관계다.",
-          "en": "His relationship with Mercer includes competition and feelings of inferiority alongside friendship and mutual trust."
+          "ko": "키건은 친구이자 가장 강한 경쟁자다. 진심으로 신뢰하면서도 더 높은 평가를 받는 키건에게 경쟁심과 열등감을 느낀다. 키건이 실패하기를 바라지 않으며 자신이 그보다 잘하기를 원한다.",
+          "en": "Keegan is his friend and strongest competitor. Genuine trust coexists with competitiveness and inferiority toward the higher-rated Keegan. He does not want Keegan to fail; he wants to do better himself."
         }
       },
       {
@@ -530,8 +530,8 @@ window.PLAYERS = [
           "en": "Intimacy · Control and response"
         },
         "body": {
-          "ko": "Dom / Control / Tease Top. Delay, Pacing, Verbal Reaction, Neck / Collarbone을 선호한다. 정돈된 상대가 흐트러지는 모습에 끌리며, 자신은 통제력을 유지하려 한다.",
-          "en": "Dom / Control / Tease Top. Preferences include delay, pacing, verbal reactions, neck and collarbone. Drawn to seeing a composed partner become unraveled while maintaining his own control."
+          "ko": "돔·컨트롤·탑·디그레이더이며 약한 사디스트 성향이 있다. 지연·속도 조절, 목·쇄골, 단정한 상대가 흐트러지는 모습을 선호한다. 본인은 여유를 유지한다.",
+          "en": "Dom / Control / Top / Degrader, with a mild sadistic inclination. Preferences include delay, pacing, neck and collarbone, and seeing a composed partner become unraveled. He maintains his own composure."
         }
       }
     ],
@@ -551,8 +551,8 @@ window.PLAYERS = [
           "en": "Intimacy · Control and response"
         },
         "body": {
-          "ko": "Dom / Control / Tease Top. Delay, Pacing, Verbal Reaction, Neck / Collarbone을 선호한다. 정돈된 상대가 흐트러지는 모습에 끌리며, 자신은 통제력을 유지하려 한다.",
-          "en": "Dom / Control / Tease Top. Preferences include delay, pacing, verbal reactions, neck and collarbone. Drawn to seeing a composed partner become unraveled while maintaining his own control."
+          "ko": "돔·컨트롤·탑·디그레이더이며 약한 사디스트 성향이 있다. 지연·속도 조절, 목·쇄골, 단정한 상대가 흐트러지는 모습을 선호한다. 본인은 여유를 유지한다.",
+          "en": "Dom / Control / Top / Degrader, with a mild sadistic inclination. Preferences include delay, pacing, neck and collarbone, and seeing a composed partner become unraveled. He maintains his own composure."
         },
         "sources": [
           "private",
@@ -760,8 +760,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "키건 머서는 친구이자 가장 강한 라이벌이다. 두 선수 사이에는 상호 신뢰가 있다.",
-              "en": "Keegan Mercer is both a friend and his strongest rival. The two players share mutual trust."
+              "ko": "키건은 친구이자 가장 강한 경쟁자다. 진심으로 신뢰하지만 더 높은 평가를 받는 키건에게 강한 경쟁심과 열등감을 느낀다. 키건의 실패를 바라지는 않으나 그보다 잘하고 싶어 한다.",
+              "en": "Keegan is his friend and strongest competitor. He genuinely trusts him, while feeling strong competitiveness and inferiority toward the higher-rated Keegan. He does not wish for Keegan’s failure, but wants to outperform him."
             },
             "sources": [
               "staff"
@@ -773,8 +773,8 @@ window.PLAYERS = [
               "en": "Comparison and trust"
             },
             "body": {
-              "ko": "키건과의 관계에는 경쟁과 열등감 요소가 함께 존재한다. 친구로서의 신뢰와 경쟁심이 공존하는 관계다.",
-              "en": "His relationship with Mercer includes competition and feelings of inferiority alongside friendship and mutual trust."
+              "ko": "키건은 친구이자 가장 강한 경쟁자다. 진심으로 신뢰하면서도 더 높은 평가를 받는 키건에게 경쟁심과 열등감을 느낀다. 키건이 실패하기를 바라지 않으며 자신이 그보다 잘하기를 원한다.",
+              "en": "Keegan is his friend and strongest competitor. Genuine trust coexists with competitiveness and inferiority toward the higher-rated Keegan. He does not want Keegan to fail; he wants to do better himself."
             },
             "sources": [
               "private",
@@ -938,8 +938,8 @@ window.PLAYERS = [
           "en": "Intimacy · Play and pushback"
         },
         "body": {
-          "ko": "Bratty / Provocative Top. Verbal Teasing, Reaction Watching, Thighs를 선호한다. 상대가 반격하거나 맞받아치면 상황에 맞게 장난스럽게 변주한다.",
-          "en": "Bratty / Provocative Top. Preferences include verbal teasing, watching reactions and thighs. When a partner pushes back or answers in kind, he playfully varies his response to fit the situation."
+          "ko": "브랫티한 도발형 탑이며 언어적 티징을 즐긴다. 말로 긁기·반응 구경·허벅지를 선호한다. 상대가 받아치거나 버티면 장난과 변주가 늘어난다.",
+          "en": "Bratty / Provocative Top with verbal teasing. Preferences include provoking with words, watching reactions and thighs. When a partner answers back or holds out, he increases the playfulness and variation."
         }
       }
     ],
@@ -959,8 +959,8 @@ window.PLAYERS = [
           "en": "Intimacy · Play and pushback"
         },
         "body": {
-          "ko": "Bratty / Provocative Top. Verbal Teasing, Reaction Watching, Thighs를 선호한다. 상대가 반격하거나 맞받아치면 상황에 맞게 장난스럽게 변주한다.",
-          "en": "Bratty / Provocative Top. Preferences include verbal teasing, watching reactions and thighs. When a partner pushes back or answers in kind, he playfully varies his response to fit the situation."
+          "ko": "브랫티한 도발형 탑이며 언어적 티징을 즐긴다. 말로 긁기·반응 구경·허벅지를 선호한다. 상대가 받아치거나 버티면 장난과 변주가 늘어난다.",
+          "en": "Bratty / Provocative Top with verbal teasing. Preferences include provoking with words, watching reactions and thighs. When a partner answers back or holds out, he increases the playfulness and variation."
         },
         "sources": [
           "private",
@@ -1360,8 +1360,8 @@ window.PLAYERS = [
           "en": "Intimacy · Sustained contact"
         },
         "body": {
-          "ko": "Low-temperature Service / Sensual Top. Hands / Fingers, Lower Back, Long physical contact를 선호한다. 조용하게 주도하고 예상외로 끈질긴 면이 있으며, 관계 후에는 오히려 더 붙어 있으려 한다.",
-          "en": "Low-temperature Service / Sensual Top. Preferences include hands and fingers, the lower back and prolonged physical contact. Leads quietly, can be unexpectedly persistent, and tends to stay even closer afterward."
+          "ko": "저온 서비스·센슈얼탑·손 페티쉬 성향. 손·손가락·등허리선·오래 밀착하는 접촉을 선호한다. 말보다 접촉으로 조용히 이끌며 의외로 집요하다. 끝난 뒤에는 어리광이 늘어난다.",
+          "en": "Low-temperature Service / Sensual Top with a hand fetish. Preferences include hands, fingers, the lower-back line and prolonged close contact. Leads quietly through touch rather than words and is unexpectedly persistent. Becomes more cuddly and seeks indulgence afterward."
         }
       }
     ],
@@ -1381,8 +1381,8 @@ window.PLAYERS = [
           "en": "Intimacy · Sustained contact"
         },
         "body": {
-          "ko": "Low-temperature Service / Sensual Top. Hands / Fingers, Lower Back, Long physical contact를 선호한다. 조용하게 주도하고 예상외로 끈질긴 면이 있으며, 관계 후에는 오히려 더 붙어 있으려 한다.",
-          "en": "Low-temperature Service / Sensual Top. Preferences include hands and fingers, the lower back and prolonged physical contact. Leads quietly, can be unexpectedly persistent, and tends to stay even closer afterward."
+          "ko": "저온 서비스·센슈얼탑·손 페티쉬 성향. 손·손가락·등허리선·오래 밀착하는 접촉을 선호한다. 말보다 접촉으로 조용히 이끌며 의외로 집요하다. 끝난 뒤에는 어리광이 늘어난다.",
+          "en": "Low-temperature Service / Sensual Top with a hand fetish. Preferences include hands, fingers, the lower-back line and prolonged close contact. Leads quietly through touch rather than words and is unexpectedly persistent. Becomes more cuddly and seeks indulgence afterward."
         },
         "sources": [
           "private",
@@ -1720,16 +1720,16 @@ window.PLAYERS = [
       "en": "Developed in German lacrosse before moving to NCAA competition in the United States."
     },
     "style": {
-      "ko": "수비 조율과 안정적인 세이브가 강점인 골키퍼·주장. 차분하고 정확하며 팬서비스는 절제된 편이다. 그랜트와 경기 중 호흡이 좋다.",
-      "en": "A goalkeeper and captain strong in defensive organization and reliable saves. Calm and exact, with restrained fan engagement. Coordinates well with Grant in matches."
+      "ko": "수비 조율과 안정적인 세이브가 강점인 골키퍼·주장. 차분하고 정확하며 팬서비스는 절제된 편이다.",
+      "en": "A goalkeeper and captain whose strengths are defensive coordination and reliable saves. Calm and precise, with restrained fan interaction."
     },
     "residence": {
       "ko": "Ravens House의 4인 스위트에 거주한다. 라키, 그랜트, 다른 남자 팀원 한 명과 함께 사용한다. 각자 개인 침실을 사용한다.",
       "en": "Lives in a four-person Ravens House suite with Lachie, Grant and one unnamed member of the men’s lacrosse team. Each has an individual bedroom."
     },
     "languages": {
-      "ko": "독일어가 모국어다. 영어는 C1~C2 수준이며 약한 독일어 억양이 남아 있다. 평소 정중·명료·직설적이며 화가 날수록 낮고 짧고 정확하게 말한다.",
-      "en": "Native German; English at C1–C2 level, with a slight German accent. Usually courteous, clear and direct; when angry, speaks more quietly, briefly and precisely."
+      "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다. 수치·기술·의학·군대 보고체를 일상적으로 쓰지 않는다. 당황하거나 감정을 합리화할 때는 설명이 길어져도 일상어를 유지한다.",
+      "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion. Numerical, technical, medical and military-report phrasing are not his everyday register. Explanations may lengthen when flustered or rationalizing feelings, while remaining ordinary in wording."
     },
     "appearance": {
       "ko": "단정한 애시·다크 블론드 머리, 회청색 눈, 각진 이목구비. 넓고 큰 골키퍼 체형에 절제된 인상이다.",
@@ -1744,8 +1744,8 @@ window.PLAYERS = [
       "en": "Calm, exact, diligent and responsible, with strong perfectionism and self-control. Responds practically to others’ mistakes but is particularly harsh toward his own."
     },
     "staff": {
-      "ko": "그랜트와는 4학년 동기로 실력을 서로 존중하고 경기 중 호흡이 좋다. 도움을 받거나 약함을 드러내는 데 익숙하지 않다.",
-      "en": "Shares senior standing with Grant; they respect one another’s ability and coordinate well in matches. Is unaccustomed to receiving help or showing weakness."
+      "ko": "침착·정확·성실하고 책임감이 강한 모범 주장이다. 팬서비스는 화려하지 않으며, 도움을 받거나 약함을 드러내는 데 익숙하지 않다.",
+      "en": "A calm, precise and diligent model captain with a strong sense of responsibility. Fan interaction is restrained, and he is unaccustomed to receiving help or revealing weakness."
     },
     "future": {
       "ko": "군 진로를 선택하지 않았다. 가족은 본인이 독립적으로 선택한 비군인 진로를 받아들인다.",
@@ -1800,8 +1800,8 @@ window.PLAYERS = [
           "en": "Decision after recognition"
         },
         "body": {
-          "ko": "관심이 없으면 거절한다. 사랑을 자각할 때는 이미 결정이 내려져 있는 편이며, 게임을 하기보다 직접 고백한다. 거절받는다고 상대의 중요성이 즉시 사라지지는 않는다.",
-          "en": "Rejects advances when not interested. By the time he recognizes love, he has usually already decided, and confesses directly rather than playing games. Rejection does not immediately erase the other person’s importance."
+          "ko": "마음이 없는 고백은 거절한다. 애정을 자각하기 전에도 만나고 싶으면 먼저 약속을 잡거나 접촉을 시도하며, 합리화하더라도 행동을 유보하지 않는다. 사랑을 자각한 뒤에는 밀당 없이 직접 고백한다. 관계의 거절은 받아들이지만 자기 감정과 상대의 중요성을 즉시 철회하지는 않는다.",
+          "en": "He rejects confessions when he has no feelings. Even before recognizing affection, he initiates plans or contact when he wants to meet, rather than postponing action while rationalizing it. After recognizing love he confesses directly without games. He accepts rejection of a relationship without immediately withdrawing his feelings or the other person’s importance."
         }
       },
       {
@@ -1810,8 +1810,8 @@ window.PLAYERS = [
           "en": "Checking across distance"
         },
         "body": {
-          "ko": "깊은 애착과 거리감이 함께 생기면 공개 정보나 알고 있는 일상을 확인하고, 우연처럼 보이는 장소에 나타나는 행동을 안전을 위한 관심으로 합리화할 수 있다. 침입·위치추적기·협박·폭력으로 이어지는 성향은 아니다.",
-          "en": "When deep attachment coexists with distance, may rationalize checking public information or familiar routines, or appearing in a seemingly coincidental place, as concern for safety. This does not extend to intrusion, tracking devices, threats or violence."
+          "ko": "깊은 애착과 상대의 거리두기가 겹치면 공개 정보와 기존 패턴으로 상대의 상태를 확인하거나 우연을 가장해 근처에 나타날 수 있다. 이를 안전 관리로 합리화한다.",
+          "en": "When deep attachment coincides with the other person distancing themselves, he may check their condition through public information and familiar patterns, or appear nearby as though by chance. He rationalizes this as safety management."
         }
       },
       {
@@ -1820,8 +1820,8 @@ window.PLAYERS = [
           "en": "Redirecting control"
         },
         "body": {
-          "ko": "통제가 사라지기보다는 타인에게서 자신의 준비·환경·행동으로 방향이 옮겨갈 수 있다. 일방적인 결정 대신 제안과 동의를 배우며, “내가 더 잘할 수 있다”와 “내가 결정할 권리가 있다”를 분리할 수 있다.",
-          "en": "Control may shift from other people toward his own preparation, environment and behavior rather than disappear. Can learn proposals and consent in place of unilateral decisions, separating “I can do it better” from “I have the right to decide.”"
+          "ko": "통제 성향이 사라지기보다는 상대 행동까지 관리하려는 방식에서 자기 준비와 환경만 통제하는 방향으로 변한다. 일방적인 처리보다 제안과 동의를 배우며, “더 잘할 수 있다”와 “대신 결정할 권리가 있다”를 구분한다.",
+          "en": "His controlling tendency shifts rather than disappears: from managing another person’s behavior to controlling only his own preparation and environment. He learns proposals and consent rather than unilateral handling, distinguishing “I can do it better” from “I have the right to decide for them.”"
         }
       }
     ],
@@ -1832,8 +1832,8 @@ window.PLAYERS = [
           "en": "Intimacy · Protection and checking"
         },
         "body": {
-          "ko": "리비도는 중간. Protector Dom / Service Top. 통제·책임·돌봄이 연결된다. 부드러운 유도, 가벼운 구속, 시선 통제, 오르가슴 통제를 선호하며, 반응 확인과 Aftercare를 중시한다.",
-          "en": "Moderate libido. Protector Dom / Service Top, connecting control with responsibility and care. Preferences include gentle guidance, light restraint, gaze control and orgasm control, with ongoing checks and attention to aftercare."
+          "ko": "마스터·돔·서비스탑·본디지 성향. 지배·규칙·결박을 선호한다. 부드러운 지시·결박·시선 및 절정 조절을 좋아하며 상대 상태 확인과 애프터케어를 중시한다.",
+          "en": "Master / Dom / Service Top / Bondage. Prefers dominance, rules and bondage. Preferences include gentle instructions, bondage, gaze and climax control, with attention to the partner’s condition and aftercare."
         }
       }
     ],
@@ -1849,8 +1849,8 @@ window.PLAYERS = [
           "en": "Intimacy · Protection and checking"
         },
         "body": {
-          "ko": "리비도는 중간. Protector Dom / Service Top. 통제·책임·돌봄이 연결된다. 부드러운 유도, 가벼운 구속, 시선 통제, 오르가슴 통제를 선호하며, 반응 확인과 Aftercare를 중시한다.",
-          "en": "Moderate libido. Protector Dom / Service Top, connecting control with responsibility and care. Preferences include gentle guidance, light restraint, gaze control and orgasm control, with ongoing checks and attention to aftercare."
+          "ko": "마스터·돔·서비스탑·본디지 성향. 지배·규칙·결박을 선호한다. 부드러운 지시·결박·시선 및 절정 조절을 좋아하며 상대 상태 확인과 애프터케어를 중시한다.",
+          "en": "Master / Dom / Service Top / Bondage. Prefers dominance, rules and bondage. Preferences include gentle instructions, bondage, gaze and climax control, with attention to the partner’s condition and aftercare."
         },
         "sources": [
           "private",
@@ -1864,8 +1864,8 @@ window.PLAYERS = [
           "en": "Decision after recognition"
         },
         "body": {
-          "ko": "관심이 없으면 거절한다. 사랑을 자각할 때는 이미 결정이 내려져 있는 편이며, 게임을 하기보다 직접 고백한다. 거절받는다고 상대의 중요성이 즉시 사라지지는 않는다.",
-          "en": "Rejects advances when not interested. By the time he recognizes love, he has usually already decided, and confesses directly rather than playing games. Rejection does not immediately erase the other person’s importance."
+          "ko": "마음이 없는 고백은 거절한다. 애정을 자각하기 전에도 만나고 싶으면 먼저 약속을 잡거나 접촉을 시도하며, 합리화하더라도 행동을 유보하지 않는다. 사랑을 자각한 뒤에는 밀당 없이 직접 고백한다. 관계의 거절은 받아들이지만 자기 감정과 상대의 중요성을 즉시 철회하지는 않는다.",
+          "en": "He rejects confessions when he has no feelings. Even before recognizing affection, he initiates plans or contact when he wants to meet, rather than postponing action while rationalizing it. After recognizing love he confesses directly without games. He accepts rejection of a relationship without immediately withdrawing his feelings or the other person’s importance."
         },
         "sources": [
           "private",
@@ -1879,8 +1879,8 @@ window.PLAYERS = [
           "en": "Checking across distance"
         },
         "body": {
-          "ko": "깊은 애착과 거리감이 함께 생기면 공개 정보나 알고 있는 일상을 확인하고, 우연처럼 보이는 장소에 나타나는 행동을 안전을 위한 관심으로 합리화할 수 있다. 침입·위치추적기·협박·폭력으로 이어지는 성향은 아니다.",
-          "en": "When deep attachment coexists with distance, may rationalize checking public information or familiar routines, or appearing in a seemingly coincidental place, as concern for safety. This does not extend to intrusion, tracking devices, threats or violence."
+          "ko": "깊은 애착과 상대의 거리두기가 겹치면 공개 정보와 기존 패턴으로 상대의 상태를 확인하거나 우연을 가장해 근처에 나타날 수 있다. 이를 안전 관리로 합리화한다.",
+          "en": "When deep attachment coincides with the other person distancing themselves, he may check their condition through public information and familiar patterns, or appear nearby as though by chance. He rationalizes this as safety management."
         },
         "sources": [
           "private",
@@ -1955,8 +1955,8 @@ window.PLAYERS = [
               "en": "Languages & Speech"
             },
             "body": {
-              "ko": "독일어가 모국어다. 영어는 C1~C2 수준이며 약한 독일어 억양이 남아 있다. 평소 정중·명료·직설적이며 화가 날수록 낮고 짧고 정확하게 말한다.",
-              "en": "Native German; English at C1–C2 level, with a slight German accent. Usually courteous, clear and direct; when angry, speaks more quietly, briefly and precisely."
+              "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다. 수치·기술·의학·군대 보고체를 일상적으로 쓰지 않는다. 당황하거나 감정을 합리화할 때는 설명이 길어져도 일상어를 유지한다.",
+              "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion. Numerical, technical, medical and military-report phrasing are not his everyday register. Explanations may lengthen when flustered or rationalizing feelings, while remaining ordinary in wording."
             },
             "sources": [
               "staff"
@@ -2003,8 +2003,8 @@ window.PLAYERS = [
               "en": "Playing Profile"
             },
             "body": {
-              "ko": "수비 조율과 안정적인 세이브가 강점인 골키퍼·주장. 차분하고 정확하며 팬서비스는 절제된 편이다. 그랜트와 경기 중 호흡이 좋다.",
-              "en": "A goalkeeper and captain strong in defensive organization and reliable saves. Calm and exact, with restrained fan engagement. Coordinates well with Grant in matches."
+              "ko": "수비 조율과 안정적인 세이브가 강점인 골키퍼·주장. 차분하고 정확하며 팬서비스는 절제된 편이다.",
+              "en": "A goalkeeper and captain whose strengths are defensive coordination and reliable saves. Calm and precise, with restrained fan interaction."
             },
             "sources": [
               "staff"
@@ -2084,8 +2084,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "그랜트와는 4학년 동기로 실력을 서로 존중하고 경기 중 호흡이 좋다. 도움을 받거나 약함을 드러내는 데 익숙하지 않다.",
-              "en": "Shares senior standing with Grant; they respect one another’s ability and coordinate well in matches. Is unaccustomed to receiving help or showing weakness."
+              "ko": "침착·정확·성실하고 책임감이 강한 모범 주장이다. 팬서비스는 화려하지 않으며, 도움을 받거나 약함을 드러내는 데 익숙하지 않다.",
+              "en": "A calm, precise and diligent model captain with a strong sense of responsibility. Fan interaction is restrained, and he is unaccustomed to receiving help or revealing weakness."
             },
             "sources": [
               "staff"
@@ -2166,8 +2166,8 @@ window.PLAYERS = [
               "en": "Redirecting control"
             },
             "body": {
-              "ko": "통제가 사라지기보다는 타인에게서 자신의 준비·환경·행동으로 방향이 옮겨갈 수 있다. 일방적인 결정 대신 제안과 동의를 배우며, “내가 더 잘할 수 있다”와 “내가 결정할 권리가 있다”를 분리할 수 있다.",
-              "en": "Control may shift from other people toward his own preparation, environment and behavior rather than disappear. Can learn proposals and consent in place of unilateral decisions, separating “I can do it better” from “I have the right to decide.”"
+              "ko": "통제 성향이 사라지기보다는 상대 행동까지 관리하려는 방식에서 자기 준비와 환경만 통제하는 방향으로 변한다. 일방적인 처리보다 제안과 동의를 배우며, “더 잘할 수 있다”와 “대신 결정할 권리가 있다”를 구분한다.",
+              "en": "His controlling tendency shifts rather than disappears: from managing another person’s behavior to controlling only his own preparation and environment. He learns proposals and consent rather than unilateral handling, distinguishing “I can do it better” from “I have the right to decide for them.”"
             },
             "sources": [
               "private",
@@ -2204,12 +2204,12 @@ window.PLAYERS = [
     "positionKey": "Attack",
     "height": 182,
     "origin": {
-      "ko": "미국",
-      "en": "United States"
+      "ko": "미국 출생",
+      "en": "Born in the United States"
     },
     "bio": {
-      "ko": "국제경영학을 전공하는 3학년 공격수. 상냥하고 세련되며 사회적 상황을 빠르게 읽는다. 라키 프레이저와 함께 공식 행사와 팬 응대에 자주 참여한다.",
-      "en": "A junior attack player studying International Business. Kind, polished and socially perceptive, Tamoi frequently appears alongside Lachie Fraser at official events and fan engagements."
+      "ko": "국제경영학을 전공하는 3학년 공격수. 상냥하고 세련되며 사회적 상황을 빠르게 읽는다. 공격 전개와 마무리, 팬 응대·사진·인터뷰에 능숙하다.",
+      "en": "A junior attack majoring in International Business. Warm and polished, he reads social situations quickly and is skilled at building attacks, finishing, fan interaction, photos and interviews."
     },
     "career": {
       "ko": "Harrowgate Ravens의 3학년 어택. 공격 전개와 마무리에 능숙하다.",
@@ -2232,16 +2232,16 @@ window.PLAYERS = [
       "en": "Short, neat dark-brown to black layered hair, optionally with a clean part. Pink eyes, soft clear skin and an ear cuff. A slender athletic build and polished appearance."
     },
     "family": {
-      "ko": "미국 출생의 일본계 미국인으로 미·일 복수국적 출생 배경을 가진다. 20세 전에 진로와 생활기반을 고려해 본인의 결정으로 미국 국적을 선택했다. 田茂井는 희귀 성씨다. 아버지 집안은 교토 북부·단고 지역의 오래된 민간 상업 자산가로, 섬유에서 부동산·자산·브랜드로 이어졌다. 귀족·왕족·군벌 가문은 아니다. 어머니는 미국인이다. 어린 시절 일본과 미국을 왕래하며 성장했다. 어머니는 미국에 거주한다.",
-      "en": "A US-born Japanese American with a US–Japanese dual-national background at birth. Before age 20, chose US nationality on his own decision in consideration of his career and home base. Tamoi is an uncommon surname. His paternal family is longstanding private commercial wealth from northern Kyoto / Tango, developing from textiles into property, assets and brands. It is not an aristocratic, royal or warlord family. His mother is American. Grew up traveling between Japan and the United States. His mother lives in the United States."
+      "ko": "미국 출생으로 어린 시절 일본과 미국을 왕래하며 성장했다. 田茂井는 희귀 성씨다. 아버지 집안은 교토 북부·단고 지역의 오래된 민간 상업 자산가로, 전통 직물에서 부동산·자산운용·브랜드로 이어졌다. 공가·화족·군부 명문은 아니다. 어머니는 미국에 거주한다.",
+      "en": "Born in the United States, he grew up moving between Japan and the US. Tamoi is an uncommon surname. His paternal family is longstanding private commercial wealth in northern Kyoto / Tango, developing from traditional textiles into real estate, asset management and brands. It is not a court-aristocratic, peerage or military elite family. His mother lives in the United States."
     },
     "training": {
       "ko": "상냥하고 세련되며 눈치가 빠르다. 예의 바르고 팬서비스에 능숙하며 사회적인 상황을 매끄럽게 다룬다.",
       "en": "Kind, polished and perceptive; courteous, accomplished at fan service and smooth in social situations."
     },
     "staff": {
-      "ko": "라키와 함께 팀의 팬서비스 투톱으로 공식 행사·팬 응대에 자주 노출된다. 상처받거나 화날수록 오히려 더 예의 바르고 정중해지는 경향이 있다.",
-      "en": "One of the team’s two leading fan-service presences alongside Lachie, frequently appearing together at official events. Tends to become more courteous and formal when hurt or angry."
+      "ko": "상냥하고 예의 바르며 사회성과 눈치가 좋다. 팬 응대·사진·인터뷰에 능숙하며 상처받으면 과도하게 정중해진다.",
+      "en": "Warm, courteous and socially adept, with good awareness of others. Skilled with fans, photos and interviews, becoming excessively polite when hurt."
     },
     "future": null,
     "restrictedRecords": [
@@ -2257,22 +2257,12 @@ window.PLAYERS = [
       },
       {
         "title": {
-          "ko": "호칭과 등번호",
-          "en": "Forms of address and number"
+          "ko": "가족 호칭",
+          "en": "Family Forms of Address"
         },
         "body": {
-          "ko": "아버지를 父上라고 부른다. 어머니는 사적으로 ママ, 공적으로 母라고 한다. 처음에는 어머니 생일과 연결된 #9를 원했지만 아버지가 九=苦의 연상을 이유로 반대했다. 이후 五円 / go-en → ご縁의 언어유희와 연결해 #5를 선택했다.",
-          "en": "Addresses his father as 父上. Refers to his mother privately as ママ and publicly as 母. Originally wanted #9 in connection with her birthday; his father objected to the association of 九 with 苦. Chose #5 through the 五円 / go-en → ご縁 wordplay."
-        }
-      },
-      {
-        "title": {
-          "ko": "국적 선택과 가족의 거리",
-          "en": "Nationality choice and family distance"
-        },
-        "body": {
-          "ko": "미·일 복수국적 출생 배경을 가진 미국인이다. 20세 전에 현실적인 진로와 생활기반을 고려해 본인의 결정으로 미국 국적을 선택했다. 아버지가 반대하면서 두 사람 사이에 거리감이 생겼다.",
-          "en": "An American with a US–Japanese dual-national background at birth. Before age 20, chose US nationality on his own decision, considering his practical career and home base. His father opposed the decision, creating distance between them."
+          "ko": "아버지는 父上, 어머니는 ママ라고 부른다. 아버지 집안 어른에게는 높은 경어를, 친한 또래에게는 보통체를 쓴다.",
+          "en": "He addresses his father as 父上 and his mother as ママ. He uses high honorific language with paternal elders and ordinary speech with close peers."
         }
       }
     ],
@@ -2283,8 +2273,8 @@ window.PLAYERS = [
           "en": "Feelings that can change silently"
         },
         "body": {
-          "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 관계가 가까워질수록 확인받고 싶은 욕구와 불안이 증가한다. 작은 표정·말투·반응 변화를 과해석하기 쉽고, 자신이 지나치게 생각한다는 사실을 어느 정도는 알고 있다.",
-          "en": "“People’s feelings can change silently.” As a relationship becomes closer, anxiety and the need for reassurance increase. Small changes in expression, tone or response can be overinterpreted; he is partly aware that he is thinking too much."
+          "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 외적으로 사회적 기능을 잘 유지하는 고기능 멘헤라 성향이며, 가까울수록 애정 불안·질투·확인 욕구가 커진다. 사소한 변화를 자기와 연결해 해석한다. 자신의 과민함을 일부 자각해도 그것이 해소되지는 않는다.",
+          "en": "“People’s feelings can change without a word.” He has a high-functioning “menhera” disposition, maintaining outward social functioning while attachment anxiety, jealousy and the need for confirmation grow with closeness. He connects small changes to himself; partial awareness of his oversensitivity does not resolve it."
         }
       },
       {
@@ -2293,8 +2283,8 @@ window.PLAYERS = [
           "en": "Reanalysis after reassurance"
         },
         "body": {
-          "ko": "감지 → 과해석 → 질문 → 일시적인 안심 → 안심시킨 방식까지 다시 분석. 확인을 받은 순간에도 그 확인의 형태가 다시 분석의 대상이 될 수 있다.",
-          "en": "Detection → overinterpretation → questions → temporary reassurance → analysis of the way reassurance was given. Even reassurance can become the subject of renewed interpretation."
+          "ko": "미세한 변화 감지 → 과잉 해석 → 직접 확인 → 잠깐 안심 → 답과 확인 방식 재분석. 같은 질문을 변형해 반복하고 과거와 현재의 표현을 비교하며 답의 말투까지 분석해 새로운 의심을 만들 수 있다.",
+          "en": "Noticing minute changes → overinterpreting → asking directly → brief reassurance → reanalyzing the answer and the way reassurance was given. He may repeat variants of the same question, compare past and present expressions and analyze the tone of an answer, generating fresh doubts."
         }
       },
       {
@@ -2303,8 +2293,8 @@ window.PLAYERS = [
           "en": "Direct expression instead of inference"
         },
         "body": {
-          "ko": "추론을 사실처럼 몰아붙이기보다 “불안하다”, “확인받고 싶다”라고 직접 말하고 상대의 답을 존중하는 방향으로 성장할 수 있다. 변화 이후에도 안심을 주는 표현, 상징적인 행동, 명시적인 애정을 좋아하는 성향은 남는다.",
-          "en": "Can learn to say “I’m anxious” or “I need reassurance” directly and respect the answer, rather than press an inference as fact. Reassurance, symbolic gestures and explicit affection remain valued after that change."
+          "ko": "과잉 관찰과 확인 욕구가 사라지는 것은 아니다. 불안을 사실로 단정하고 심문하기보다 “내가 불안하다”, “확인받고 싶다”고 직접 표현하며 받은 답을 존중하는 법을 배운다. 상대를 믿기로 선택해도 reassurance·관계 상징·명확한 표현을 계속 좋아한다.",
+          "en": "Over-observation and the need for confirmation do not disappear. He learns to express “I feel anxious” and “I want reassurance” directly, and to respect answers, rather than treating anxiety as fact and interrogating. Even when choosing to trust someone, he continues to like reassurance, relationship symbols and explicit expressions."
         }
       },
       {
@@ -2321,29 +2311,29 @@ window.PLAYERS = [
     "sealedRecords": [
       {
         "title": {
-          "ko": "친밀감 · 인정과 숭배",
-          "en": "Intimacy · Affirmation and worship"
+          "ko": "친밀감 · 확인과 칭찬",
+          "en": "Intimacy · Reassurance and praise"
         },
         "body": {
-          "ko": "Classic Praise / Affirmation 성향. Foot Fetish 요소가 있으며 친밀감과 Worship 방향이다. Humiliation / Dirty 계열은 아니다.",
-          "en": "Classic Praise / Affirmation orientation, with a foot fetish directed toward intimacy and worship, rather than humiliation or a dirty orientation."
+          "ko": "서비스탑이며 친밀 욕구가 높다. 발 페티쉬·프레이즈 킨크·어펌메이션 성향으로 애정의 지속성과 일관성을 확인하는 것을 선호한다. 구체적 칭찬·애정 확인·“너라서 원한다”는 표현·눈맞춤·감정 고백·관계 상징·사적 마킹을 좋아한다. 맨발·발목·발등, 발을 만지거나 입맞추는 접촉을 선호한다.",
+          "en": "Service Top with a strong desire for intimacy. Foot fetish / Praise Kink / Affirmation, preferring reassurance of affection’s continuity and consistency. Preferences include specific praise, affirmation, “I want you because it is you,” eye contact, emotional confessions, relationship symbols and private marking, along with bare feet, ankles, the tops of feet, and touching or kissing feet."
         }
       }
     ],
     "birthday": "02-18",
     "nationality": {
-      "ko": "미국",
-      "en": "United States"
+      "ko": "미국. 미·일 복수국적으로 태어났으며 20세 전에 현실적인 진로와 생활기반을 고려해 본인의 결정으로 미국 국적을 선택했다. 아버지가 반대하면서 두 사람 사이에 거리감이 생겼다.",
+      "en": "American. Born with US–Japanese dual nationality, he chose US nationality before age 20 on his own decision, considering his practical career and home base. His father’s opposition created distance between them."
     },
     "sensitiveRecords": [
       {
         "title": {
-          "ko": "친밀감 · 인정과 숭배",
-          "en": "Intimacy · Affirmation and worship"
+          "ko": "친밀감 · 확인과 칭찬",
+          "en": "Intimacy · Reassurance and praise"
         },
         "body": {
-          "ko": "Classic Praise / Affirmation 성향. Foot Fetish 요소가 있으며 친밀감과 Worship 방향이다. Humiliation / Dirty 계열은 아니다.",
-          "en": "Classic Praise / Affirmation orientation, with a foot fetish directed toward intimacy and worship, rather than humiliation or a dirty orientation."
+          "ko": "서비스탑이며 친밀 욕구가 높다. 발 페티쉬·프레이즈 킨크·어펌메이션 성향으로 애정의 지속성과 일관성을 확인하는 것을 선호한다. 구체적 칭찬·애정 확인·“너라서 원한다”는 표현·눈맞춤·감정 고백·관계 상징·사적 마킹을 좋아한다. 맨발·발목·발등, 발을 만지거나 입맞추는 접촉을 선호한다.",
+          "en": "Service Top with a strong desire for intimacy. Foot fetish / Praise Kink / Affirmation, preferring reassurance of affection’s continuity and consistency. Preferences include specific praise, affirmation, “I want you because it is you,” eye contact, emotional confessions, relationship symbols and private marking, along with bare feet, ankles, the tops of feet, and touching or kissing feet."
         },
         "sources": [
           "private",
@@ -2388,12 +2378,25 @@ window.PLAYERS = [
           },
           {
             "title": {
-              "ko": "생일 · 국적",
-              "en": "Birthday & Nationality"
+              "ko": "국적",
+              "en": "Nationality"
             },
             "body": {
-              "ko": "02월 18일 · 미국",
-              "en": "02 / 18 · United States"
+              "ko": "미국. 미·일 복수국적으로 태어났으며 20세 전에 현실적인 진로와 생활기반을 고려해 본인의 결정으로 미국 국적을 선택했다. 아버지가 반대하면서 두 사람 사이에 거리감이 생겼다.",
+              "en": "American. Born with US–Japanese dual nationality, he chose US nationality before age 20 on his own decision, considering his practical career and home base. His father’s opposition created distance between them."
+            },
+            "sources": [
+              "administrative"
+            ]
+          },
+          {
+            "title": {
+              "ko": "생일",
+              "en": "Birthday"
+            },
+            "body": {
+              "ko": "2월 18일",
+              "en": "February 18"
             },
             "sources": [
               "administrative"
@@ -2488,8 +2491,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "미국 출생의 일본계 미국인으로 미·일 복수국적 출생 배경을 가진다. 20세 전에 진로와 생활기반을 고려해 본인의 결정으로 미국 국적을 선택했다. 田茂井는 희귀 성씨다. 아버지 집안은 교토 북부·단고 지역의 오래된 민간 상업 자산가로, 섬유에서 부동산·자산·브랜드로 이어졌다. 귀족·왕족·군벌 가문은 아니다. 어머니는 미국인이다. 어린 시절 일본과 미국을 왕래하며 성장했다. 어머니는 미국에 거주한다.",
-              "en": "A US-born Japanese American with a US–Japanese dual-national background at birth. Before age 20, chose US nationality on his own decision in consideration of his career and home base. Tamoi is an uncommon surname. His paternal family is longstanding private commercial wealth from northern Kyoto / Tango, developing from textiles into property, assets and brands. It is not an aristocratic, royal or warlord family. His mother is American. Grew up traveling between Japan and the United States. His mother lives in the United States."
+              "ko": "미국 출생으로 어린 시절 일본과 미국을 왕래하며 성장했다. 田茂井는 희귀 성씨다. 아버지 집안은 교토 북부·단고 지역의 오래된 민간 상업 자산가로, 전통 직물에서 부동산·자산운용·브랜드로 이어졌다. 공가·화족·군부 명문은 아니다. 어머니는 미국에 거주한다.",
+              "en": "Born in the United States, he grew up moving between Japan and the US. Tamoi is an uncommon surname. His paternal family is longstanding private commercial wealth in northern Kyoto / Tango, developing from traditional textiles into real estate, asset management and brands. It is not a court-aristocratic, peerage or military elite family. His mother lives in the United States."
             },
             "sources": [
               "administrative"
@@ -2512,27 +2515,12 @@ window.PLAYERS = [
           },
           {
             "title": {
-              "ko": "호칭과 등번호",
-              "en": "Forms of address and number"
+              "ko": "가족 호칭",
+              "en": "Family Forms of Address"
             },
             "body": {
-              "ko": "아버지를 父上라고 부른다. 어머니는 사적으로 ママ, 공적으로 母라고 한다. 처음에는 어머니 생일과 연결된 #9를 원했지만 아버지가 九=苦의 연상을 이유로 반대했다. 이후 五円 / go-en → ご縁의 언어유희와 연결해 #5를 선택했다.",
-              "en": "Addresses his father as 父上. Refers to his mother privately as ママ and publicly as 母. Originally wanted #9 in connection with her birthday; his father objected to the association of 九 with 苦. Chose #5 through the 五円 / go-en → ご縁 wordplay."
-            },
-            "sources": [
-              "private",
-              "unverified",
-              "unknown"
-            ]
-          },
-          {
-            "title": {
-              "ko": "국적 선택과 가족의 거리",
-              "en": "Nationality choice and family distance"
-            },
-            "body": {
-              "ko": "미·일 복수국적 출생 배경을 가진 미국인이다. 20세 전에 현실적인 진로와 생활기반을 고려해 본인의 결정으로 미국 국적을 선택했다. 아버지가 반대하면서 두 사람 사이에 거리감이 생겼다.",
-              "en": "An American with a US–Japanese dual-national background at birth. Before age 20, chose US nationality on his own decision, considering his practical career and home base. His father opposed the decision, creating distance between them."
+              "ko": "아버지는 父上, 어머니는 ママ라고 부른다. 아버지 집안 어른에게는 높은 경어를, 친한 또래에게는 보통체를 쓴다.",
+              "en": "He addresses his father as 父上 and his mother as ママ. He uses high honorific language with paternal elders and ordinary speech with close peers."
             },
             "sources": [
               "private",
@@ -2577,8 +2565,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "라키와 함께 팀의 팬서비스 투톱으로 공식 행사·팬 응대에 자주 노출된다. 상처받거나 화날수록 오히려 더 예의 바르고 정중해지는 경향이 있다.",
-              "en": "One of the team’s two leading fan-service presences alongside Lachie, frequently appearing together at official events. Tends to become more courteous and formal when hurt or angry."
+              "ko": "상냥하고 예의 바르며 사회성과 눈치가 좋다. 팬 응대·사진·인터뷰에 능숙하며 상처받으면 과도하게 정중해진다.",
+              "en": "Warm, courteous and socially adept, with good awareness of others. Skilled with fans, photos and interviews, becoming excessively polite when hurt."
             },
             "sources": [
               "staff"
@@ -2590,8 +2578,8 @@ window.PLAYERS = [
               "en": "Feelings that can change silently"
             },
             "body": {
-              "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 관계가 가까워질수록 확인받고 싶은 욕구와 불안이 증가한다. 작은 표정·말투·반응 변화를 과해석하기 쉽고, 자신이 지나치게 생각한다는 사실을 어느 정도는 알고 있다.",
-              "en": "“People’s feelings can change silently.” As a relationship becomes closer, anxiety and the need for reassurance increase. Small changes in expression, tone or response can be overinterpreted; he is partly aware that he is thinking too much."
+              "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 외적으로 사회적 기능을 잘 유지하는 고기능 멘헤라 성향이며, 가까울수록 애정 불안·질투·확인 욕구가 커진다. 사소한 변화를 자기와 연결해 해석한다. 자신의 과민함을 일부 자각해도 그것이 해소되지는 않는다.",
+              "en": "“People’s feelings can change without a word.” He has a high-functioning “menhera” disposition, maintaining outward social functioning while attachment anxiety, jealousy and the need for confirmation grow with closeness. He connects small changes to himself; partial awareness of his oversensitivity does not resolve it."
             },
             "sources": [
               "private",
@@ -2605,8 +2593,8 @@ window.PLAYERS = [
               "en": "Reanalysis after reassurance"
             },
             "body": {
-              "ko": "감지 → 과해석 → 질문 → 일시적인 안심 → 안심시킨 방식까지 다시 분석. 확인을 받은 순간에도 그 확인의 형태가 다시 분석의 대상이 될 수 있다.",
-              "en": "Detection → overinterpretation → questions → temporary reassurance → analysis of the way reassurance was given. Even reassurance can become the subject of renewed interpretation."
+              "ko": "미세한 변화 감지 → 과잉 해석 → 직접 확인 → 잠깐 안심 → 답과 확인 방식 재분석. 같은 질문을 변형해 반복하고 과거와 현재의 표현을 비교하며 답의 말투까지 분석해 새로운 의심을 만들 수 있다.",
+              "en": "Noticing minute changes → overinterpreting → asking directly → brief reassurance → reanalyzing the answer and the way reassurance was given. He may repeat variants of the same question, compare past and present expressions and analyze the tone of an answer, generating fresh doubts."
             },
             "sources": [
               "private",
@@ -2622,6 +2610,21 @@ window.PLAYERS = [
             "body": {
               "ko": "애매한 답, 침묵, 갑작스러운 거리 변화가 취약점이다. 작은 변화를 자신과 연결해 해석하며, 애정 그 자체보다 지속성을 믿는 데 어려움이 있다.",
               "en": "Ambiguous answers, silence and sudden changes in distance are vulnerabilities. Connects small changes to himself and finds continuity harder to trust than affection itself."
+            },
+            "sources": [
+              "private",
+              "unverified",
+              "unknown"
+            ]
+          },
+          {
+            "title": {
+              "ko": "반복 확인과 관계 상징",
+              "en": "Repeated Reassurance & Relationship Symbols"
+            },
+            "body": {
+              "ko": "선택·애정·욕망을 반복해서 확인받고 싶어 한다. 관계 상징·둘만의 습관·명확한 애정 표현에서 안정감을 얻는다.",
+              "en": "He wants repeated confirmation of being chosen, loved and desired. Relationship symbols, shared habits and clear expressions of affection give him stability."
             },
             "sources": [
               "private",
@@ -2644,8 +2647,8 @@ window.PLAYERS = [
               "en": "Direct expression instead of inference"
             },
             "body": {
-              "ko": "추론을 사실처럼 몰아붙이기보다 “불안하다”, “확인받고 싶다”라고 직접 말하고 상대의 답을 존중하는 방향으로 성장할 수 있다. 변화 이후에도 안심을 주는 표현, 상징적인 행동, 명시적인 애정을 좋아하는 성향은 남는다.",
-              "en": "Can learn to say “I’m anxious” or “I need reassurance” directly and respect the answer, rather than press an inference as fact. Reassurance, symbolic gestures and explicit affection remain valued after that change."
+              "ko": "과잉 관찰과 확인 욕구가 사라지는 것은 아니다. 불안을 사실로 단정하고 심문하기보다 “내가 불안하다”, “확인받고 싶다”고 직접 표현하며 받은 답을 존중하는 법을 배운다. 상대를 믿기로 선택해도 reassurance·관계 상징·명확한 표현을 계속 좋아한다.",
+              "en": "Over-observation and the need for confirmation do not disappear. He learns to express “I feel anxious” and “I want reassurance” directly, and to respect answers, rather than treating anxiety as fact and interrogating. Even when choosing to trust someone, he continues to like reassurance, relationship symbols and explicit expressions."
             },
             "sources": [
               "private",
@@ -2685,16 +2688,16 @@ window.PLAYERS = [
       "en": "Queensland, Australia"
     },
     "bio": {
-      "ko": "퀸즐랜드 출신으로 환경학을 전공하는 3학년 공격형 미드필더. 밝고 장난스러운 태도와 즉흥적인 에너지를 지닌다. 레오와 함께 공식 행사 및 팬 응대에 자주 참여한다.",
-      "en": "A junior offensive midfielder from Queensland studying Environmental Studies. Bright, playful and spontaneous, Fraser frequently joins Reo at official events and fan engagements."
+      "ko": "퀸즐랜드 출신의 3학년 공격형 미드필더. 환경학을 전공하며 돌파와 득점에 강점을 가진다. 쾌활하고 즉흥적인 태도와 팬서비스로 알려져 있다.",
+      "en": "A junior offensive midfielder from Queensland studying Environmental Studies. Strong at dodging and scoring, he is known for his cheerful, spontaneous manner and fan interaction."
     },
     "career": {
       "ko": "현재 Harrowgate Ravens의 3학년 공격형 미드필더다.",
       "en": "Currently a junior offensive midfielder for the Harrowgate Ravens."
     },
     "style": {
-      "ko": "돌파와 득점이 강점인 공격형 미드필더. 탄탄하고 유연한 체형이며 카메라·농담·플러팅을 즐기는 팬서비스 스타다.",
-      "en": "An offensive midfielder strong in dodging and scoring, with a strong, flexible build. A fan-service star who enjoys cameras, jokes and flirting."
+      "ko": "돌파와 득점이 강점인 공격형 미드필더. 탄탄하고 유연한 운동 체형을 지녔다.",
+      "en": "An offensive midfielder whose strengths are dodging and scoring, with a strong, flexible athletic build."
     },
     "residence": {
       "ko": "Ravens House에서 바스티안, 그랜트, 다른 남자 팀원 한 명과 4인 스위트를 사용한다. 각자 개인 침실이 있다.",
@@ -2717,8 +2720,8 @@ window.PLAYERS = [
       "en": "Cheerful, spontaneous and playful, enjoying people and emphasizing present fun and experience. Under stress, tends to turn toward people, parties and sport."
     },
     "staff": {
-      "ko": "레오와 함께 팬서비스를 맡는 일이 많다. 그랜트와는 성향 차이가 크지만 의외로 서로 편하다.",
-      "en": "Frequently shares fan-service duties with Reo. Despite considerable differences in temperament, he and Grant are unexpectedly comfortable with one another."
+      "ko": "쾌활·즉흥·사교적·낙천적이다. 팬서비스 스타로 카메라·농담·플러팅을 즐긴다.",
+      "en": "Cheerful, spontaneous, sociable and optimistic. A fan-service star who enjoys cameras, jokes and flirting."
     },
     "future": {
       "ko": "농장 실무를 할 줄 알지만 가업 계승 책임에서는 비교적 자유롭다.",
@@ -2753,8 +2756,8 @@ window.PLAYERS = [
           "en": "Present sincerity and the future"
         },
         "body": {
-          "ko": "여러 관계·Situationship·Hookup 경험이 있다. 거짓감정으로 접근한 것이 아니라 당시에는 실제로 좋아했지만, 깊은 사랑을 경험한 적은 없다. “좋은 관계가 이렇게 힘들어서는 안 된다.” 현재의 진심이 미래의 약속과 같은 것은 아니다.",
-          "en": "Has experience with relationships, situationships and hookups. His liking was real at the time rather than feigned, but he has not experienced deep love. “Good relationships shouldn’t be this hard.” Present sincerity is not a future promise."
+          "ko": "연애·썸·situationship·hookup 경험이 많다. 당시의 호감은 진심이었지만 깊이 사랑해 본 경험은 없다. 편하고 즐거운 동안에는 다정하고 적극적이며 관계의 정의·책임·미래 약속은 굳이 필요하지 않다고 느낀다. 현재의 진심을 미래의 약속과 같게 여기지 않는다.",
+          "en": "He has had many relationships, flirtations, situationships and hookups. His affection at the time was sincere, but he has not experienced deep love. While things are comfortable and enjoyable he is affectionate and proactive, feeling no particular need for definition, responsibility or future promises. Present sincerity is not a future commitment to him."
         }
       },
       {
@@ -2773,8 +2776,8 @@ window.PLAYERS = [
           "en": "The possibility of wanting definition"
         },
         "body": {
-          "ko": "깊은 사랑을 경험하면 떠나는 것이 갈등을 견디는 것보다 더 큰 손실이 될 수 있다. 누적 경험을 통해 관계 회복·타협·책임을 배우고, 결국 먼저 관계를 정의하고 싶어질 가능성이 있다.",
-          "en": "With deep love, leaving may become a greater loss than enduring conflict. Accumulated experience can teach repair, compromise and responsibility, eventually creating a wish to define the relationship himself."
+          "ko": "깊이 사랑하게 되면 갈등보다 관계가 끝나는 것이 더 싫어져 기존의 “굳이?”라는 방식이 무너진다. 관계 수리·양보·책임을 처음 배우며, 성장의 방향은 애매함보다 명확한 관계를 원해 본인이 먼저 관계를 정의하는 것이다.",
+          "en": "With deep love, ending the relationship becomes less tolerable than conflict, breaking down his usual “why bother?” logic. He begins learning repair, compromise and responsibility; his growth points toward preferring a clear relationship over ambiguity and defining it himself."
         }
       }
     ],
@@ -2785,8 +2788,8 @@ window.PLAYERS = [
           "en": "Intimacy · Pleasure and reaction"
         },
         "body": {
-          "ko": "리비도는 높다. Pleasure Dom / Service Top으로 반응과 재미를 중시한다. Body Worship, Teasing, Light Spanking, Watching / Showing, Marking, Semi-public tension을 선호한다. Chest, Butt, Waist, Hips 등 곡선·볼륨에 관심이 있지만 특정 하나의 신체유형만 선호하는 것은 아니다.",
-          "en": "High libido. Pleasure Dom / Service Top with a focus on reactions and fun. Preferences include body worship, teasing, light spanking, watching / showing, marking and semi-public tension. Interested in curves and volume of the chest, butt, waist and hips, without being restricted to one body type."
+          "ko": "플레저 돔·탑·티징 성향. 합의된 사적 상황에서 보는 것과 보여주는 것을 선호한다. 바디워십·가벼운 스팽킹·마킹·세미퍼블릭 긴장감을 좋아한다. 가슴과 엉덩이를 특히 좋아하며 허리·골반선을 포함한 곡선과 볼륨에 시선이 잘 가지만, 특정 체형을 고집하지 않는다.",
+          "en": "Pleasure Dom / Top / Teasing. Prefers watching and being seen in consensual private situations. Preferences include body worship, light spanking, marking and semi-public tension. Especially drawn to chest and buttocks, as well as curves and volume through the waist and hips, without insisting on one body type."
         }
       }
     ],
@@ -2802,8 +2805,8 @@ window.PLAYERS = [
           "en": "Intimacy · Pleasure and reaction"
         },
         "body": {
-          "ko": "리비도는 높다. Pleasure Dom / Service Top으로 반응과 재미를 중시한다. Body Worship, Teasing, Light Spanking, Watching / Showing, Marking, Semi-public tension을 선호한다. Chest, Butt, Waist, Hips 등 곡선·볼륨에 관심이 있지만 특정 하나의 신체유형만 선호하는 것은 아니다.",
-          "en": "High libido. Pleasure Dom / Service Top with a focus on reactions and fun. Preferences include body worship, teasing, light spanking, watching / showing, marking and semi-public tension. Interested in curves and volume of the chest, butt, waist and hips, without being restricted to one body type."
+          "ko": "플레저 돔·탑·티징 성향. 합의된 사적 상황에서 보는 것과 보여주는 것을 선호한다. 바디워십·가벼운 스팽킹·마킹·세미퍼블릭 긴장감을 좋아한다. 가슴과 엉덩이를 특히 좋아하며 허리·골반선을 포함한 곡선과 볼륨에 시선이 잘 가지만, 특정 체형을 고집하지 않는다.",
+          "en": "Pleasure Dom / Top / Teasing. Prefers watching and being seen in consensual private situations. Preferences include body worship, light spanking, marking and semi-public tension. Especially drawn to chest and buttocks, as well as curves and volume through the waist and hips, without insisting on one body type."
         },
         "sources": [
           "private",
@@ -2817,8 +2820,8 @@ window.PLAYERS = [
           "en": "Present sincerity and the future"
         },
         "body": {
-          "ko": "여러 관계·Situationship·Hookup 경험이 있다. 거짓감정으로 접근한 것이 아니라 당시에는 실제로 좋아했지만, 깊은 사랑을 경험한 적은 없다. “좋은 관계가 이렇게 힘들어서는 안 된다.” 현재의 진심이 미래의 약속과 같은 것은 아니다.",
-          "en": "Has experience with relationships, situationships and hookups. His liking was real at the time rather than feigned, but he has not experienced deep love. “Good relationships shouldn’t be this hard.” Present sincerity is not a future promise."
+          "ko": "연애·썸·situationship·hookup 경험이 많다. 당시의 호감은 진심이었지만 깊이 사랑해 본 경험은 없다. 편하고 즐거운 동안에는 다정하고 적극적이며 관계의 정의·책임·미래 약속은 굳이 필요하지 않다고 느낀다. 현재의 진심을 미래의 약속과 같게 여기지 않는다.",
+          "en": "He has had many relationships, flirtations, situationships and hookups. His affection at the time was sincere, but he has not experienced deep love. While things are comfortable and enjoyable he is affectionate and proactive, feeling no particular need for definition, responsibility or future promises. Present sincerity is not a future commitment to him."
         },
         "sources": [
           "private",
@@ -2941,8 +2944,8 @@ window.PLAYERS = [
               "en": "Playing Profile"
             },
             "body": {
-              "ko": "돌파와 득점이 강점인 공격형 미드필더. 탄탄하고 유연한 체형이며 카메라·농담·플러팅을 즐기는 팬서비스 스타다.",
-              "en": "An offensive midfielder strong in dodging and scoring, with a strong, flexible build. A fan-service star who enjoys cameras, jokes and flirting."
+              "ko": "돌파와 득점이 강점인 공격형 미드필더. 탄탄하고 유연한 운동 체형을 지녔다.",
+              "en": "An offensive midfielder whose strengths are dodging and scoring, with a strong, flexible athletic build."
             },
             "sources": [
               "staff"
@@ -3022,8 +3025,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "레오와 함께 팬서비스를 맡는 일이 많다. 그랜트와는 성향 차이가 크지만 의외로 서로 편하다.",
-              "en": "Frequently shares fan-service duties with Reo. Despite considerable differences in temperament, he and Grant are unexpectedly comfortable with one another."
+              "ko": "쾌활·즉흥·사교적·낙천적이다. 팬서비스 스타로 카메라·농담·플러팅을 즐긴다.",
+              "en": "Cheerful, spontaneous, sociable and optimistic. A fan-service star who enjoys cameras, jokes and flirting."
             },
             "sources": [
               "staff"
@@ -3089,8 +3092,8 @@ window.PLAYERS = [
               "en": "The possibility of wanting definition"
             },
             "body": {
-              "ko": "깊은 사랑을 경험하면 떠나는 것이 갈등을 견디는 것보다 더 큰 손실이 될 수 있다. 누적 경험을 통해 관계 회복·타협·책임을 배우고, 결국 먼저 관계를 정의하고 싶어질 가능성이 있다.",
-              "en": "With deep love, leaving may become a greater loss than enduring conflict. Accumulated experience can teach repair, compromise and responsibility, eventually creating a wish to define the relationship himself."
+              "ko": "깊이 사랑하게 되면 갈등보다 관계가 끝나는 것이 더 싫어져 기존의 “굳이?”라는 방식이 무너진다. 관계 수리·양보·책임을 처음 배우며, 성장의 방향은 애매함보다 명확한 관계를 원해 본인이 먼저 관계를 정의하는 것이다.",
+              "en": "With deep love, ending the relationship becomes less tolerable than conflict, breaking down his usual “why bother?” logic. He begins learning repair, compromise and responsibility; his growth points toward preferring a clear relationship over ambiguity and defining it himself."
             },
             "sources": [
               "private",
@@ -3138,8 +3141,8 @@ window.PLAYERS = [
       "en": "Continues a Maryland family tradition running through his grandfather, a college lacrosse player, his father, uncle and himself. A talented, diligent starter whose #4 is connected to that lacrosse legacy."
     },
     "style": {
-      "ko": "1대1 수비와 피지컬이 강점인 안정적인 수비 핵심. 바스티안과 경기 중 호흡이 좋으며 인터뷰가 짧고 SNS 활동이 적다.",
-      "en": "A reliable defensive core with strengths in one-on-one defense and physical play. Coordinates well with Bastian, gives short interviews and has little social-media activity."
+      "ko": "1대1 수비와 피지컬이 강점인 디펜스. 크고 넓은 체격을 가진 안정적인 수비 핵심이다.",
+      "en": "A defense player strong in one-on-one defense and physical play. His large, broad build supports his role as a dependable defensive core."
     },
     "residence": {
       "ko": "Ravens House에서 바스티안, 라키, 다른 남자 팀원 한 명과 4인 스위트를 사용한다. 각자 개인 침실을 사용한다.",
@@ -3162,8 +3165,8 @@ window.PLAYERS = [
       "en": "Quiet, diligent, calm and independent. Limited social-media activity and a competitive outlook. Rarely shows hurt outwardly; comparison tends to prompt self-improvement and competition."
     },
     "staff": {
-      "ko": "바스티안과는 4학년 동기로 실력을 상호 존중하고 경기 중 호흡이 좋다. 라키와는 성향이 크게 다르지만 서로 편한 관계다.",
-      "en": "A fellow senior of Bastian, with mutual respect for ability and strong match coordination. Comfortable with Lachie despite their substantially different temperaments."
+      "ko": "조용·성실·침착·독립적이며 안정적인 수비 핵심이다. 인터뷰는 짧고 SNS 활동은 적다.",
+      "en": "Quiet, diligent, calm and independent, and a dependable defensive core. His interviews are brief and his social-media activity limited."
     },
     "future": {
       "ko": "",
@@ -3196,8 +3199,8 @@ window.PLAYERS = [
           "en": "Responses that conceal emotion"
         },
         "body": {
-          "ko": "자신의 순위와 선택받는 정도를 계속 읽는 경향이 있다. 동정을 싫어한다. 질투는 관찰로, 실망은 침묵으로, 상실 예상은 먼저 거리두기로 이어질 수 있다.",
-          "en": "Tends to keep reading his rank and how strongly he is chosen. Dislikes pity. Jealousy may become observation, disappointment silence, and anticipated loss withdrawal before the other person acts."
+          "ko": "타인의 선택에서 자기 순위를 확인하고 동정을 싫어한다. 질투할 때 직접 묻기보다 경쟁자보다 가치 있는 사람이 되려고 자기개선에 몰두한다. 밀렸다고 확신하면 말수 → 접촉 → 공유가 줄어들고, 혼자 관계의 결론을 내린 뒤 먼저 철수한다.",
+          "en": "He reads his rank through other people’s choices and dislikes pity. When jealous he focuses on improving himself into someone more valuable than a rival rather than asking directly. Once convinced he has been displaced, speech, contact and sharing diminish; he reaches a relationship conclusion alone and withdraws first."
         }
       }
     ],
@@ -3218,8 +3221,8 @@ window.PLAYERS = [
           "en": "Unspoken measures of trust"
         },
         "body": {
-          "ko": "의식적으로 시험한다고 생각하지는 않는다. 그러나 상대가 먼저 연락하는지, 찾아오는지, 요청하는지, 화해하려 하는지를 볼 수 있는 상황을 만들고, 결과를 조용히 신뢰도에 반영하는 경향이 있다.",
-          "en": "Does not consciously think he is testing someone. Yet tends to create situations in which he can see whether the other person initiates contact, visits, asks for him or attempts repair, then quietly incorporates the outcome into trust."
+          "ko": "상대가 먼저 연락하거나 찾아오고, 부탁하거나 화해하는지 볼 기회를 무의식적으로 만든다. 본인은 이를 시험이라고 생각하지 않는다.",
+          "en": "He unconsciously creates opportunities to see whether someone contacts him, comes to him, asks for something or initiates reconciliation. He does not think of it as a test."
         }
       },
       {
@@ -3228,8 +3231,8 @@ window.PLAYERS = [
           "en": "Bringing the criteria into words"
         },
         "body": {
-          "ko": "상대가 모르는 기준으로 점수를 매기는 방식을 줄일 수 있다. 질문 → 힌트 → 제안 → 직접 요청으로 발전할 가능성이 있다. 그래도 상대가 자발적으로 자신을 선택하는 것을 중요하게 여기는 성향은 남는다.",
-          "en": "Can reduce scoring someone against criteria they do not know. Questions may develop into hints, proposals and direct requests. The importance he places on being freely chosen remains."
+          "ko": "자발적으로 선택받고 싶은 욕구는 유지한다. 상대가 모르는 기준으로 점수를 깎는 대신, 원하는 행동을 질문·힌트·제안으로 유도하는 방식으로 변하며 후기에는 직접 요구한다.",
+          "en": "The desire to be chosen voluntarily remains. Rather than deducting points against criteria the other person does not know, he learns to elicit wanted actions through questions, hints and proposals, and later to ask directly."
         }
       }
     ],
@@ -3240,8 +3243,8 @@ window.PLAYERS = [
           "en": "Intimacy · Being specifically chosen"
         },
         "body": {
-          "ko": "Praise / Recognition / Selection. “잘했어”보다 “너라서 좋다” 같은 특정 선택의 언어를 선호한다. 상대가 먼저 시작하거나 선택했다는 신호가 중요하며 이후에는 신체적으로 본인이 주도할 수 있다. Eye Contact, Lifting, Size Difference, Close Restraint를 선호하고 자기 몸에 남는 Mark를 좋아한다. 대표적인 신체행동은 Lifting이다.",
-          "en": "Praise / Recognition / Selection. Prefers specific choice such as “because it’s you” over “well done.” A partner’s initiation or signal of choice matters; afterward he may lead physically. Preferences include eye contact, lifting, size difference and close restraint, and marks on his own body. Lifting is a characteristic physical action."
+          "ko": "돔이며 인정·선택 욕구가 강하다. 체격과 힘을 통한 신체 구속을 선호하고 상대의 선제 표현 후 주도한다. 먼저 시작해 주는 접촉·구체적 칭찬·“너라서 원한다”는 표현·눈맞춤을 좋아한다. 들어안기·체격차·밀착 제압·자기 몸에 남는 마킹을 선호한다.",
+          "en": "Dom with a strong desire for recognition and selection. Prefers physical restraint through size and strength, taking the lead after a partner’s initiating expression. Preferences include partner-initiated touch, specific praise, “I want you because it is you,” eye contact, lifting and carrying, size difference, close restraint and marks left on his own body."
         }
       }
     ],
@@ -3257,8 +3260,8 @@ window.PLAYERS = [
           "en": "Intimacy · Being specifically chosen"
         },
         "body": {
-          "ko": "Praise / Recognition / Selection. “잘했어”보다 “너라서 좋다” 같은 특정 선택의 언어를 선호한다. 상대가 먼저 시작하거나 선택했다는 신호가 중요하며 이후에는 신체적으로 본인이 주도할 수 있다. Eye Contact, Lifting, Size Difference, Close Restraint를 선호하고 자기 몸에 남는 Mark를 좋아한다. 대표적인 신체행동은 Lifting이다.",
-          "en": "Praise / Recognition / Selection. Prefers specific choice such as “because it’s you” over “well done.” A partner’s initiation or signal of choice matters; afterward he may lead physically. Preferences include eye contact, lifting, size difference and close restraint, and marks on his own body. Lifting is a characteristic physical action."
+          "ko": "돔이며 인정·선택 욕구가 강하다. 체격과 힘을 통한 신체 구속을 선호하고 상대의 선제 표현 후 주도한다. 먼저 시작해 주는 접촉·구체적 칭찬·“너라서 원한다”는 표현·눈맞춤을 좋아한다. 들어안기·체격차·밀착 제압·자기 몸에 남는 마킹을 선호한다.",
+          "en": "Dom with a strong desire for recognition and selection. Prefers physical restraint through size and strength, taking the lead after a partner’s initiating expression. Preferences include partner-initiated touch, specific praise, “I want you because it is you,” eye contact, lifting and carrying, size difference, close restraint and marks left on his own body."
         },
         "sources": [
           "private",
@@ -3381,8 +3384,8 @@ window.PLAYERS = [
               "en": "Playing Profile"
             },
             "body": {
-              "ko": "1대1 수비와 피지컬이 강점인 안정적인 수비 핵심. 바스티안과 경기 중 호흡이 좋으며 인터뷰가 짧고 SNS 활동이 적다.",
-              "en": "A reliable defensive core with strengths in one-on-one defense and physical play. Coordinates well with Bastian, gives short interviews and has little social-media activity."
+              "ko": "1대1 수비와 피지컬이 강점인 디펜스. 크고 넓은 체격을 가진 안정적인 수비 핵심이다.",
+              "en": "A defense player strong in one-on-one defense and physical play. His large, broad build supports his role as a dependable defensive core."
             },
             "sources": [
               "staff"
@@ -3477,8 +3480,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "바스티안과는 4학년 동기로 실력을 상호 존중하고 경기 중 호흡이 좋다. 라키와는 성향이 크게 다르지만 서로 편한 관계다.",
-              "en": "A fellow senior of Bastian, with mutual respect for ability and strong match coordination. Comfortable with Lachie despite their substantially different temperaments."
+              "ko": "조용·성실·침착·독립적이며 안정적인 수비 핵심이다. 인터뷰는 짧고 SNS 활동은 적다.",
+              "en": "Quiet, diligent, calm and independent, and a dependable defensive core. His interviews are brief and his social-media activity limited."
             },
             "sources": [
               "staff"
@@ -3490,8 +3493,8 @@ window.PLAYERS = [
               "en": "Responses that conceal emotion"
             },
             "body": {
-              "ko": "자신의 순위와 선택받는 정도를 계속 읽는 경향이 있다. 동정을 싫어한다. 질투는 관찰로, 실망은 침묵으로, 상실 예상은 먼저 거리두기로 이어질 수 있다.",
-              "en": "Tends to keep reading his rank and how strongly he is chosen. Dislikes pity. Jealousy may become observation, disappointment silence, and anticipated loss withdrawal before the other person acts."
+              "ko": "타인의 선택에서 자기 순위를 확인하고 동정을 싫어한다. 질투할 때 직접 묻기보다 경쟁자보다 가치 있는 사람이 되려고 자기개선에 몰두한다. 밀렸다고 확신하면 말수 → 접촉 → 공유가 줄어들고, 혼자 관계의 결론을 내린 뒤 먼저 철수한다.",
+              "en": "He reads his rank through other people’s choices and dislikes pity. When jealous he focuses on improving himself into someone more valuable than a rival rather than asking directly. Once convinced he has been displaced, speech, contact and sharing diminish; he reaches a relationship conclusion alone and withdraws first."
             },
             "sources": [
               "private",
@@ -3520,8 +3523,8 @@ window.PLAYERS = [
               "en": "Unspoken measures of trust"
             },
             "body": {
-              "ko": "의식적으로 시험한다고 생각하지는 않는다. 그러나 상대가 먼저 연락하는지, 찾아오는지, 요청하는지, 화해하려 하는지를 볼 수 있는 상황을 만들고, 결과를 조용히 신뢰도에 반영하는 경향이 있다.",
-              "en": "Does not consciously think he is testing someone. Yet tends to create situations in which he can see whether the other person initiates contact, visits, asks for him or attempts repair, then quietly incorporates the outcome into trust."
+              "ko": "상대가 먼저 연락하거나 찾아오고, 부탁하거나 화해하는지 볼 기회를 무의식적으로 만든다. 본인은 이를 시험이라고 생각하지 않는다.",
+              "en": "He unconsciously creates opportunities to see whether someone contacts him, comes to him, asks for something or initiates reconciliation. He does not think of it as a test."
             },
             "sources": [
               "private",
@@ -3544,8 +3547,8 @@ window.PLAYERS = [
               "en": "Bringing the criteria into words"
             },
             "body": {
-              "ko": "상대가 모르는 기준으로 점수를 매기는 방식을 줄일 수 있다. 질문 → 힌트 → 제안 → 직접 요청으로 발전할 가능성이 있다. 그래도 상대가 자발적으로 자신을 선택하는 것을 중요하게 여기는 성향은 남는다.",
-              "en": "Can reduce scoring someone against criteria they do not know. Questions may develop into hints, proposals and direct requests. The importance he places on being freely chosen remains."
+              "ko": "자발적으로 선택받고 싶은 욕구는 유지한다. 상대가 모르는 기준으로 점수를 깎는 대신, 원하는 행동을 질문·힌트·제안으로 유도하는 방식으로 변하며 후기에는 직접 요구한다.",
+              "en": "The desire to be chosen voluntarily remains. Rather than deducting points against criteria the other person does not know, he learns to elicit wanted actions through questions, hints and proposals, and later to ask directly."
             },
             "sources": [
               "private",
