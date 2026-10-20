@@ -2,8 +2,8 @@ window.SCHOOLS = {
   "aldermere": {
     "name": "Aldermere",
     "region": {
-      "ko": "뉴욕주 사라토가스프링스 인근 · 시가지와 이어지는 도보생활권",
-      "en": "Near Saratoga Springs, New York · Walkable access to town"
+      "ko": "뉴욕주 사라토가스프링스 근교",
+      "en": "Near Saratoga Springs, New York"
     },
     "mascot": "Stags",
     "venue": "Kendrick Field",
@@ -902,8 +902,8 @@ window.SCHOOLS = {
   "harrowgate": {
     "name": "Harrowgate",
     "region": {
-      "ko": "메릴랜드 · 체서피크만 서안 · 애나폴리스권",
-      "en": "Maryland · Western Chesapeake Bay · Annapolis area"
+      "ko": "메릴랜드주 애나폴리스 근교",
+      "en": "Near Annapolis, Maryland"
     },
     "mascot": "Ravens",
     "venue": "Ravens Field",
