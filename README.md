@@ -1,5 +1,18 @@
 # Aldermere & Harrowgate 대학 홈페이지
 
+## 현재 작업 폴더
+
+2026-10-20부터 GitHub 로컬 저장소 `lacrosse`를 사이트와 작업자료의 기준으로 사용합니다. 이 폴더의 `index.html`, `data/`, `shared/`, `assets/`를 직접 수정하면 됩니다. 별도 dist 복사나 설치는 필요 없습니다.
+
+- 로컬 미리보기: `node tools/serve.mjs`
+- 설정 검수: `node tools/verify-canon.mjs`
+- 화면·열람 흐름 검수: `node tools/verify-records.mjs`
+- 배포 ZIP 생성: `python tools/package_site.py` (결과는 `_development/`에 저장)
+
+`tools/`에는 제작 도구가 있고, `_development/`에는 원본 사진과 검수 결과·기존 자료를 보관합니다. `_development/`는 Git과 배포 ZIP에서 제외됩니다. GitHub Pages는 기존처럼 저장소 루트를 사용합니다.
+
+최신 반영: 학교 위치·스포츠 위상·차량 4대·너새니얼·오언 캘러핸·양교 팀원 8명·관계 패턴·Progressive Dance. 이전에 삭제한 바스티안 말투 두 문장과 학적 이미지는 복원하지 않았습니다.
+
 2026-10-12 최신 SWEET·SOUR 발췌와 교체 목록을 반영했습니다. 바스티안의 말투·관계 행동, 레오의 불안·확인 방식과 국적 통합, 8명 민감정보, Ravens House 전용 주거 안내를 갱신했습니다. 삭제 목록의 과거 팀 관계·레오 등번호 유래·옛 리비도 수치는 표시하지 않습니다. 선정된 어거스트 사진과 기존 주노 사진, 학적 이미지 제거 상태도 유지합니다.
 
 ## 바로 열기

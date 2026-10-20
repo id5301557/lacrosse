@@ -2,8 +2,8 @@ window.SCHOOLS = {
   "aldermere": {
     "name": "Aldermere",
     "region": {
-      "ko": "뉴욕주 북부",
-      "en": "Upstate New York"
+      "ko": "뉴욕주 사라토가스프링스 인근 · 시가지와 이어지는 도보생활권",
+      "en": "Near Saratoga Springs, New York · Walkable access to town"
     },
     "mascot": "Stags",
     "venue": "Kendrick Field",
@@ -16,8 +16,8 @@ window.SCHOOLS = {
       "en": "An enduring tradition. An open horizon."
     },
     "description": {
-      "ko": "뉴욕주 북부의 명문 사립대학. 오래된 대학 전통과 현대적인 캠퍼스가 공존하며, 밝고 정돈된 녹지 속에서 학업·학생생활·대학 스포츠의 균형을 이어갑니다.",
-      "en": "A prestigious private university in Upstate New York, combining longstanding collegiate traditions with a modern campus. Bright, orderly green spaces support a balance of academic study, student life and university sport."
+      "ko": "뉴욕주 사라토가스프링스 인근의 대학도시에 자리한 명문 사립대학입니다. 시가지에 인접한 도보생활권과 밝고 정돈된 녹지, 오랜 전통과 현대적인 캠퍼스가 학업·학생생활·대학 스포츠를 연결합니다.",
+      "en": "A prestigious private university in a college town near Saratoga Springs, New York. Walkable access to the adjacent town, bright and orderly green spaces, longstanding traditions and a contemporary campus connect academic study, student life and university sport."
     },
     "facilities": [
       {
@@ -539,8 +539,8 @@ window.SCHOOLS = {
       }
     ],
     "rivalry": {
-      "ko": "Stags와 Ravens는 매년 정규시즌에 만나는 전통적인 비컨퍼런스 라이벌입니다. NCAA 토너먼트에서도 여러 차례 재회한 두 강호는 매년 홈을 번갈아 사용합니다. 2027년 2월 27일 토요일에는 Kendrick Field에서 Harrowgate를 맞이합니다. 선수와 코치의 기본적인 존중 위에서 팬과 학생매체는 경기 전후 비교와 도발을 즐깁니다.",
-      "en": "The Stags and Ravens meet each regular season in a traditional non-conference rivalry, reinforced by repeated NCAA tournament encounters. Home venues alternate annually. On Saturday, February 27, 2027, Kendrick Field welcomes Harrowgate. Mutual respect between players and coaches coexists with fans and student media enjoying comparisons and banter around the game."
+      "ko": "Stags와 Ravens는 매년 정규시즌에 만나는 전통적인 비컨퍼런스 라이벌입니다. NCAA 토너먼트에서도 여러 차례 재회한 두 강호는 매년 홈을 번갈아 사용합니다. 2027년 2월 27일 토요일에는 Kendrick Field에서 Harrowgate를 맞이합니다. 선수와 코치의 기본적인 존중 위에서 팬과 학생매체는 경기 전후 비교와 도발을 즐깁니다. 양교의 팬 문화에는 차이가 있습니다. Aldermere는 남자 농구 인기 1위·라크로스 2위, Harrowgate는 라크로스가 교내 인기와 동문지원 모두 1위인 간판 스포츠입니다.",
+      "en": "The Stags and Ravens meet each regular season in a traditional non-conference rivalry, reinforced by repeated NCAA tournament encounters. Home venues alternate annually. On Saturday, February 27, 2027, Kendrick Field welcomes Harrowgate. Mutual respect between players and coaches coexists with fans and student media enjoying comparisons and banter around the game. Their fan cultures differ: men’s basketball is first and lacrosse second at Aldermere, while lacrosse leads both campus popularity and alumni support at Harrowgate."
     },
     "news": [
       {
@@ -799,10 +799,13 @@ window.SCHOOLS = {
       }
     },
     "coach": {
-      "name": "Daniel Hargrove",
+      "name": {
+        "ko": "다니엘 하그로브",
+        "en": "Daniel Hargrove"
+      },
       "body": {
-        "ko": "47세, 전직 수비수. 차분하고 현실적이며 엄격하고 공정합니다. 별명은 GPS. “Where are you supposed to be?”라는 질문을 자주 합니다. 선수를 공개적으로 모욕하거나 감정적으로 폭발하지 않으며, 키건을 특별대우하지 않습니다. 명성보다 현재 경기력과 팀 기여를 우선하고, 실수는 정확히 지적합니다. 별명은 위치가 틀린 선수에게 같은 질문을 반복해서 붙었습니다. 말투는 낮고 담백한 미국 영어로 짧은 질문·지시를 선호합니다.",
-        "en": "Age 47, a former defense player. Calm, practical, strict and fair, nicknamed “GPS.” Often asks, “Where are you supposed to be?” Does not publicly humiliate players, erupt emotionally or give Keegan special treatment. Prioritizes current performance and team contribution over reputation, identifying errors precisely. His nickname comes from repeating the question to players out of position. Speaks low, plain American English, favoring brief questions and directions."
+        "ko": "47세, 전직 수비수. 차분하고 현실적이며 엄격하고 공정합니다. 별명은 GPS. “Where are you supposed to be?”라는 질문을 자주 합니다. 선수를 공개적으로 모욕하거나 감정적으로 폭발하지 않으며, 키건을 특별대우하지 않습니다. 명성보다 현재 경기력과 팀 기여를 우선하고, 실수는 정확히 지적합니다. 별명은 위치가 틀린 선수에게 같은 질문을 반복해서 붙었습니다. 말투는 낮고 담백한 미국 영어로 짧은 질문·지시를 선호합니다. GPS라는 별명을 본인도 아는 듯하지만 별다른 반응을 보이지 않습니다.",
+        "en": "Age 47, a former defense player. Calm, practical, strict and fair, nicknamed “GPS.” Often asks, “Where are you supposed to be?” Does not publicly humiliate players, erupt emotionally or give Keegan special treatment. Prioritizes current performance and team contribution over reputation, identifying errors precisely. His nickname comes from repeating the question to players out of position. Speaks low, plain American English, favoring brief questions and directions. He appears aware of the GPS nickname but gives little reaction."
       }
     },
     "teamCulture": {
@@ -812,13 +815,95 @@ window.SCHOOLS = {
     "dark": {
       "ko": "Delta Rho Kappa(ΔΡΚ), 통칭 Dark는 오래된 엘리트 프래터니티입니다. 공식 선발은 성적·평판·교내활동·조직 적합성을 보지만 추천·레거시·프렙스쿨·가문 인맥·높은 회비·문화자본이 강한 필터로 작용합니다. 법조·정치·금융·기업계 동문층이 두텁고 배타적·속물적이라는 평도 있습니다. Dark House는 Westgate Row의 오래된 대저택형 건물로 거실·식당·회원방·행사공간이 있으며 파티·식사·동문 리셉션이 열립니다. 회원 사이에도 친밀도·파벌·활동량의 차이가 있습니다.",
       "en": "Delta Rho Kappa (ΔΡΚ), known as Dark, is a longstanding elite fraternity. Formal selection considers grades, reputation, campus involvement and organizational fit, while recommendations, legacy, prep schools, family networks, high dues and cultural capital act as strong filters. A deep alumni base in law, politics, finance and business coexists with a reputation for exclusivity and snobbery. Dark House is an old mansion-style building on Westgate Row, with living, dining, member and event spaces for parties, meals and alumni receptions. Members differ in closeness, factions and involvement."
-    }
+    },
+    "sportsStanding": {
+      "ko": "남자 농구가 교내 인기 1위, 남자 라크로스가 2위인 학교 대표 스포츠입니다. Stags는 전국대회 진출을 꾸준히 기대받는 NCAA Division I 강호로, 주전 선수들의 팬층과 탄탄한 지역·동문 지지를 갖추고 있습니다.",
+      "en": "Men’s basketball ranks first in campus popularity and men’s lacrosse second. The Stags are a strong NCAA Division I program consistently expected to contend for national tournament places, with a following for the featured starters and firm local and alumni support."
+    },
+    "supportingCast": [
+      {
+        "id": "rafael-ortiz",
+        "name": {
+          "ko": "라파엘 오르티스",
+          "en": "Rafael Ortiz"
+        },
+        "role": {
+          "ko": "공격코치",
+          "en": "Offensive Coach"
+        },
+        "publicBio": {
+          "ko": "Stags의 공격코치입니다.",
+          "en": "Offensive coach for the Stags."
+        },
+        "details": {
+          "ko": "44세. 느긋하며 관찰한 뒤 질문하고 판단의 이유를 중시한다. 상대가 이해해도 설명을 덧붙인다. 픽업 농구가 취미다.",
+          "en": "44. Relaxed, observing before asking and valuing the reasons behind decisions. Adds explanations even after someone understands. Enjoys pickup basketball."
+        }
+      },
+      {
+        "id": "gabriel-costa",
+        "name": {
+          "ko": "가브리엘 코스타",
+          "en": "Gabriel Costa"
+        },
+        "role": {
+          "ko": "애슬레틱 트레이너",
+          "en": "Athletic Trainer"
+        },
+        "publicBio": {
+          "ko": "선수의 트레이닝과 관리 실무를 맡습니다.",
+          "en": "An athletic trainer supporting player care."
+        },
+        "details": {
+          "ko": "30세 남성 AT. 말이 많고 실무가 빠르며 선수 근황을 기억한다. 통증을 축소하는 태도에는 단호하고 일정이 꼬이면 말이 빨라진다.",
+          "en": "A 30-year-old male athletic trainer. Talkative and quick in practical work, remembering player updates. Firm about minimized pain; speaks faster when schedules get tangled."
+        }
+      },
+      {
+        "id": "devin-brooks",
+        "name": {
+          "ko": "데빈 브룩스",
+          "en": "Devin Brooks"
+        },
+        "role": {
+          "ko": "3학년 LSM",
+          "en": "Junior LSM"
+        },
+        "publicBio": {
+          "ko": "Stags의 롱스틱 미드필더입니다.",
+          "en": "A long-stick midfielder for the Stags."
+        },
+        "details": {
+          "ko": "21세·3학년. 사교적이고 팀 실무가 꼼꼼하며 장비와 이동에 밝다. 자기 물건은 잊곤 하고 요리 양 조절에는 서툴다.",
+          "en": "21, a junior. Sociable and thorough with team logistics, knowledgeable about equipment and travel. Forgets his own belongings and struggles with cooking quantities."
+        }
+      },
+      {
+        "id": "elliot-price",
+        "name": {
+          "ko": "엘리엇 프라이스",
+          "en": "Elliot Price"
+        },
+        "role": {
+          "ko": "2학년 백업 골리",
+          "en": "Sophomore Backup Goalie"
+        },
+        "publicBio": {
+          "ko": "알피에게 배우며 출전 기회를 준비하는 백업 골리입니다.",
+          "en": "A backup goalie learning from Alfie while working toward playing opportunities."
+        },
+        "details": {
+          "ko": "20세·2학년. 붙임성 있고 질문이 집요하며 기술 노트를 쓴다. 주노와 팀원을 놀리는 듀오로, 진지한 척 농담을 키우고 서로도 놀린다. 알피에게 배우며 출전 욕심이 있고 자기 세이브 클립을 수집한다.",
+          "en": "20, a sophomore. Friendly and persistent with questions, keeping technical notes. He and Juno tease teammates, escalating jokes with a straight face and teasing each other too. Learns from Alfie, wants playing time and collects his own save clips."
+        }
+      }
+    ]
   },
   "harrowgate": {
     "name": "Harrowgate",
     "region": {
-      "ko": "미드애틀랜틱 · 체서피크권 · 메릴랜드 인접",
-      "en": "The Chesapeake · Mid-Atlantic"
+      "ko": "메릴랜드 · 체서피크만 서안 · 애나폴리스권",
+      "en": "Maryland · Western Chesapeake Bay · Annapolis area"
     },
     "mascot": "Ravens",
     "venue": "Ravens Field",
@@ -831,8 +916,8 @@ window.SCHOOLS = {
       "en": "The next chapter belongs to you."
     },
     "description": {
-      "ko": "체서피크권의 오래된 명문 사립대학. 붉은 벽돌과 석조 건물 사이에 현대 시설이 자리하며, 자유롭고 세련된 학생문화와 경쟁·비교·평판에 대한 강한 의식이 함께 존재합니다.",
-      "en": "A longstanding prestigious private university in the Chesapeake region. Historic red brick and stone coexist with modern facilities, while an independent, polished student culture carries a strong awareness of competition, comparison and reputation."
+      "ko": "메릴랜드 체서피크만 서안, 애나폴리스권의 수변 대학도시에 자리한 오랜 전통의 중소규모 명문 사립대학입니다. 고풍스러운 벽돌·석조 건물과 현대적인 시설, 학생자치 문화가 공존하며 경쟁·비교·평판에 대한 의식도 강합니다.",
+      "en": "A longstanding, small-to-mid-sized private university in a waterfront college town in the Annapolis area, on Maryland’s western Chesapeake Bay. Historic brick and stone coexist with modern facilities and student self-government, alongside a strong awareness of competition, comparison and reputation."
     },
     "facilities": [
       {
@@ -1212,8 +1297,8 @@ window.SCHOOLS = {
           "en": "Charter Ball"
         },
         "details": {
-          "ko": "11월 21일 Charter Hall의 연 1회 대표 포멀 행사. 동반인 한 명의 사전 등록이 필수이며 성별·연애관계와 무관하게 친구와도 참가할 수 있습니다. 혼자 입장하지 않습니다. 18:30 리셉션·입장사진, 19:30 환영사·건배, 20:00 라이브밴드·댄스, 22:00 DJ, 23:30 Last Dance 후 종료. 포멀 복장이 일반적이나 블랙타이는 강제가 아닙니다. 동반인끼리 좌석을 배정하되 식사 후 자유롭게 이동하며 사진벽·코트체크와 별도 21세 이상 바를 운영합니다. 동반인을 구하는 과정부터 화제가 되며 교대 댄스는 흔합니다. 마지막 곡의 상대는 은근히 의미 있게 받아들여집니다.",
-          "en": "The annual signature formal at Charter Hall on November 21. One companion must be registered in advance; friends may attend regardless of gender or romantic relationship. There is no solo entry. Reception and entry photos at 18:30, welcome and toast at 19:30, live band and dancing at 20:00, DJ at 22:00, and close after Last Dance at 23:30. Formal dress is usual but black tie is not mandatory. Companions are seated together, with free movement after dinner, a photo wall, coat check and separate 21+ bar. Finding a companion is itself a topic of conversation. Changing dance partners is common, while the final partner is quietly treated as meaningful."
+          "ko": "11월 21일 Charter Hall의 연 1회 대표 포멀 행사. 동반인 한 명의 사전 등록이 필수이며 성별·연애관계와 무관하게 친구와도 참가할 수 있습니다. 혼자 입장하지 않습니다. 18:30 리셉션·입장사진, 19:30 환영사·건배, 20:00 라이브밴드·댄스, 22:00 DJ, 23:30 Last Dance 후 종료. 포멀 복장이 일반적이나 블랙타이는 강제가 아닙니다. 동반인끼리 좌석을 배정하되 식사 후 자유롭게 이동하며 사진벽·코트체크와 별도 21세 이상 바를 운영합니다. 동반인을 구하는 과정부터 화제가 되며 교대 댄스는 흔합니다. 마지막 곡의 상대는 은근히 의미 있게 받아들여집니다. 초반 Progressive Dance는 한 곡 안에서 동선과 안무를 따라 자연스럽게 파트너가 교대하는 프로그램이며 참여는 자유입니다.",
+          "en": "The annual signature formal at Charter Hall on November 21. One companion must be registered in advance; friends may attend regardless of gender or romantic relationship. There is no solo entry. Reception and entry photos at 18:30, welcome and toast at 19:30, live band and dancing at 20:00, DJ at 22:00, and close after Last Dance at 23:30. Formal dress is usual but black tie is not mandatory. Companions are seated together, with free movement after dinner, a photo wall, coat check and separate 21+ bar. Finding a companion is itself a topic of conversation. Changing dance partners is common, while the final partner is quietly treated as meaningful. The early Progressive Dance changes partners naturally within a single song, following the route and choreography; participation is optional."
         },
         "moments": [
           {
@@ -1502,8 +1587,8 @@ window.SCHOOLS = {
       }
     ],
     "rivalry": {
-      "ko": "Ravens에게 Aldermere와의 연례 경기는 오랜 라크로스 전통을 이어가는 경쟁입니다. 두 NCAA Division I 강호는 정규시즌의 비컨퍼런스전과 여러 NCAA 토너먼트에서 만났습니다. 홈은 해마다 교대하며 2027년 2월 27일 토요일에는 Kendrick Field로 원정을 떠납니다. 경기 전후의 비교와 도발은 팬·학생매체의 문화이고, 선수·코치 사이에는 기본적인 존중이 있습니다.",
-      "en": "For the Ravens, the annual Aldermere meeting continues a longstanding lacrosse competition. These two Division I programs have met in regular-season non-conference play and repeatedly in the NCAA tournament. Home venues alternate; on Saturday, February 27, 2027, the Ravens travel to Kendrick Field. Fans and student media bring comparisons and banter, while players and coaches maintain mutual respect."
+      "ko": "Ravens에게 Aldermere와의 연례 경기는 오랜 라크로스 전통을 이어가는 경쟁입니다. 두 NCAA Division I 강호는 정규시즌의 비컨퍼런스전과 여러 NCAA 토너먼트에서 만났습니다. 홈은 해마다 교대하며 2027년 2월 27일 토요일에는 Kendrick Field로 원정을 떠납니다. 경기 전후의 비교와 도발은 팬·학생매체의 문화이고, 선수·코치 사이에는 기본적인 존중이 있습니다. 양교의 팬 문화에는 차이가 있습니다. Aldermere는 남자 농구 인기 1위·라크로스 2위, Harrowgate는 라크로스가 교내 인기와 동문지원 모두 1위인 간판 스포츠입니다.",
+      "en": "For the Ravens, the annual Aldermere meeting continues a longstanding lacrosse competition. These two Division I programs have met in regular-season non-conference play and repeatedly in the NCAA tournament. Home venues alternate; on Saturday, February 27, 2027, the Ravens travel to Kendrick Field. Fans and student media bring comparisons and banter, while players and coaches maintain mutual respect. Their fan cultures differ: men’s basketball is first and lacrosse second at Aldermere, while lacrosse leads both campus popularity and alumni support at Harrowgate."
     },
     "news": [
       {
@@ -1768,6 +1853,98 @@ window.SCHOOLS = {
     "residenceLife": {
       "ko": "남녀 라크로스팀 전용 교내 스위트 주거관입니다. 팀원의 방문과 공용 라운지 합석은 흔하지만 일반 기숙사 출입·게스트·소음 규칙이 적용됩니다. 개인 침실에는 허락 없이 들어가지 않습니다. 공용 냉장고·설거지·쓰레기·청소·욕실 사용 순서 등 생활 분담이 필요합니다. 훈련복·스틱·테이프·간식이 거실에 늘기 쉽습니다. 거실은 게임·식사·필름 복습·잡담에 자주 쓰이며 항상 파티가 열리는 공간은 아닙니다. 늦은 밤에는 수면·수업·훈련 일정을 존중합니다. 남녀 주거층은 분리되며 1층 라운지·세탁·스터디·공용주방은 함께 사용합니다. 입주는 의무가 아니며 코치는 거주하지 않습니다.",
       "en": "A campus suite residence exclusively for the men’s and women’s lacrosse teams. Teammate visits and joining others in the common lounge are frequent, subject to ordinary residence access, guest and noise rules. Private bedrooms require permission to enter. Refrigerator use, dishes, trash, cleaning and bathroom turns require shared responsibilities. Training clothes, sticks, tape and snacks easily accumulate in the living room. Games, meals, film revision and conversation are common uses, without making it a permanent party space. Late nights respect sleep, class and training schedules. Men’s and women’s residence floors are separate, with shared ground-floor lounge, laundry, study and kitchen spaces. Residence is optional and coaches do not live here."
-    }
+    },
+    "sportsStanding": {
+      "ko": "남자 라크로스는 교내 인기와 동문지원 모두 1위인 Harrowgate의 간판 스포츠로, 농구·미식축구보다 지지가 높습니다. 팀의 인기는 오랜 역사·경기력·지역 및 동문 팬 기반에 뿌리를 두며 주전 선수들의 스타성과 팬서비스로 팬덤이 확대되고 있습니다.",
+      "en": "Men’s lacrosse is Harrowgate’s flagship sport, first in both campus popularity and alumni support, ahead of basketball and football. Its following rests on history, performance and local and alumni fans, and is expanding through the current starters’ prominence and fan interaction."
+    },
+    "coach": {
+      "name": {
+        "ko": "오언 캘러핸",
+        "en": "Owen Callahan"
+      },
+      "body": {
+        "ko": "헤드코치. 짧고 직설적인 말투와 공정한 기준으로 팀을 이끕니다. 현재 경기력과 팀 기여를 우선하며 주장에게도 특별대우를 하지 않습니다.",
+        "en": "Head coach. Leads with brief, direct speech and fair standards, prioritizing current performance and team contribution without giving the captain special treatment."
+      }
+    },
+    "supportingCast": [
+      {
+        "id": "damon-ellis",
+        "name": {
+          "ko": "데이먼 엘리스",
+          "en": "Damon Ellis"
+        },
+        "role": {
+          "ko": "전환수비코치",
+          "en": "Transition Defense Coach"
+        },
+        "publicBio": {
+          "ko": "Ravens의 전환수비를 담당합니다.",
+          "en": "Coaches transition defense for the Ravens."
+        },
+        "details": {
+          "ko": "43세. 말보다 시범을 선호하고 성미가 급하며 필드 밖에서는 능청스럽다. 남도 금방 익히리라 여겨 답답해한다.",
+          "en": "43. Prefers demonstration to words, quick-tempered and playful off the field. Expects others to pick things up quickly and becomes frustrated."
+        }
+      },
+      {
+        "id": "dave-kowalski",
+        "name": {
+          "ko": "데이브 코왈스키",
+          "en": "Dave Kowalski"
+        },
+        "role": {
+          "ko": "선임 애슬레틱 트레이너",
+          "en": "Senior Athletic Trainer"
+        },
+        "publicBio": {
+          "ko": "단호한 관리와 후배의 판단 존중을 함께 중시합니다.",
+          "en": "Combines firm care with respect for junior staff judgment."
+        },
+        "details": {
+          "ko": "30대 후반 선임 AT. 건조한 농담을 하고 단호하며 후배 판단을 존중한다. 술을 좋아하고 취하면 가족사진을 보여주거나 눈물·연애 조언이 늘어난다. 진지할 때는 솔직하다. 남편 Ben과 입양한 다섯 살 아들 Miles가 있다.",
+          "en": "A senior athletic trainer in his late thirties. Dryly funny and firm, respecting junior colleagues’ judgment. Likes drinking; when drunk shows family photos, becomes tearful and offers relationship advice. Candid when serious. Has a husband, Ben, and an adopted five-year-old son, Miles."
+        }
+      },
+      {
+        "id": "malcolm-reed",
+        "name": {
+          "ko": "맬컴 리드",
+          "en": "Malcolm Reed"
+        },
+        "role": {
+          "ko": "4학년 투웨이 미디",
+          "en": "Senior Two-way Midfielder"
+        },
+        "publicBio": {
+          "ko": "Ravens의 공수 겸용 미드필더입니다.",
+          "en": "A two-way midfielder for the Ravens."
+        },
+        "details": {
+          "ko": "22세·4학년. 말 많은 현실파로 불평과 생색이 많아도 할 일을 한다. 바스티안의 동기로 직언하며 졸업 후 스포츠행정에 관심이 있다.",
+          "en": "22, a senior. A talkative realist who complains and seeks credit but does his work. A classmate of Bastian who speaks frankly to him; interested in sports administration after graduation."
+        }
+      },
+      {
+        "id": "omar-haddad",
+        "name": {
+          "ko": "오마르 하다드",
+          "en": "Omar Haddad"
+        },
+        "role": {
+          "ko": "3학년 FOGO",
+          "en": "Junior FOGO"
+        },
+        "publicBio": {
+          "ko": "페이스오프를 전문으로 합니다.",
+          "en": "A faceoff specialist for the Ravens."
+        },
+        "details": {
+          "ko": "21세·3학년 FOGO. 사석에서는 느긋하고 말이 느리며 엉뚱한 비유를 쓴다. 경기에는 집중하고 장비 손질에 집요하며 남에게 맡기기를 싫어한다.",
+          "en": "21, a junior FOGO. Relaxed and slow-speaking in private, with unexpected comparisons. Focused in games and meticulous with equipment, disliking leaving it in someone else’s hands."
+        }
+      }
+    ]
   }
 };

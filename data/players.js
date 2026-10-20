@@ -119,8 +119,8 @@ window.PLAYERS = [
       "en": "Canada"
     },
     "lifestyle": {
-      "ko": "주량은 강한 편이며 맥주를 선호한다. 과음은 드물다. 취하면 웃음·말·칭찬·챙김이 늘어난다.",
-      "en": "Relatively high alcohol tolerance and a preference for beer; rarely drinks excessively. Becomes more smiling, talkative, complimentary and attentive when drinking."
+      "ko": "맥주를 선호하고 주량이 강하다. 취하면 말·칭찬·챙김이 늘어난다.",
+      "en": "Prefers beer and has a high alcohol tolerance. Becomes more talkative, praising and attentive when drunk."
     },
     "sensitiveRecords": [
       {
@@ -211,6 +211,19 @@ window.PLAYERS = [
             "sources": [
               "staff"
             ]
+          },
+          {
+            "title": {
+              "ko": "차량",
+              "en": "Vehicle"
+            },
+            "body": {
+              "ko": "수바루 아웃백",
+              "en": "Subaru Outback"
+            },
+            "sources": [
+              "administrative"
+            ]
           }
         ]
       },
@@ -297,8 +310,8 @@ window.PLAYERS = [
               "en": "Drinking & Lifestyle"
             },
             "body": {
-              "ko": "주량은 강한 편이며 맥주를 선호한다. 과음은 드물다. 취하면 웃음·말·칭찬·챙김이 늘어난다.",
-              "en": "Relatively high alcohol tolerance and a preference for beer; rarely drinks excessively. Becomes more smiling, talkative, complimentary and attentive when drinking."
+              "ko": "맥주를 선호하고 주량이 강하다. 취하면 말·칭찬·챙김이 늘어난다.",
+              "en": "Prefers beer and has a high alcohol tolerance. Becomes more talkative, praising and attentive when drunk."
             },
             "sources": [
               "private",
@@ -357,6 +370,21 @@ window.PLAYERS = [
               "unverified",
               "unknown"
             ]
+          },
+          {
+            "title": {
+              "ko": "개인적인 만남과 공유",
+              "en": "Private Plans & Sharing"
+            },
+            "body": {
+              "ko": "애정이 생기면 둘만의 약속을 주도하고 자기 근황과 고민도 나누고 싶어 한다. 타인을 챙기는 태도와 자신의 이야기를 공유하고 싶은 욕구가 함께 드러난다.",
+              "en": "When affection develops, he takes the initiative in one-to-one plans and wants to share his own updates and concerns. Caring for someone coexists with wanting to let them into his own life."
+            },
+            "sources": [
+              "private",
+              "unverified",
+              "unknown"
+            ]
           }
         ]
       },
@@ -399,7 +427,11 @@ window.PLAYERS = [
           }
         ]
       }
-    ]
+    ],
+    "vehicle": {
+      "ko": "수바루 아웃백",
+      "en": "Subaru Outback"
+    }
   },
   {
     "id": "august-caldwell",
@@ -448,14 +480,17 @@ window.PLAYERS = [
       "ko": "Westgate Row의 Delta Rho Kappa(ΔΡΚ), 통칭 Dark 프랫하우스에 거주한다. 1학년 러시로 가입했고 형도 동문이다. 현역 라크로스 선수 회원은 어거스트뿐이다.",
       "en": "Lives in the Delta Rho Kappa (ΔΡΚ), or Dark, fraternity house on Westgate Row. Joined through freshman rush; his brother is an alumnus. He is the fraternity’s only current lacrosse player."
     },
-    "languages": null,
+    "languages": {
+      "ko": "매끈한 미국 영어를 쓰며 은근한 빈정거림과 경쟁심이 말에 섞인다.",
+      "en": "He speaks polished American English, with understated sarcasm and competitiveness in his remarks."
+    },
     "appearance": {
       "ko": "단정한 백금발 머리, 밝은 바이올렛 눈, 탄탄한 운동 체형. 늘 은은한 미소를 띠며 프레피 스타일을 선호한다.",
       "en": "Neat platinum hair, bright violet eyes and an athletic build. He wears a subtle smile and favors a preppy style."
     },
     "family": {
-      "ko": "동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
-      "en": "He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
+      "ko": "동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형 너새니얼(Nathaniel)은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
+      "en": "He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother Nathaniel, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
     },
     "training": {
       "ko": "사교적이고 세련되며 예의 바르고 야심과 경쟁심이 강하다. 높은 성과·예의·자기관리가 기본인 환경에서 성장했으며 자기통제가 강하다. 승부욕·비교심·불쾌함을 쉽게 드러내지 않고 혼자 곱씹는다. 감정이 강할수록 오히려 침착하고 매끈해진다.",
@@ -541,8 +576,8 @@ window.PLAYERS = [
       "en": "United States"
     },
     "lifestyle": {
-      "ko": "주량은 중상. 진토닉·와인을 선호하고 단 술을 좋아하지 않는다. 페이스를 철저히 관리하지만 많이 취하면 경쟁심과 독설이 조금 새어 나온다.",
-      "en": "Moderately high alcohol tolerance; prefers gin and tonic or wine and dislikes sweet drinks. Carefully manages his pace, although heavier drinking can let some competitiveness and sharp remarks show."
+      "ko": "진토닉·와인을 선호하며 주량은 중상이다. 페이스를 관리하고 취하면 경쟁심과 독설이 새어 나온다.",
+      "en": "Prefers gin and tonic or wine, with moderately high alcohol tolerance. Manages his pace; competitiveness and sharp remarks surface when drunk."
     },
     "sensitiveRecords": [
       {
@@ -620,6 +655,32 @@ window.PLAYERS = [
             "sources": [
               "administrative"
             ]
+          },
+          {
+            "title": {
+              "ko": "차량",
+              "en": "Vehicle"
+            },
+            "body": {
+              "ko": "아우디 A5",
+              "en": "Audi A5"
+            },
+            "sources": [
+              "administrative"
+            ]
+          },
+          {
+            "title": {
+              "ko": "언어 · 말투",
+              "en": "Languages & Speech"
+            },
+            "body": {
+              "ko": "매끈한 미국 영어를 쓰며 은근한 빈정거림과 경쟁심이 말에 섞인다.",
+              "en": "He speaks polished American English, with understated sarcasm and competitiveness in his remarks."
+            },
+            "sources": [
+              "staff"
+            ]
           }
         ]
       },
@@ -671,8 +732,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
-              "en": "He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
+              "ko": "동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형 너새니얼(Nathaniel)은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
+              "en": "He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother Nathaniel, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
             },
             "sources": [
               "administrative"
@@ -721,8 +782,8 @@ window.PLAYERS = [
               "en": "Drinking & Lifestyle"
             },
             "body": {
-              "ko": "주량은 중상. 진토닉·와인을 선호하고 단 술을 좋아하지 않는다. 페이스를 철저히 관리하지만 많이 취하면 경쟁심과 독설이 조금 새어 나온다.",
-              "en": "Moderately high alcohol tolerance; prefers gin and tonic or wine and dislikes sweet drinks. Carefully manages his pace, although heavier drinking can let some competitiveness and sharp remarks show."
+              "ko": "진토닉·와인을 선호하며 주량은 중상이다. 페이스를 관리하고 취하면 경쟁심과 독설이 새어 나온다.",
+              "en": "Prefers gin and tonic or wine, with moderately high alcohol tolerance. Manages his pace; competitiveness and sharp remarks surface when drunk."
             },
             "sources": [
               "private",
@@ -796,6 +857,21 @@ window.PLAYERS = [
               "unverified",
               "unknown"
             ]
+          },
+          {
+            "title": {
+              "ko": "호기심과 주도성",
+              "en": "Curiosity & Initiative"
+            },
+            "body": {
+              "ko": "평소 타인 자체에 대한 관심은 낮고 원만한 거리를 유지하지만, 애정이 생기면 상대 자체에 호기심을 갖고 후속 질문을 하며 개인적인 만남을 주도한다. 흐트러지는 모습을 숨겨도 자신의 호감을 끝없이 부정하지는 않는다.",
+              "en": "Usually he has little interest in people for their own sake and maintains an agreeable distance. Affection brings curiosity about the person, follow-up questions and initiative in private meetings. Hiding his loss of composure does not mean endlessly denying his attraction."
+            },
+            "sources": [
+              "private",
+              "unverified",
+              "unknown"
+            ]
           }
         ]
       },
@@ -838,7 +914,11 @@ window.PLAYERS = [
           }
         ]
       }
-    ]
+    ],
+    "vehicle": {
+      "ko": "아우디 A5",
+      "en": "Audi A5"
+    }
   },
   {
     "id": "juno-han",
@@ -900,8 +980,8 @@ window.PLAYERS = [
       "en": "Playful and teasing, he remains diligent in games and training. He reads the atmosphere and boundaries quickly, enjoying light teasing or adding one more remark."
     },
     "staff": {
-      "ko": "분위기를 빠르게 읽고 가볍게 놀리거나 한마디를 더 얹는 것을 좋아한다. 장난스러운 태도와 별개로 경기·훈련에는 성실하다.",
-      "en": "He reads the atmosphere quickly and enjoys light teasing or adding one more remark. His playful manner coexists with sincere commitment to games and training."
+      "ko": "분위기를 빠르게 읽고 가볍게 놀리거나 한마디를 더 얹는 것을 좋아한다. 장난스러운 태도와 별개로 경기·훈련에는 성실하다. 엘리엇 프라이스와 팀원들을 놀리는 듀오이며 진지한 척 농담을 키우고 서로도 놀린다.",
+      "en": "He reads the atmosphere quickly and enjoys light teasing or adding one more remark. His playful manner coexists with sincere commitment to games and training. He and Elliot Price tease teammates, escalating jokes with a straight face and teasing each other too."
     },
     "future": {
       "ko": "라크로스와 팀은 좋아하지만 아직 졸업 후 진로로 정하지 않았다.",
@@ -949,8 +1029,8 @@ window.PLAYERS = [
       "en": "United States"
     },
     "lifestyle": {
-      "ko": "주량은 약함~중간. 소주를 선호하며 맛·한식과의 조합·술자리 분위기를 좋아한다. 취하면 장난과 말이 늘고 필터가 줄어든다.",
-      "en": "Low-to-moderate alcohol tolerance. Prefers soju, enjoying its taste, pairing with Korean food and the atmosphere of drinking together. Becomes more teasing and talkative, with less filtering."
+      "ko": "소주를 선호하며 주량은 약함~중간이다. 취하면 장난과 말이 늘고 필터가 줄어든다.",
+      "en": "Prefers soju, with low-to-moderate alcohol tolerance. Becomes more playful and talkative, with less of a filter when drunk."
     },
     "sensitiveRecords": [
       {
@@ -1050,6 +1130,19 @@ window.PLAYERS = [
             "body": {
               "ko": "사회심리학 · 대인관계 · 의사결정",
               "en": "Social psychology · Interpersonal relationships · Decision-making"
+            },
+            "sources": [
+              "administrative"
+            ]
+          },
+          {
+            "title": {
+              "ko": "차량",
+              "en": "Vehicle"
+            },
+            "body": {
+              "ko": "VW 골프 GTI",
+              "en": "Volkswagen Golf GTI"
             },
             "sources": [
               "administrative"
@@ -1155,8 +1248,8 @@ window.PLAYERS = [
               "en": "Drinking & Lifestyle"
             },
             "body": {
-              "ko": "주량은 약함~중간. 소주를 선호하며 맛·한식과의 조합·술자리 분위기를 좋아한다. 취하면 장난과 말이 늘고 필터가 줄어든다.",
-              "en": "Low-to-moderate alcohol tolerance. Prefers soju, enjoying its taste, pairing with Korean food and the atmosphere of drinking together. Becomes more teasing and talkative, with less filtering."
+              "ko": "소주를 선호하며 주량은 약함~중간이다. 취하면 장난과 말이 늘고 필터가 줄어든다.",
+              "en": "Prefers soju, with low-to-moderate alcohol tolerance. Becomes more playful and talkative, with less of a filter when drunk."
             },
             "sources": [
               "private",
@@ -1192,11 +1285,26 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "분위기를 빠르게 읽고 가볍게 놀리거나 한마디를 더 얹는 것을 좋아한다. 장난스러운 태도와 별개로 경기·훈련에는 성실하다.",
-              "en": "He reads the atmosphere quickly and enjoys light teasing or adding one more remark. His playful manner coexists with sincere commitment to games and training."
+              "ko": "분위기를 빠르게 읽고 가볍게 놀리거나 한마디를 더 얹는 것을 좋아한다. 장난스러운 태도와 별개로 경기·훈련에는 성실하다. 엘리엇 프라이스와 팀원들을 놀리는 듀오이며 진지한 척 농담을 키우고 서로도 놀린다.",
+              "en": "He reads the atmosphere quickly and enjoys light teasing or adding one more remark. His playful manner coexists with sincere commitment to games and training. He and Elliot Price tease teammates, escalating jokes with a straight face and teasing each other too."
             },
             "sources": [
               "staff"
+            ]
+          },
+          {
+            "title": {
+              "ko": "약속과 시간 투자",
+              "en": "Plans & Time Investment"
+            },
+            "body": {
+              "ko": "애정이 생기면 약속을 잡고 시간을 투자하는 것으로 진심을 표현한다. 관계에 대한 질문을 농담만으로 피하지 않는다.",
+              "en": "When affection develops, he expresses sincerity by making plans and investing time. He does not evade relationship questions with jokes alone."
+            },
+            "sources": [
+              "private",
+              "unverified",
+              "unknown"
             ]
           }
         ]
@@ -1240,7 +1348,11 @@ window.PLAYERS = [
           }
         ]
       }
-    ]
+    ],
+    "vehicle": {
+      "ko": "VW 골프 GTI",
+      "en": "Volkswagen Golf GTI"
+    }
   },
   {
     "id": "alfred-chadwick",
@@ -1302,8 +1414,8 @@ window.PLAYERS = [
       "en": "Dry, calm and independent, moving at his own pace. Sleeps a lot and enjoys his bed, late mornings and naps on days off, while keeping scheduled commitments. Quieter and slower just after waking or when short of sleep. Calls loudly and clearly to the defense in goal."
     },
     "staff": {
-      "ko": "골문에서는 수비진에게 크게 명확하게 콜한다. 평소 감정 표현은 담백하며 건조한 유머와 직설적인 말투를 쓴다.",
-      "en": "In goal he calls to the defense loudly and clearly. Away from play his emotional expression is understated, with dry humor and a direct manner."
+      "ko": "골문에서는 수비진에게 크게 명확하게 콜한다. 평소 감정 표현은 담백하며 건조한 유머와 직설적인 말투를 쓴다. 백업 골리 엘리엇 프라이스가 알피에게 배우고 있다.",
+      "en": "In goal he calls to the defense loudly and clearly. Away from play his emotional expression is understated, with dry humor and a direct manner. Backup goalie Elliot Price learns from him."
     },
     "future": {
       "ko": "졸업 후 영국으로 돌아가는 것을 당연하게 생각한다.",
@@ -1316,8 +1428,8 @@ window.PLAYERS = [
           "en": "Contact frequency and closeness"
         },
         "body": {
-          "ko": "친밀한 관계에서는 자주 만나지 않아도 관계가 유지된다고 생각하는 편이다. 연락이나 만남의 빈도 자체를 친밀감의 유일한 기준으로 삼지 않는다.",
-          "en": "In close relationships, tends to assume that the bond continues without frequent meetings. Frequency of contact or time together is not his sole measure of closeness."
+          "ko": "가까운 관계는 연락이 뜸해도 그대로라고 여긴다. 다만 반복되는 부재와 생활의 변화는 자신이 얼마나 정들었는지 알아차리는 계기가 된다.",
+          "en": "He considers close relationships unchanged by infrequent contact. Repeated absence and changes in daily life can nevertheless make him recognize how attached he has become."
         }
       },
       {
@@ -1338,8 +1450,8 @@ window.PLAYERS = [
           "en": "Attachment recognized late"
         },
         "body": {
-          "ko": "이별이나 장기적인 분리 가능성이 생긴 후에야 자신의 애착을 뒤늦게 자각하기 쉽다.",
-          "en": "May recognize his own attachment only after the possibility of a breakup or prolonged separation appears."
+          "ko": "연락이 뜸해도 가까운 관계의 친밀함은 그대로라고 여긴다. 정든 사실을 자각하는 데는 느리지만 반복되는 부재와 생활의 변화 속에서 이를 알아차린다. 자각한 뒤에는 함께할 시간을 먼저 잡는다.",
+          "en": "He regards closeness as intact even with infrequent contact. Recognition of attachment is slow, but repeated absences and changes in everyday life make it noticeable. Once aware, he initiates plans for time together."
         }
       },
       {
@@ -1371,8 +1483,8 @@ window.PLAYERS = [
       "en": "United Kingdom"
     },
     "lifestyle": {
-      "ko": "주량은 중간. 술맛 자체를 좋아하지 않으며 와인이 그나마 낫다. 취하면 졸음이 늘고 반응이 줄며 맨체스터 억양이 강해진다. 많이 마시면 잘 곳부터 찾는다.",
-      "en": "Moderate alcohol tolerance. Dislikes the taste of alcohol; wine is the more tolerable choice. Drinking brings drowsiness, reduced responses and a stronger Manchester accent. Looks for somewhere to sleep when he has had a lot."
+      "ko": "와인 외에는 술맛을 좋아하지 않으며 주량은 중간이다. 취하면 졸음이 늘고 맨체스터 억양이 강해진다.",
+      "en": "Dislikes the taste of alcohol apart from wine, with moderate tolerance. Becomes sleepy and more strongly Manchester-accented when drunk."
     },
     "sensitiveRecords": [
       {
@@ -1462,6 +1574,19 @@ window.PLAYERS = [
             },
             "sources": [
               "staff"
+            ]
+          },
+          {
+            "title": {
+              "ko": "차량",
+              "en": "Vehicle"
+            },
+            "body": {
+              "ko": "볼보 V60",
+              "en": "Volvo V60"
+            },
+            "sources": [
+              "administrative"
             ]
           }
         ]
@@ -1564,8 +1689,8 @@ window.PLAYERS = [
               "en": "Drinking & Lifestyle"
             },
             "body": {
-              "ko": "주량은 중간. 술맛 자체를 좋아하지 않으며 와인이 그나마 낫다. 취하면 졸음이 늘고 반응이 줄며 맨체스터 억양이 강해진다. 많이 마시면 잘 곳부터 찾는다.",
-              "en": "Moderate alcohol tolerance. Dislikes the taste of alcohol; wine is the more tolerable choice. Drinking brings drowsiness, reduced responses and a stronger Manchester accent. Looks for somewhere to sleep when he has had a lot."
+              "ko": "와인 외에는 술맛을 좋아하지 않으며 주량은 중간이다. 취하면 졸음이 늘고 맨체스터 억양이 강해진다.",
+              "en": "Dislikes the taste of alcohol apart from wine, with moderate tolerance. Becomes sleepy and more strongly Manchester-accented when drunk."
             },
             "sources": [
               "private",
@@ -1603,8 +1728,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "골문에서는 수비진에게 크게 명확하게 콜한다. 평소 감정 표현은 담백하며 건조한 유머와 직설적인 말투를 쓴다.",
-              "en": "In goal he calls to the defense loudly and clearly. Away from play his emotional expression is understated, with dry humor and a direct manner."
+              "ko": "골문에서는 수비진에게 크게 명확하게 콜한다. 평소 감정 표현은 담백하며 건조한 유머와 직설적인 말투를 쓴다. 백업 골리 엘리엇 프라이스가 알피에게 배우고 있다.",
+              "en": "In goal he calls to the defense loudly and clearly. Away from play his emotional expression is understated, with dry humor and a direct manner. Backup goalie Elliot Price learns from him."
             },
             "sources": [
               "staff"
@@ -1616,8 +1741,8 @@ window.PLAYERS = [
               "en": "Contact frequency and closeness"
             },
             "body": {
-              "ko": "친밀한 관계에서는 자주 만나지 않아도 관계가 유지된다고 생각하는 편이다. 연락이나 만남의 빈도 자체를 친밀감의 유일한 기준으로 삼지 않는다.",
-              "en": "In close relationships, tends to assume that the bond continues without frequent meetings. Frequency of contact or time together is not his sole measure of closeness."
+              "ko": "가까운 관계는 연락이 뜸해도 그대로라고 여긴다. 다만 반복되는 부재와 생활의 변화는 자신이 얼마나 정들었는지 알아차리는 계기가 된다.",
+              "en": "He considers close relationships unchanged by infrequent contact. Repeated absence and changes in daily life can nevertheless make him recognize how attached he has become."
             },
             "sources": [
               "private",
@@ -1631,8 +1756,8 @@ window.PLAYERS = [
               "en": "Attachment recognized late"
             },
             "body": {
-              "ko": "이별이나 장기적인 분리 가능성이 생긴 후에야 자신의 애착을 뒤늦게 자각하기 쉽다.",
-              "en": "May recognize his own attachment only after the possibility of a breakup or prolonged separation appears."
+              "ko": "연락이 뜸해도 가까운 관계의 친밀함은 그대로라고 여긴다. 정든 사실을 자각하는 데는 느리지만 반복되는 부재와 생활의 변화 속에서 이를 알아차린다. 자각한 뒤에는 함께할 시간을 먼저 잡는다.",
+              "en": "He regards closeness as intact even with infrequent contact. Recognition of attachment is slow, but repeated absences and changes in everyday life make it noticeable. Once aware, he initiates plans for time together."
             },
             "sources": [
               "private",
@@ -1681,7 +1806,11 @@ window.PLAYERS = [
           }
         ]
       }
-    ]
+    ],
+    "vehicle": {
+      "ko": "볼보 V60",
+      "en": "Volvo V60"
+    }
   },
   {
     "id": "bastian-hartmann",
@@ -1724,8 +1853,8 @@ window.PLAYERS = [
       "en": "A goalkeeper and captain whose strengths are defensive coordination and reliable saves. Calm and precise, with restrained fan interaction."
     },
     "residence": {
-      "ko": "Ravens House의 4인 스위트에 거주한다. 라키, 그랜트, 다른 남자 팀원 한 명과 함께 사용한다. 각자 개인 침실을 사용한다.",
-      "en": "Lives in a four-person Ravens House suite with Lachie, Grant and one unnamed member of the men’s lacrosse team. Each has an individual bedroom."
+      "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+      "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
     },
     "languages": {
       "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
@@ -1744,8 +1873,8 @@ window.PLAYERS = [
       "en": "Calm, exact, diligent and responsible, with strong perfectionism and self-control. Responds practically to others’ mistakes but is particularly harsh toward his own."
     },
     "staff": {
-      "ko": "침착·정확·성실하고 책임감이 강한 모범 주장이다. 팬서비스는 화려하지 않으며, 도움을 받거나 약함을 드러내는 데 익숙하지 않다.",
-      "en": "A calm, precise and diligent model captain with a strong sense of responsibility. Fan interaction is restrained, and he is unaccustomed to receiving help or revealing weakness."
+      "ko": "침착·정확·성실하고 책임감이 강한 모범 주장이다. 팬서비스는 화려하지 않으며, 도움을 받거나 약함을 드러내는 데 익숙하지 않다. 같은 4학년 맬컴 리드는 바스티안에게 직언하는 동기다.",
+      "en": "A calm, precise and diligent model captain with a strong sense of responsibility. Fan interaction is restrained, and he is unaccustomed to receiving help or revealing weakness. Fellow senior Malcolm Reed speaks frankly to Bastian."
     },
     "future": {
       "ko": "군 진로를 선택하지 않았다. 가족은 본인이 독립적으로 선택한 비군인 진로를 받아들인다.",
@@ -1800,8 +1929,8 @@ window.PLAYERS = [
           "en": "Decision after recognition"
         },
         "body": {
-          "ko": "마음이 없는 고백은 거절한다. 애정을 자각하기 전에도 만나고 싶으면 먼저 약속을 잡거나 접촉을 시도하며, 합리화하더라도 행동을 유보하지 않는다. 사랑을 자각한 뒤에는 밀당 없이 직접 고백한다. 관계의 거절은 받아들이지만 자기 감정과 상대의 중요성을 즉시 철회하지는 않는다.",
-          "en": "He rejects confessions when he has no feelings. Even before recognizing affection, he initiates plans or contact when he wants to meet, rather than postponing action while rationalizing it. After recognizing love he confesses directly without games. He accepts rejection of a relationship without immediately withdrawing his feelings or the other person’s importance."
+          "ko": "마음 없는 고백은 거절하고 자각 전에도 접근을 주도한다. 누적된 행동과 욕망을 분석해 사랑이라는 결론을 내리면 위기나 타인의 명명 없이 직접 고백하고 확신 있게 구애한다. 자기 뜻부터 직접 표현하고 행동하며 일상적인 자기 행동을 허가받을 때까지 기다리지 않는다. 경계를 존중하더라도 욕망을 철회하거나 선택지만 제시하는 것은 아니다. 명시된 경계 안에서 강하게 제안·설득·선점하되 거절하면 중단한다. 연애 후에도 집착은 유지된다. 거절과 상대의 선택을 수용해도 사랑과 중요성을 즉시 철회하지 않으며 “금지하지 않았다”는 이유로 상대가 통제받는다고 느끼는 데 진심으로 반박할 수 있다.",
+          "en": "He rejects confessions without feeling and initiates approaches even before awareness. After analyzing accumulated actions and desires and concluding that he is in love, he confesses directly and courts with confidence, without needing a crisis or another person to name it. He states his wishes and acts first, rather than waiting for permission for his ordinary personal actions. Respecting boundaries does not erase desire or reduce him to offering options. Within explicit boundaries he makes strong proposals, persuades and reserves time, stopping when refused. Attachment remains intense after dating begins. Accepting rejection or someone’s choice does not immediately revoke love or importance; he may sincerely dispute their sense of being controlled because he did not explicitly forbid anything."
         }
       },
       {
@@ -1810,8 +1939,8 @@ window.PLAYERS = [
           "en": "Checking across distance"
         },
         "body": {
-          "ko": "깊은 애착과 상대의 거리두기가 겹치면 공개 정보와 기존 패턴으로 상대의 상태를 확인하거나 우연을 가장해 근처에 나타날 수 있다. 이를 안전 관리로 합리화한다.",
-          "en": "When deep attachment coincides with the other person distancing themselves, he may check their condition through public information and familiar patterns, or appear nearby as though by chance. He rationalizes this as safety management."
+          "ko": "질투와 소유욕은 선점과 개입으로 이어질 수 있다. 거리두기에는 공개 정보·기존 패턴을 확인하고 우연을 가장해 나타나기도 한다. 위험·비효율·대안에 대한 논리로 자기 쪽으로 유도하며, 현실을 조작하기보다 자기 논리로 상대의 감각을 덮을 수 있다. 본인에게는 책임과 진심이지만 상대는 강압감을 느낄 수 있다.",
+          "en": "Jealousy and possessiveness may lead to reserving time and intervening. When someone distances themselves he may check public information and known patterns or appear as if by chance. Arguments about risk, inefficiency and alternatives can steer them toward him; his own reasoning may override their experience rather than alter reality. What he regards as responsibility and sincerity can feel coercive to the other person."
         }
       },
       {
@@ -1820,8 +1949,8 @@ window.PLAYERS = [
           "en": "Redirecting control"
         },
         "body": {
-          "ko": "통제 성향이 사라지기보다는 상대 행동까지 관리하려는 방식에서 자기 준비와 환경만 통제하는 방향으로 변한다. 일방적인 처리보다 제안과 동의를 배우며, “더 잘할 수 있다”와 “대신 결정할 권리가 있다”를 구분한다.",
-          "en": "His controlling tendency shifts rather than disappears: from managing another person’s behavior to controlling only his own preparation and environment. He learns proposals and consent rather than unilateral handling, distinguishing “I can do it better” from “I have the right to decide for them.”"
+          "ko": "직접적인 통제가 줄어도 통제 욕구가 사라지는 것은 아니다. 선택권을 인정하면서 정보·환경·준비·대안을 관리하는 방식으로 세련화된다. 일방적인 처리 대신 제안과 동의를 배우고 유능함이 대신 결정할 권리는 아님을 구분하나, 자기 논리로 가하는 압박과 재발 가능성은 남는다.",
+          "en": "Less direct control does not eliminate the desire for control. It becomes more refined through managing information, environment, preparation and alternatives while acknowledging choice. He learns proposals and consent rather than unilateral handling, and that competence is not a right to decide for someone, while pressure through his own logic and the possibility of recurrence remain."
         }
       }
     ],
@@ -1864,8 +1993,8 @@ window.PLAYERS = [
           "en": "Decision after recognition"
         },
         "body": {
-          "ko": "마음이 없는 고백은 거절한다. 애정을 자각하기 전에도 만나고 싶으면 먼저 약속을 잡거나 접촉을 시도하며, 합리화하더라도 행동을 유보하지 않는다. 사랑을 자각한 뒤에는 밀당 없이 직접 고백한다. 관계의 거절은 받아들이지만 자기 감정과 상대의 중요성을 즉시 철회하지는 않는다.",
-          "en": "He rejects confessions when he has no feelings. Even before recognizing affection, he initiates plans or contact when he wants to meet, rather than postponing action while rationalizing it. After recognizing love he confesses directly without games. He accepts rejection of a relationship without immediately withdrawing his feelings or the other person’s importance."
+          "ko": "마음 없는 고백은 거절하고 자각 전에도 접근을 주도한다. 누적된 행동과 욕망을 분석해 사랑이라는 결론을 내리면 위기나 타인의 명명 없이 직접 고백하고 확신 있게 구애한다. 자기 뜻부터 직접 표현하고 행동하며 일상적인 자기 행동을 허가받을 때까지 기다리지 않는다. 경계를 존중하더라도 욕망을 철회하거나 선택지만 제시하는 것은 아니다. 명시된 경계 안에서 강하게 제안·설득·선점하되 거절하면 중단한다. 연애 후에도 집착은 유지된다. 거절과 상대의 선택을 수용해도 사랑과 중요성을 즉시 철회하지 않으며 “금지하지 않았다”는 이유로 상대가 통제받는다고 느끼는 데 진심으로 반박할 수 있다.",
+          "en": "He rejects confessions without feeling and initiates approaches even before awareness. After analyzing accumulated actions and desires and concluding that he is in love, he confesses directly and courts with confidence, without needing a crisis or another person to name it. He states his wishes and acts first, rather than waiting for permission for his ordinary personal actions. Respecting boundaries does not erase desire or reduce him to offering options. Within explicit boundaries he makes strong proposals, persuades and reserves time, stopping when refused. Attachment remains intense after dating begins. Accepting rejection or someone’s choice does not immediately revoke love or importance; he may sincerely dispute their sense of being controlled because he did not explicitly forbid anything."
         },
         "sources": [
           "private",
@@ -1879,8 +2008,8 @@ window.PLAYERS = [
           "en": "Checking across distance"
         },
         "body": {
-          "ko": "깊은 애착과 상대의 거리두기가 겹치면 공개 정보와 기존 패턴으로 상대의 상태를 확인하거나 우연을 가장해 근처에 나타날 수 있다. 이를 안전 관리로 합리화한다.",
-          "en": "When deep attachment coincides with the other person distancing themselves, he may check their condition through public information and familiar patterns, or appear nearby as though by chance. He rationalizes this as safety management."
+          "ko": "질투와 소유욕은 선점과 개입으로 이어질 수 있다. 거리두기에는 공개 정보·기존 패턴을 확인하고 우연을 가장해 나타나기도 한다. 위험·비효율·대안에 대한 논리로 자기 쪽으로 유도하며, 현실을 조작하기보다 자기 논리로 상대의 감각을 덮을 수 있다. 본인에게는 책임과 진심이지만 상대는 강압감을 느낄 수 있다.",
+          "en": "Jealousy and possessiveness may lead to reserving time and intervening. When someone distances themselves he may check public information and known patterns or appear as if by chance. Arguments about risk, inefficiency and alternatives can steer them toward him; his own reasoning may override their experience rather than alter reality. What he regards as responsibility and sincerity can feel coercive to the other person."
         },
         "sources": [
           "private",
@@ -1929,8 +2058,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "Ravens House의 4인 스위트에 거주한다. 라키, 그랜트, 다른 남자 팀원 한 명과 함께 사용한다. 각자 개인 침실을 사용한다.",
-              "en": "Lives in a four-person Ravens House suite with Lachie, Grant and one unnamed member of the men’s lacrosse team. Each has an individual bedroom."
+              "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+              "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
             },
             "sources": [
               "administrative"
@@ -1968,8 +2097,8 @@ window.PLAYERS = [
               "en": "Ravens House · Shared Life"
             },
             "body": {
-              "ko": "바스티안·라키·그랜트와 다른 남자 팀원 한 명이 같은 4인 스위트를 쓴다. 개인 침실은 각자 사용하고 거실·주방·욕실을 공유한다. 공용 냉장고·설거지·쓰레기·청소·욕실 사용 순서의 생활 분담이 필요하다.",
-              "en": "Bastian, Lachie, Grant and another men’s teammate share a four-person suite. They have individual bedrooms and share a living room, kitchen and bathroom. Refrigerator use, washing dishes, trash, cleaning and bathroom turns require shared responsibilities."
+              "ko": "바스티안·라키·그랜트는 같은 4인 스위트에 거주한다. 개인 침실을 쓰며 거실·주방·욕실을 공유한다. 공용 냉장고·설거지·쓰레기·청소·욕실 순서 등 생활 분담이 필요하다.",
+              "en": "Bastian, Lachie and Grant share the same four-person suite, with individual bedrooms and shared living room, kitchen and bathroom. Refrigerator use, dishes, trash, cleaning and bathroom turns require shared responsibilities."
             },
             "sources": [
               "staff"
@@ -2084,8 +2213,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "침착·정확·성실하고 책임감이 강한 모범 주장이다. 팬서비스는 화려하지 않으며, 도움을 받거나 약함을 드러내는 데 익숙하지 않다.",
-              "en": "A calm, precise and diligent model captain with a strong sense of responsibility. Fan interaction is restrained, and he is unaccustomed to receiving help or revealing weakness."
+              "ko": "침착·정확·성실하고 책임감이 강한 모범 주장이다. 팬서비스는 화려하지 않으며, 도움을 받거나 약함을 드러내는 데 익숙하지 않다. 같은 4학년 맬컴 리드는 바스티안에게 직언하는 동기다.",
+              "en": "A calm, precise and diligent model captain with a strong sense of responsibility. Fan interaction is restrained, and he is unaccustomed to receiving help or revealing weakness. Fellow senior Malcolm Reed speaks frankly to Bastian."
             },
             "sources": [
               "staff"
@@ -2135,6 +2264,21 @@ window.PLAYERS = [
               "unverified",
               "unknown"
             ]
+          },
+          {
+            "title": {
+              "ko": "장기적인 몰두와 과잉 기억",
+              "en": "Sustained Focus & Excessive Recall"
+            },
+            "body": {
+              "ko": "특별한 대상에게 장기간 몰두하고 관심을 거두기 어렵다. 일정·습관·동선·주변인·필요를 과하게 기억한다. 감정을 분석하는 것이 자각을 미루는 뜻은 아니며, 접근과 개입을 책임·안전·효율·준비로 정당화한다.",
+              "en": "He can focus on a particular person for a long time and finds it hard to withdraw interest, remembering schedules, habits, routes, people around them and needs in excessive detail. Analyzing feelings does not defer awareness; he justifies approaches and involvement through responsibility, safety, efficiency and preparation."
+            },
+            "sources": [
+              "private",
+              "unverified",
+              "unknown"
+            ]
           }
         ]
       },
@@ -2166,8 +2310,8 @@ window.PLAYERS = [
               "en": "Redirecting control"
             },
             "body": {
-              "ko": "통제 성향이 사라지기보다는 상대 행동까지 관리하려는 방식에서 자기 준비와 환경만 통제하는 방향으로 변한다. 일방적인 처리보다 제안과 동의를 배우며, “더 잘할 수 있다”와 “대신 결정할 권리가 있다”를 구분한다.",
-              "en": "His controlling tendency shifts rather than disappears: from managing another person’s behavior to controlling only his own preparation and environment. He learns proposals and consent rather than unilateral handling, distinguishing “I can do it better” from “I have the right to decide for them.”"
+              "ko": "직접적인 통제가 줄어도 통제 욕구가 사라지는 것은 아니다. 선택권을 인정하면서 정보·환경·준비·대안을 관리하는 방식으로 세련화된다. 일방적인 처리 대신 제안과 동의를 배우고 유능함이 대신 결정할 권리는 아님을 구분하나, 자기 논리로 가하는 압박과 재발 가능성은 남는다.",
+              "en": "Less direct control does not eliminate the desire for control. It becomes more refined through managing information, environment, preparation and alternatives while acknowledging choice. He learns proposals and consent rather than unilateral handling, and that competence is not a right to decide for someone, while pressure through his own logic and the possibility of recurrence remain."
             },
             "sources": [
               "private",
@@ -2293,8 +2437,8 @@ window.PLAYERS = [
           "en": "Direct expression instead of inference"
         },
         "body": {
-          "ko": "과잉 관찰과 확인 욕구가 사라지는 것은 아니다. 불안을 사실로 단정하고 심문하기보다 “내가 불안하다”, “확인받고 싶다”고 직접 표현하며 받은 답을 존중하는 법을 배운다. 상대를 믿기로 선택해도 reassurance·관계 상징·명확한 표현을 계속 좋아한다.",
-          "en": "Over-observation and the need for confirmation do not disappear. He learns to express “I feel anxious” and “I want reassurance” directly, and to respect answers, rather than treating anxiety as fact and interrogating. Even when choosing to trust someone, he continues to like reassurance, relationship symbols and explicit expressions."
+          "ko": "과잉 관찰과 확인 욕구는 사라지지 않는다. 심문하기보다 불안을 표현하고 받은 답을 존중하는 법을 배워도 안심이 지속되는 것은 아니다. 납득한 뒤에도 답의 범위와 예외를 다시 분석한다. 상대를 믿기로 선택해도 안심 표현·관계 상징·명확한 표현을 계속 좋아한다.",
+          "en": "Over-observation and the need for confirmation remain. Learning to express anxiety rather than interrogate, and to respect answers, does not make reassurance last. Even after accepting an answer, he reanalyzes its scope and exceptions. Choosing to trust someone does not remove his liking for reassurance, relationship symbols and explicit expressions."
         }
       },
       {
@@ -2647,8 +2791,8 @@ window.PLAYERS = [
               "en": "Direct expression instead of inference"
             },
             "body": {
-              "ko": "과잉 관찰과 확인 욕구가 사라지는 것은 아니다. 불안을 사실로 단정하고 심문하기보다 “내가 불안하다”, “확인받고 싶다”고 직접 표현하며 받은 답을 존중하는 법을 배운다. 상대를 믿기로 선택해도 reassurance·관계 상징·명확한 표현을 계속 좋아한다.",
-              "en": "Over-observation and the need for confirmation do not disappear. He learns to express “I feel anxious” and “I want reassurance” directly, and to respect answers, rather than treating anxiety as fact and interrogating. Even when choosing to trust someone, he continues to like reassurance, relationship symbols and explicit expressions."
+              "ko": "과잉 관찰과 확인 욕구는 사라지지 않는다. 심문하기보다 불안을 표현하고 받은 답을 존중하는 법을 배워도 안심이 지속되는 것은 아니다. 납득한 뒤에도 답의 범위와 예외를 다시 분석한다. 상대를 믿기로 선택해도 안심 표현·관계 상징·명확한 표현을 계속 좋아한다.",
+              "en": "Over-observation and the need for confirmation remain. Learning to express anxiety rather than interrogate, and to respect answers, does not make reassurance last. Even after accepting an answer, he reanalyzes its scope and exceptions. Choosing to trust someone does not remove his liking for reassurance, relationship symbols and explicit expressions."
             },
             "sources": [
               "private",
@@ -2700,8 +2844,8 @@ window.PLAYERS = [
       "en": "An offensive midfielder whose strengths are dodging and scoring, with a strong, flexible athletic build."
     },
     "residence": {
-      "ko": "Ravens House에서 바스티안, 그랜트, 다른 남자 팀원 한 명과 4인 스위트를 사용한다. 각자 개인 침실이 있다.",
-      "en": "Shares a four-person Ravens House suite with Bastian, Grant and one unnamed men’s team member, each with an individual bedroom."
+      "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+      "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
     },
     "languages": {
       "ko": "퀸즐랜드 호주 영어를 사용한다. mate, reckon, yeah nah, bloody, arvo 같은 표현을 자연스럽게 쓴다. 빠르고 편하게 말하며 별명과 농담이 많다. 진심이 깊어질수록 농담이 줄고 짧고 직접적으로 말한다.",
@@ -2744,8 +2888,8 @@ window.PLAYERS = [
           "en": "Tolerating discomfort"
         },
         "body": {
-          "ko": "불편한 감정을 견디면서 관계를 유지해 본 경험이 부족하다. 갈등에는 농담이나 미루기로 반응하고, 관계의 정의·책임·미래 확정에는 회피가 나타날 수 있다.",
-          "en": "He has little experience maintaining a relationship while enduring discomfort. He responds to conflict with jokes or delay, and may avoid defining relationships, taking responsibility or committing to a future."
+          "ko": "현재와 재미를 우선하며 불편함을 견디는 데 미숙하다. 악의는 적지만 자신의 다정함이 주는 압박을 과소평가한다. 갈등을 농담·미루기·친밀함으로 덮고 관계 정의·책임·미래 확정을 피할 수 있다.",
+          "en": "He prioritizes the present and enjoyment and is inexperienced at enduring discomfort. He has little malice but underestimates the pressure his affection creates. Jokes, delay and closeness can cover conflict, while he avoids definition, responsibility and future commitments."
         }
       }
     ],
@@ -2756,8 +2900,8 @@ window.PLAYERS = [
           "en": "Present sincerity and the future"
         },
         "body": {
-          "ko": "연애·썸·situationship·hookup 경험이 많다. 당시의 호감은 진심이었지만 깊이 사랑해 본 경험은 없다. 편하고 즐거운 동안에는 다정하고 적극적이며 관계의 정의·책임·미래 약속은 굳이 필요하지 않다고 느낀다. 현재의 진심을 미래의 약속과 같게 여기지 않는다.",
-          "en": "He has had many relationships, flirtations, situationships and hookups. His affection at the time was sincere, but he has not experienced deep love. While things are comfortable and enjoyable he is affectionate and proactive, feeling no particular need for definition, responsibility or future promises. Present sincerity is not a future commitment to him."
+          "ko": "연애·썸·situationship·hookup 경험이 많고 당시의 호감은 진심이었다. 깊은 사랑을 경험하지 않았지만 사랑을 자각할 수 없다는 뜻은 아니다. 자각한 뒤에도 책임과 관계 정의를 피할 수 있다. 현재의 진심을 미래의 약속과 같은 것으로 여기지 않는다.",
+          "en": "He has many past relationships, flirtations, situationships and hookups, with sincere affection at the time. Not having experienced deep love does not make recognition impossible. Even after awareness he may avoid responsibility or definition, and present sincerity is not a future promise to him."
         }
       },
       {
@@ -2766,8 +2910,8 @@ window.PLAYERS = [
           "en": "Proximity and avoidance"
         },
         "body": {
-          "ko": "스트레스 → 사람·파티·스포츠. 애착 → 가까이 있기. 갈등 → 농담·미루기. 관계 정의·책임·미래 확정 → 회피. 사람을 좋아하고 가까이 있으려는 태도와 미래를 확정하지 않으려는 태도가 함께 존재한다.",
-          "en": "Stress → people, parties and sport. Attachment → staying close. Conflict → jokes and delay. Defining a relationship, responsibility and a fixed future → avoidance. Enjoying people and seeking proximity coexist with reluctance to settle a future."
+          "ko": "편안할 때는 다정하고 적극적이며 관계 정의·책임·미래 약속은 불필요하게 여긴다. 상대가 거리를 두어도 가벼운 연락과 초대는 괜찮다고 생각할 수 있다. 질투하면 더 재미있는 약속을 제안하거나 상대의 시간을 선점하려 한다. 스트레스는 사람·파티·운동으로, 애착은 더 붙어 있는 방식으로 다룬다.",
+          "en": "When comfortable he is affectionate and proactive, seeing little need for definition, responsibility or future promises. He may regard casual contact and invitations as acceptable even when someone is distancing themselves. Jealousy brings more entertaining plans or attempts to reserve their time. He handles stress through people, parties and sport, and attachment by staying closer."
         }
       },
       {
@@ -2776,8 +2920,8 @@ window.PLAYERS = [
           "en": "The possibility of wanting definition"
         },
         "body": {
-          "ko": "깊이 사랑하게 되면 갈등보다 관계가 끝나는 것이 더 싫어져 기존의 “굳이?”라는 방식이 무너진다. 관계 수리·양보·책임을 처음 배우며, 성장의 방향은 애매함보다 명확한 관계를 원해 본인이 먼저 관계를 정의하는 것이다.",
-          "en": "With deep love, ending the relationship becomes less tolerable than conflict, breaking down his usual “why bother?” logic. He begins learning repair, compromise and responsibility; his growth points toward preferring a clear relationship over ambiguity and defining it himself."
+          "ko": "관계가 끝나는 것이 갈등보다 싫어지면 기존의 “굳이?”라는 방식이 무너진다. 관계 수리·양보·책임을 배워도 회피가 사라지지는 않는다. 애착이 깊어질수록 관계 정의와 우선권을 원하며 확정된 뒤에도 더 붙어 있기·시간 선점·불편한 책임 회피가 남는다.",
+          "en": "When ending the relationship becomes worse than conflict, his usual “why bother?” logic breaks down. Learning repair, compromise and responsibility does not erase avoidance. Deeper attachment increases his desire for definition and priority; even after commitment, staying closer, reserving time and avoiding uncomfortable responsibilities persist."
         }
       }
     ],
@@ -2820,8 +2964,8 @@ window.PLAYERS = [
           "en": "Present sincerity and the future"
         },
         "body": {
-          "ko": "연애·썸·situationship·hookup 경험이 많다. 당시의 호감은 진심이었지만 깊이 사랑해 본 경험은 없다. 편하고 즐거운 동안에는 다정하고 적극적이며 관계의 정의·책임·미래 약속은 굳이 필요하지 않다고 느낀다. 현재의 진심을 미래의 약속과 같게 여기지 않는다.",
-          "en": "He has had many relationships, flirtations, situationships and hookups. His affection at the time was sincere, but he has not experienced deep love. While things are comfortable and enjoyable he is affectionate and proactive, feeling no particular need for definition, responsibility or future promises. Present sincerity is not a future commitment to him."
+          "ko": "연애·썸·situationship·hookup 경험이 많고 당시의 호감은 진심이었다. 깊은 사랑을 경험하지 않았지만 사랑을 자각할 수 없다는 뜻은 아니다. 자각한 뒤에도 책임과 관계 정의를 피할 수 있다. 현재의 진심을 미래의 약속과 같은 것으로 여기지 않는다.",
+          "en": "He has many past relationships, flirtations, situationships and hookups, with sincere affection at the time. Not having experienced deep love does not make recognition impossible. Even after awareness he may avoid responsibility or definition, and present sincerity is not a future promise to him."
         },
         "sources": [
           "private",
@@ -2870,8 +3014,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "Ravens House에서 바스티안, 그랜트, 다른 남자 팀원 한 명과 4인 스위트를 사용한다. 각자 개인 침실이 있다.",
-              "en": "Shares a four-person Ravens House suite with Bastian, Grant and one unnamed men’s team member, each with an individual bedroom."
+              "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+              "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
             },
             "sources": [
               "administrative"
@@ -2909,8 +3053,8 @@ window.PLAYERS = [
               "en": "Ravens House · Shared Life"
             },
             "body": {
-              "ko": "바스티안·라키·그랜트와 다른 남자 팀원 한 명이 같은 4인 스위트를 쓴다. 개인 침실은 각자 사용하고 거실·주방·욕실을 공유한다. 공용 냉장고·설거지·쓰레기·청소·욕실 사용 순서의 생활 분담이 필요하다.",
-              "en": "Bastian, Lachie, Grant and another men’s teammate share a four-person suite. They have individual bedrooms and share a living room, kitchen and bathroom. Refrigerator use, washing dishes, trash, cleaning and bathroom turns require shared responsibilities."
+              "ko": "바스티안·라키·그랜트는 같은 4인 스위트에 거주한다. 개인 침실을 쓰며 거실·주방·욕실을 공유한다. 공용 냉장고·설거지·쓰레기·청소·욕실 순서 등 생활 분담이 필요하다.",
+              "en": "Bastian, Lachie and Grant share the same four-person suite, with individual bedrooms and shared living room, kitchen and bathroom. Refrigerator use, dishes, trash, cleaning and bathroom turns require shared responsibilities."
             },
             "sources": [
               "staff"
@@ -3038,8 +3182,8 @@ window.PLAYERS = [
               "en": "Tolerating discomfort"
             },
             "body": {
-              "ko": "불편한 감정을 견디면서 관계를 유지해 본 경험이 부족하다. 갈등에는 농담이나 미루기로 반응하고, 관계의 정의·책임·미래 확정에는 회피가 나타날 수 있다.",
-              "en": "He has little experience maintaining a relationship while enduring discomfort. He responds to conflict with jokes or delay, and may avoid defining relationships, taking responsibility or committing to a future."
+              "ko": "현재와 재미를 우선하며 불편함을 견디는 데 미숙하다. 악의는 적지만 자신의 다정함이 주는 압박을 과소평가한다. 갈등을 농담·미루기·친밀함으로 덮고 관계 정의·책임·미래 확정을 피할 수 있다.",
+              "en": "He prioritizes the present and enjoyment and is inexperienced at enduring discomfort. He has little malice but underestimates the pressure his affection creates. Jokes, delay and closeness can cover conflict, while he avoids definition, responsibility and future commitments."
             },
             "sources": [
               "private",
@@ -3053,8 +3197,8 @@ window.PLAYERS = [
               "en": "Proximity and avoidance"
             },
             "body": {
-              "ko": "스트레스 → 사람·파티·스포츠. 애착 → 가까이 있기. 갈등 → 농담·미루기. 관계 정의·책임·미래 확정 → 회피. 사람을 좋아하고 가까이 있으려는 태도와 미래를 확정하지 않으려는 태도가 함께 존재한다.",
-              "en": "Stress → people, parties and sport. Attachment → staying close. Conflict → jokes and delay. Defining a relationship, responsibility and a fixed future → avoidance. Enjoying people and seeking proximity coexist with reluctance to settle a future."
+              "ko": "편안할 때는 다정하고 적극적이며 관계 정의·책임·미래 약속은 불필요하게 여긴다. 상대가 거리를 두어도 가벼운 연락과 초대는 괜찮다고 생각할 수 있다. 질투하면 더 재미있는 약속을 제안하거나 상대의 시간을 선점하려 한다. 스트레스는 사람·파티·운동으로, 애착은 더 붙어 있는 방식으로 다룬다.",
+              "en": "When comfortable he is affectionate and proactive, seeing little need for definition, responsibility or future promises. He may regard casual contact and invitations as acceptable even when someone is distancing themselves. Jealousy brings more entertaining plans or attempts to reserve their time. He handles stress through people, parties and sport, and attachment by staying closer."
             },
             "sources": [
               "private",
@@ -3092,8 +3236,8 @@ window.PLAYERS = [
               "en": "The possibility of wanting definition"
             },
             "body": {
-              "ko": "깊이 사랑하게 되면 갈등보다 관계가 끝나는 것이 더 싫어져 기존의 “굳이?”라는 방식이 무너진다. 관계 수리·양보·책임을 처음 배우며, 성장의 방향은 애매함보다 명확한 관계를 원해 본인이 먼저 관계를 정의하는 것이다.",
-              "en": "With deep love, ending the relationship becomes less tolerable than conflict, breaking down his usual “why bother?” logic. He begins learning repair, compromise and responsibility; his growth points toward preferring a clear relationship over ambiguity and defining it himself."
+              "ko": "관계가 끝나는 것이 갈등보다 싫어지면 기존의 “굳이?”라는 방식이 무너진다. 관계 수리·양보·책임을 배워도 회피가 사라지지는 않는다. 애착이 깊어질수록 관계 정의와 우선권을 원하며 확정된 뒤에도 더 붙어 있기·시간 선점·불편한 책임 회피가 남는다.",
+              "en": "When ending the relationship becomes worse than conflict, his usual “why bother?” logic breaks down. Learning repair, compromise and responsibility does not erase avoidance. Deeper attachment increases his desire for definition and priority; even after commitment, staying closer, reserving time and avoiding uncomfortable responsibilities persist."
             },
             "sources": [
               "private",
@@ -3145,8 +3289,8 @@ window.PLAYERS = [
       "en": "A defense player strong in one-on-one defense and physical play. His large, broad build supports his role as a dependable defensive core."
     },
     "residence": {
-      "ko": "Ravens House에서 바스티안, 라키, 다른 남자 팀원 한 명과 4인 스위트를 사용한다. 각자 개인 침실을 사용한다.",
-      "en": "Shares a four-person Ravens House suite with Bastian, Lachie and one unnamed member of the men’s team. Each uses an individual bedroom."
+      "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+      "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
     },
     "languages": {
       "ko": "미국 미드애틀랜틱 표준 영어를 사용한다. 짧고 평범한 말투에 건조한 유머가 있다. 상처받을수록 말수가 줄며 “I’m good.”, “It’s fine.”, “Doesn’t matter.” 같은 표현을 쓴다. 고성보다 냉각되는 반응에 가깝다.",
@@ -3199,8 +3343,8 @@ window.PLAYERS = [
           "en": "Responses that conceal emotion"
         },
         "body": {
-          "ko": "타인의 선택에서 자기 순위를 확인하고 동정을 싫어한다. 질투할 때 직접 묻기보다 경쟁자보다 가치 있는 사람이 되려고 자기개선에 몰두한다. 밀렸다고 확신하면 말수 → 접촉 → 공유가 줄어들고, 혼자 관계의 결론을 내린 뒤 먼저 철수한다.",
-          "en": "He reads his rank through other people’s choices and dislikes pity. When jealous he focuses on improving himself into someone more valuable than a rival rather than asking directly. Once convinced he has been displaced, speech, contact and sharing diminish; he reaches a relationship conclusion alone and withdraws first."
+          "ko": "타인의 선택에서 자기 순위를 읽고 동정을 싫어한다. 질투할 때 직접 묻기보다 경쟁자보다 가치 있어지려 자기개선에 몰두한다. 밀렸다고 확신하면 말수·접촉·공유를 줄이고 혼자 관계의 결론을 내린 뒤 먼저 철수한다. 상처와 자존심을 보호하려는 행동이지만 상대가 찾아오기를 기대하는 마음도 남아 있다.",
+          "en": "He reads his rank through others’ choices and dislikes pity. Jealousy drives self-improvement to become more valuable than a rival rather than direct questions. Once convinced he has been displaced, he reduces speech, contact and sharing, reaches a conclusion alone and withdraws first. Protecting hurt and pride coexists with hoping the other person will come after him."
         }
       }
     ],
@@ -3221,8 +3365,8 @@ window.PLAYERS = [
           "en": "Unspoken measures of trust"
         },
         "body": {
-          "ko": "상대가 먼저 연락하거나 찾아오고, 부탁하거나 화해하는지 볼 기회를 무의식적으로 만든다. 본인은 이를 시험이라고 생각하지 않는다.",
-          "en": "He unconsciously creates opportunities to see whether someone contacts him, comes to him, asks for something or initiates reconciliation. He does not think of it as a test."
+          "ko": "먼저 연락하고 둘만의 약속을 잡으며 시간을 투자한다. 동시에 상대도 먼저 연락·방문·부탁·화해하는지 볼 기회를 무의식적으로 만들며 이를 시험이라고 자각하지 않는다.",
+          "en": "He initiates contact, one-to-one plans and time investment. At the same time he unconsciously creates opportunities to see whether the other person also contacts, visits, asks and reconciles first, without recognizing these as tests."
         }
       },
       {
@@ -3231,8 +3375,8 @@ window.PLAYERS = [
           "en": "Bringing the criteria into words"
         },
         "body": {
-          "ko": "자발적으로 선택받고 싶은 욕구는 유지한다. 상대가 모르는 기준으로 점수를 깎는 대신, 원하는 행동을 질문·힌트·제안으로 유도하는 방식으로 변하며 후기에는 직접 요구한다.",
-          "en": "The desire to be chosen voluntarily remains. Rather than deducting points against criteria the other person does not know, he learns to elicit wanted actions through questions, hints and proposals, and later to ask directly."
+          "ko": "자발적으로 선택받고 싶은 욕구는 유지한다. 무언의 시험과 감점을 줄이고 요구와 불만을 직접 표현하는 법을 배우지만 거절 불안과 비교심은 남는다.",
+          "en": "The desire to be chosen voluntarily remains. He learns to reduce silent tests and deductions and to express wants and complaints directly, while fear of rejection and comparison persist."
         }
       }
     ],
@@ -3310,8 +3454,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "Ravens House에서 바스티안, 라키, 다른 남자 팀원 한 명과 4인 스위트를 사용한다. 각자 개인 침실을 사용한다.",
-              "en": "Shares a four-person Ravens House suite with Bastian, Lachie and one unnamed member of the men’s team. Each uses an individual bedroom."
+              "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+              "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
             },
             "sources": [
               "administrative"
@@ -3349,8 +3493,8 @@ window.PLAYERS = [
               "en": "Ravens House · Shared Life"
             },
             "body": {
-              "ko": "바스티안·라키·그랜트와 다른 남자 팀원 한 명이 같은 4인 스위트를 쓴다. 개인 침실은 각자 사용하고 거실·주방·욕실을 공유한다. 공용 냉장고·설거지·쓰레기·청소·욕실 사용 순서의 생활 분담이 필요하다.",
-              "en": "Bastian, Lachie, Grant and another men’s teammate share a four-person suite. They have individual bedrooms and share a living room, kitchen and bathroom. Refrigerator use, washing dishes, trash, cleaning and bathroom turns require shared responsibilities."
+              "ko": "바스티안·라키·그랜트는 같은 4인 스위트에 거주한다. 개인 침실을 쓰며 거실·주방·욕실을 공유한다. 공용 냉장고·설거지·쓰레기·청소·욕실 순서 등 생활 분담이 필요하다.",
+              "en": "Bastian, Lachie and Grant share the same four-person suite, with individual bedrooms and shared living room, kitchen and bathroom. Refrigerator use, dishes, trash, cleaning and bathroom turns require shared responsibilities."
             },
             "sources": [
               "staff"
@@ -3493,8 +3637,8 @@ window.PLAYERS = [
               "en": "Responses that conceal emotion"
             },
             "body": {
-              "ko": "타인의 선택에서 자기 순위를 확인하고 동정을 싫어한다. 질투할 때 직접 묻기보다 경쟁자보다 가치 있는 사람이 되려고 자기개선에 몰두한다. 밀렸다고 확신하면 말수 → 접촉 → 공유가 줄어들고, 혼자 관계의 결론을 내린 뒤 먼저 철수한다.",
-              "en": "He reads his rank through other people’s choices and dislikes pity. When jealous he focuses on improving himself into someone more valuable than a rival rather than asking directly. Once convinced he has been displaced, speech, contact and sharing diminish; he reaches a relationship conclusion alone and withdraws first."
+              "ko": "타인의 선택에서 자기 순위를 읽고 동정을 싫어한다. 질투할 때 직접 묻기보다 경쟁자보다 가치 있어지려 자기개선에 몰두한다. 밀렸다고 확신하면 말수·접촉·공유를 줄이고 혼자 관계의 결론을 내린 뒤 먼저 철수한다. 상처와 자존심을 보호하려는 행동이지만 상대가 찾아오기를 기대하는 마음도 남아 있다.",
+              "en": "He reads his rank through others’ choices and dislikes pity. Jealousy drives self-improvement to become more valuable than a rival rather than direct questions. Once convinced he has been displaced, he reduces speech, contact and sharing, reaches a conclusion alone and withdraws first. Protecting hurt and pride coexists with hoping the other person will come after him."
             },
             "sources": [
               "private",
@@ -3523,8 +3667,8 @@ window.PLAYERS = [
               "en": "Unspoken measures of trust"
             },
             "body": {
-              "ko": "상대가 먼저 연락하거나 찾아오고, 부탁하거나 화해하는지 볼 기회를 무의식적으로 만든다. 본인은 이를 시험이라고 생각하지 않는다.",
-              "en": "He unconsciously creates opportunities to see whether someone contacts him, comes to him, asks for something or initiates reconciliation. He does not think of it as a test."
+              "ko": "먼저 연락하고 둘만의 약속을 잡으며 시간을 투자한다. 동시에 상대도 먼저 연락·방문·부탁·화해하는지 볼 기회를 무의식적으로 만들며 이를 시험이라고 자각하지 않는다.",
+              "en": "He initiates contact, one-to-one plans and time investment. At the same time he unconsciously creates opportunities to see whether the other person also contacts, visits, asks and reconciles first, without recognizing these as tests."
             },
             "sources": [
               "private",
@@ -3547,8 +3691,8 @@ window.PLAYERS = [
               "en": "Bringing the criteria into words"
             },
             "body": {
-              "ko": "자발적으로 선택받고 싶은 욕구는 유지한다. 상대가 모르는 기준으로 점수를 깎는 대신, 원하는 행동을 질문·힌트·제안으로 유도하는 방식으로 변하며 후기에는 직접 요구한다.",
-              "en": "The desire to be chosen voluntarily remains. Rather than deducting points against criteria the other person does not know, he learns to elicit wanted actions through questions, hints and proposals, and later to ask directly."
+              "ko": "자발적으로 선택받고 싶은 욕구는 유지한다. 무언의 시험과 감점을 줄이고 요구와 불만을 직접 표현하는 법을 배우지만 거절 불안과 비교심은 남는다.",
+              "en": "The desire to be chosen voluntarily remains. He learns to reduce silent tests and deductions and to express wants and complaints directly, while fear of rejection and comparison persist."
             },
             "sources": [
               "private",

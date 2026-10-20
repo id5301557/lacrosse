@@ -1,0 +1,23 @@
+import {fileURLToPath} from 'node:url';
+import fs from 'node:fs';
+import vm from 'node:vm';
+process.chdir(fileURLToPath(new URL('../',import.meta.url)));
+const c={window:{}};
+for(const file of ['players','schools'])vm.runInNewContext(fs.readFileSync(`data/${file}.js`,'utf8'),c);
+const {PLAYERS,SCHOOLS}=c.window,by=id=>PLAYERS.find(p=>p.id===id),assert=(x,m)=>{if(!x)throw Error(m)};
+assert(PLAYERS.length===8,'Main profiles must remain eight');
+assert(SCHOOLS.aldermere.description.ko.includes('사라토가스프링스')&&SCHOOLS.aldermere.description.en.includes('Saratoga Springs'),'Aldermere location');
+assert(SCHOOLS.harrowgate.description.ko.includes('애나폴리스')&&SCHOOLS.harrowgate.description.en.includes('Annapolis'),'Harrowgate location');
+assert(SCHOOLS.aldermere.sportsStanding.ko.includes('1위')&&SCHOOLS.aldermere.sportsStanding.ko.includes('2위'),'Updated campus sports ranking');
+assert(SCHOOLS.harrowgate.coach.name.en==='Owen Callahan','New head coach');
+assert(by('august-caldwell').family.ko.includes('너새니얼')&&by('august-caldwell').family.en.includes('Nathaniel'),'Named brother');
+for(const [id,car]of Object.entries({'keegan-mercer':'Subaru Outback','august-caldwell':'Audi A5','juno-han':'Volkswagen Golf GTI','alfred-chadwick':'Volvo V60'}))assert(by(id).vehicle.en===car&&by(id).recordSections.some(s=>s.entries.some(e=>e.body.en===car)),'Vehicle directly readable: '+id);
+for(const school of Object.values(SCHOOLS))assert(school.supportingCast.length===4,'Four supporting people per school');
+assert(by('juno-han').staff.en.includes('Elliot Price'),'Elliot–Juno duo');
+assert(SCHOOLS.harrowgate.events.find(e=>e.name.en==='Charter Ball').details.en.includes('single song'),'Progressive Dance within one song');
+const source=JSON.stringify(PLAYERS);
+assert(!/다른 남자 팀원 한 명|another men’s teammate|NPC1|리비도|libido|九|五円|go-en/.test(source),'Deleted canon was restored');
+assert(!/군대 보고체를 일상적으로|당황하거나 감정을 합리화할 때|Numerical, technical, medical|Explanations may lengthen/.test(source),'User-deleted speech sentences were restored');
+for(const p of PLAYERS){for(const section of p.recordSections)for(const entry of section.entries){if(entry.title.en==='Languages & Speech')assert(entry.body.en===p.languages.en,'Speech data synchronized');if(entry.title.en==='Family Background')assert(entry.body.ko===p.family.ko,'Family data synchronized')}assert(p.sensitiveRecords[0].body.ko===p.sealedRecords[0].body.ko,'Sensitive record synchronized')}
+const app=fs.readFileSync('shared/app.js','utf8');assert(!app.includes('Football and men’s basketball are the leading')&&!app.includes('풋볼과 남자 농구가 캠퍼스를 대표'),'Old sports hierarchy');
+console.log('PASS: Oct 20 locations, sports ranks, vehicles, brother, new coach, 8 supporting people, relationship updates, housing, original deletions and bilingual fields.');
