@@ -1857,16 +1857,16 @@ window.PLAYERS = [
       "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
     },
     "languages": {
-      "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
-      "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion."
+      "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 평소에는 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
+      "en": "German is his native language; his C1–C2 English retains a slight German accent. He speaks briefly and naturally politely, using decisive, direct everyday language. Complex analysis stays internal while speech starts with the conclusion."
     },
     "appearance": {
       "ko": "단정한 애시·다크 블론드 머리, 회청색 눈, 각진 이목구비. 넓고 큰 골키퍼 체형에 절제된 인상이다.",
       "en": "Neat ash / dark-blond hair, gray-blue eyes and angular features. A broad, large goalkeeper build and a restrained appearance."
     },
     "family": {
-      "ko": "전후 Bundeswehr 장교 가문이다. 아버지는 고위 장교, 어머니는 민간 전문직이며, 여섯 살 위의 누나는 군 경력이 있고 유능하다. 가족은 책임·자기관리·독립적인 선택을 중시하며, 바스티안의 비군인 진로도 받아들인다. 귀족·왕족·옛 군벌 가문은 아니다.",
-      "en": "A postwar Bundeswehr officer family. His father is a senior officer, his mother a civilian professional, and his capable sister, six years older, has military experience. The family values responsibility, self-management and independent choices, and accepts his non-military career. It is not an aristocratic, royal or old warlord lineage."
+      "ko": "아버지는 독일 외교관, 어머니는 재택 번역가다. 아버지의 해외 발령을 따라 독일과 해외에서 성장했다. 네 살 위의 누나는 외교관을 지망하는 석사과정 학생으로, 유능하고 정서적으로 건강하다. 가족은 자기관리·책임·언행의 절제를 중시하며, 냉혹하거나 폭력적인 가정은 아니다.",
+      "en": "His father is a German diplomat and his mother a translator who works from home. He grew up in Germany and abroad, following his father’s overseas postings. His sister, four years older, is a capable, emotionally healthy master’s student who aspires to become a diplomat. The family values self-management, responsibility and restraint in words and actions; the home is neither cold nor violent."
     },
     "training": {
       "ko": "차분하고 정확하며 성실하고 책임감이 강하다. 완벽주의와 자기통제가 강하다. 타인의 실수에는 현실적으로 대응하지만 자신의 실수에는 특히 엄격하다.",
@@ -1877,8 +1877,8 @@ window.PLAYERS = [
       "en": "A calm, precise and diligent model captain with a strong sense of responsibility. Fan interaction is restrained, and he is unaccustomed to receiving help or revealing weakness. Fellow senior Malcolm Reed speaks frankly to Bastian."
     },
     "future": {
-      "ko": "군 진로를 선택하지 않았다. 가족은 본인이 독립적으로 선택한 비군인 진로를 받아들인다.",
-      "en": "He did not choose a military career. His family accepts his independently chosen civilian path."
+      "ko": "외교관 진로를 선택하지 않았다.",
+      "en": "He has not chosen a diplomatic career."
     },
     "restrictedRecords": [
       {
@@ -1887,8 +1887,8 @@ window.PLAYERS = [
           "en": "Family and choice"
         },
         "body": {
-          "ko": "누나와의 관계는 건강하다. 가족의 책임·자기관리 기준과 본인의 선택에 대한 책임감이 연결되어 있지만, 군 진로를 강요받는 관계는 아니다.",
-          "en": "His relationship with his sister is healthy. Family standards of responsibility and self-management connect with his accountability for his own choices, without a requirement to pursue a military career."
+          "ko": "네 살 위의 누나는 외교관을 지망하는 석사과정 학생이며 유능하고 정서적으로 건강하다. 가족이 중시하는 자기관리·책임·언행의 절제는 바스티안의 책임감과 연결되어 있다.",
+          "en": "His sister, four years older, is a capable and emotionally healthy master’s student who aspires to become a diplomat. The family’s emphasis on self-management, responsibility and restraint in words and actions connects with Bastian’s sense of accountability."
         }
       },
       {
@@ -1907,8 +1907,8 @@ window.PLAYERS = [
           "en": "Delegation and helplessness"
         },
         "body": {
-          "ko": "위임, 통제할 수 없는 실패와 무력감에 취약하다. 규율과 책임을 중시하는 가족 배경은 냉혹하거나 폭력적인 가정이라는 의미가 아니다.",
-          "en": "Vulnerable around delegation, failures beyond his control and helplessness. A family emphasis on discipline and responsibility does not imply a cold or violent home."
+          "ko": "위임, 통제할 수 없는 실패와 무력감에 취약하다. 자기관리·책임·언행의 절제를 중시하는 가족 배경은 냉혹하거나 폭력적인 가정이라는 의미가 아니다.",
+          "en": "Vulnerable around delegation, failures beyond his control and helplessness. A family emphasis on self-management, responsibility and restraint in words and actions does not imply a cold or violent home."
         }
       }
     ],
@@ -2084,8 +2084,8 @@ window.PLAYERS = [
               "en": "Languages & Speech"
             },
             "body": {
-              "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 책임과 규율을 중시하는 군인 가문에서 성장했지만 평소에는 22세 대학생다운 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
-              "en": "German is his native language; his C1–C2 English retains a slight German accent. Despite a military family’s emphasis on responsibility and discipline, he speaks like a 22-year-old student: brief, naturally polite, decisive and direct everyday language. Complex analysis stays internal while speech starts with the conclusion."
+              "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 평소에는 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
+              "en": "German is his native language; his C1–C2 English retains a slight German accent. He speaks briefly and naturally politely, using decisive, direct everyday language. Complex analysis stays internal while speech starts with the conclusion."
             },
             "sources": [
               "staff"
@@ -2154,8 +2154,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "전후 Bundeswehr 장교 가문이다. 아버지는 고위 장교, 어머니는 민간 전문직이며, 여섯 살 위의 누나는 군 경력이 있고 유능하다. 가족은 책임·자기관리·독립적인 선택을 중시하며, 바스티안의 비군인 진로도 받아들인다. 귀족·왕족·옛 군벌 가문은 아니다.",
-              "en": "A postwar Bundeswehr officer family. His father is a senior officer, his mother a civilian professional, and his capable sister, six years older, has military experience. The family values responsibility, self-management and independent choices, and accepts his non-military career. It is not an aristocratic, royal or old warlord lineage."
+              "ko": "아버지는 독일 외교관, 어머니는 재택 번역가다. 아버지의 해외 발령을 따라 독일과 해외에서 성장했다. 네 살 위의 누나는 외교관을 지망하는 석사과정 학생으로, 유능하고 정서적으로 건강하다. 가족은 자기관리·책임·언행의 절제를 중시하며, 냉혹하거나 폭력적인 가정은 아니다.",
+              "en": "His father is a German diplomat and his mother a translator who works from home. He grew up in Germany and abroad, following his father’s overseas postings. His sister, four years older, is a capable, emotionally healthy master’s student who aspires to become a diplomat. The family values self-management, responsibility and restraint in words and actions; the home is neither cold nor violent."
             },
             "sources": [
               "administrative"
@@ -2167,8 +2167,8 @@ window.PLAYERS = [
               "en": "Family and choice"
             },
             "body": {
-              "ko": "누나와의 관계는 건강하다. 가족의 책임·자기관리 기준과 본인의 선택에 대한 책임감이 연결되어 있지만, 군 진로를 강요받는 관계는 아니다.",
-              "en": "His relationship with his sister is healthy. Family standards of responsibility and self-management connect with his accountability for his own choices, without a requirement to pursue a military career."
+              "ko": "네 살 위의 누나는 외교관을 지망하는 석사과정 학생이며 유능하고 정서적으로 건강하다. 가족이 중시하는 자기관리·책임·언행의 절제는 바스티안의 책임감과 연결되어 있다.",
+              "en": "His sister, four years older, is a capable and emotionally healthy master’s student who aspires to become a diplomat. The family’s emphasis on self-management, responsibility and restraint in words and actions connects with Bastian’s sense of accountability."
             },
             "sources": [
               "private",
@@ -2241,8 +2241,8 @@ window.PLAYERS = [
               "en": "Delegation and helplessness"
             },
             "body": {
-              "ko": "위임, 통제할 수 없는 실패와 무력감에 취약하다. 규율과 책임을 중시하는 가족 배경은 냉혹하거나 폭력적인 가정이라는 의미가 아니다.",
-              "en": "Vulnerable around delegation, failures beyond his control and helplessness. A family emphasis on discipline and responsibility does not imply a cold or violent home."
+              "ko": "위임, 통제할 수 없는 실패와 무력감에 취약하다. 자기관리·책임·언행의 절제를 중시하는 가족 배경은 냉혹하거나 폭력적인 가정이라는 의미가 아니다.",
+              "en": "Vulnerable around delegation, failures beyond his control and helplessness. A family emphasis on self-management, responsibility and restraint in words and actions does not imply a cold or violent home."
             },
             "sources": [
               "private",
@@ -2295,8 +2295,8 @@ window.PLAYERS = [
               "en": "Career Direction"
             },
             "body": {
-              "ko": "군 진로를 선택하지 않았다. 가족은 본인이 독립적으로 선택한 비군인 진로를 받아들인다.",
-              "en": "He did not choose a military career. His family accepts his independently chosen civilian path."
+              "ko": "외교관 진로를 선택하지 않았다.",
+              "en": "He has not chosen a diplomatic career."
             },
             "sources": [
               "private",
@@ -2372,8 +2372,8 @@ window.PLAYERS = [
       "en": "Native-level Japanese and English. His English is soft and polished, with little swearing and more questions when anxious. Uses standard Japanese, high honorifics with paternal elders and plain speech with close peers. Anger brings more polite Japanese; hurt brings excessive formality."
     },
     "appearance": {
-      "ko": "짧고 단정한 짙은 갈색~검은색 레이어드 헤어. 깔끔하게 가르마를 탈 수 있다. 분홍색 눈, 부드럽고 깨끗한 피부, 이어커프. 날씬한 운동선수 체형에 세련된 인상이다.",
-      "en": "Short, neat dark-brown to black layered hair, optionally with a clean part. Pink eyes, soft clear skin and an ear cuff. A slender athletic build and polished appearance."
+      "ko": "단정한 짙은 갈색 레이어드 헤어와 분홍색 눈, 부드럽고 깨끗한 피부. 이어커프를 선호하며 날씬한 공격수 체형에 곱고 온화한 인상이다.",
+      "en": "Neat dark-brown layered hair, pink eyes and soft, clear skin. He favors ear cuffs and has a slender attacking build with delicate features and a gentle appearance."
     },
     "family": {
       "ko": "미국 출생으로 어린 시절 일본과 미국을 왕래하며 성장했다. 田茂井는 희귀 성씨다. 아버지 집안은 교토 북부·단고 지역의 오래된 민간 상업 자산가로, 전통 직물에서 부동산·자산운용·브랜드로 이어졌다. 공가·화족·군부 명문은 아니다. 어머니는 미국에 거주한다.",
@@ -2565,8 +2565,8 @@ window.PLAYERS = [
               "en": "Appearance"
             },
             "body": {
-              "ko": "짧고 단정한 짙은 갈색~검은색 레이어드 헤어. 깔끔하게 가르마를 탈 수 있다. 분홍색 눈, 부드럽고 깨끗한 피부, 이어커프. 날씬한 운동선수 체형에 세련된 인상이다.",
-              "en": "Short, neat dark-brown to black layered hair, optionally with a clean part. Pink eyes, soft clear skin and an ear cuff. A slender athletic build and polished appearance."
+              "ko": "단정한 짙은 갈색 레이어드 헤어와 분홍색 눈, 부드럽고 깨끗한 피부. 이어커프를 선호하며 날씬한 공격수 체형에 곱고 온화한 인상이다.",
+              "en": "Neat dark-brown layered hair, pink eyes and soft, clear skin. He favors ear cuffs and has a slender attacking build with delicate features and a gentle appearance."
             },
             "sources": [
               "administrative"
@@ -3301,8 +3301,8 @@ window.PLAYERS = [
       "en": "Dark skin, dark-brown eyes and a large, broad defensive build. Short black undercut hair and a strong-featured, calm appearance."
     },
     "family": {
-      "ko": "메릴랜드의 잘 알려진 라크로스 가족으로 장남이다. 흑인 중산층~상위 중산층 가족이 교육·전문직·지역 스포츠 네트워크를 여러 세대에 걸쳐 쌓아온 배경이다. 오래전부터 초부유층이었던 집안은 아니다. 할아버지·아버지·삼촌 모두 대학 라크로스 선수였다. 장남의 장남으로 가족의 차세대 대표라는 기대를 받는다.",
-      "en": "The oldest son in a well-known Maryland lacrosse family. A Black middle / upper-middle-class family that built education, professional careers and regional sports networks over generations, rather than longstanding extreme wealth. His grandfather, father and uncle were all college lacrosse players. The oldest son of an oldest son, expected to represent the next generation of the family."
+      "ko": "체서피크만의 해운·항만물류업을 가업으로 하는 유복한 라크로스 명가 출신이다. 할아버지·아버지·삼촌 모두 대학 라크로스 선수였다. 장남의 장남으로 가족의 차세대 대표라는 기대를 받는다.",
+      "en": "He comes from an affluent Chesapeake Bay family whose business is shipping and port logistics, with an established lacrosse tradition. His grandfather, father and uncle were all college lacrosse players. As the oldest son of an oldest son, he is expected to represent the family’s next generation."
     },
     "training": {
       "ko": "조용하고 성실하며 침착하고 독립적이다. SNS 활동이 적고 경쟁적이다. 상처를 밖으로 드러내지 않으며 비교 상황에서 자기계발과 경쟁으로 대응하는 경향이 있다.",
@@ -3550,8 +3550,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "메릴랜드의 잘 알려진 라크로스 가족으로 장남이다. 흑인 중산층~상위 중산층 가족이 교육·전문직·지역 스포츠 네트워크를 여러 세대에 걸쳐 쌓아온 배경이다. 오래전부터 초부유층이었던 집안은 아니다. 할아버지·아버지·삼촌 모두 대학 라크로스 선수였다. 장남의 장남으로 가족의 차세대 대표라는 기대를 받는다.",
-              "en": "The oldest son in a well-known Maryland lacrosse family. A Black middle / upper-middle-class family that built education, professional careers and regional sports networks over generations, rather than longstanding extreme wealth. His grandfather, father and uncle were all college lacrosse players. The oldest son of an oldest son, expected to represent the next generation of the family."
+              "ko": "체서피크만의 해운·항만물류업을 가업으로 하는 유복한 라크로스 명가 출신이다. 할아버지·아버지·삼촌 모두 대학 라크로스 선수였다. 장남의 장남으로 가족의 차세대 대표라는 기대를 받는다.",
+              "en": "He comes from an affluent Chesapeake Bay family whose business is shipping and port logistics, with an established lacrosse tradition. His grandfather, father and uncle were all college lacrosse players. As the oldest son of an oldest son, he is expected to represent the family’s next generation."
             },
             "sources": [
               "administrative"

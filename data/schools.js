@@ -916,8 +916,8 @@ window.SCHOOLS = {
       "en": "The next chapter belongs to you."
     },
     "description": {
-      "ko": "메릴랜드 체서피크만 서안, 애나폴리스권의 수변 대학도시에 자리한 오랜 전통의 중소규모 명문 사립대학입니다. 고풍스러운 벽돌·석조 건물과 현대적인 시설, 학생자치 문화가 공존하며 경쟁·비교·평판에 대한 의식도 강합니다.",
-      "en": "A longstanding, small-to-mid-sized private university in a waterfront college town in the Annapolis area, on Maryland’s western Chesapeake Bay. Historic brick and stone coexist with modern facilities and student self-government, alongside a strong awareness of competition, comparison and reputation."
+      "ko": "메릴랜드주 애나폴리스 근교의 수변 대학도시에 자리한 오랜 전통의 중소규모 명문 사립대학입니다. 고풍스러운 벽돌·석조 건물과 현대적인 시설, 학생자치 문화가 공존하며 경쟁·비교·평판에 대한 의식도 강합니다.",
+      "en": "A longstanding, small-to-mid-sized private university in a waterfront college town near Annapolis, Maryland. Historic brick and stone coexist with modern facilities and student self-government, alongside a strong awareness of competition, comparison and reputation."
     },
     "facilities": [
       {
