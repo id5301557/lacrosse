@@ -128,8 +128,8 @@ window.SCHOOLS = {
           53
         ],
         "description": {
-          "ko": "상급생 기숙사",
-          "en": "Upperclass residence"
+          "ko": "학생기숙사 · 키건 거주",
+          "en": "Student residence · Keegan’s residence"
         }
       },
       {
@@ -140,8 +140,8 @@ window.SCHOOLS = {
           80
         ],
         "description": {
-          "ko": "고급 1인 스위트",
-          "en": "Premium single suites"
+          "ko": "고급 1인 스위트 · 알피 거주",
+          "en": "Premium single suites · Alfie’s residence"
         }
       },
       {
@@ -809,8 +809,8 @@ window.SCHOOLS = {
       }
     },
     "teamCulture": {
-      "ko": "시즌 밖에도 웨이트·컨디셔닝·포지션별 유닛 훈련·필름 리뷰·전술 미팅·트레이너 관리가 반복되며 수업·과제와 병행합니다. 주전은 고정 특권이 아니며 뎁스차트·컨디션·훈련 평가·상대 전술에 따라 출전시간이 변합니다. 부상은 스포츠의학·재활·복귀 절차를 우선합니다. 원정은 이동·호텔·식사·미팅까지 팀 일정에 묶이고, 경기 다음 날에는 회복·치료·필름 리뷰가 이어집니다. 주장도 코치 지시·평가에서 예외가 아닙니다. 친한 팀원끼리도 경쟁과 실수, 벤치와 역할에 대한 불만이 생길 수 있습니다. 라커룸·웨이트룸·트레이닝룸·필름룸은 일상 공간이며 훈련 전후 짧은 잡담·식사·과제·낮잠도 이곳의 생활에 속합니다.",
-      "en": "Even outside the season, weights, conditioning, positional units, film review, tactical meetings and trainer care recur alongside classes and assignments. Starting is not a fixed privilege: depth charts, condition, training assessment and opposing tactics affect playing time. Sports medicine, rehabilitation and return procedures come first for injuries. Travel, hotels, meals and meetings are team commitments, followed by recovery, treatment and film the next day. Captains are not exempt from instructions or assessment. Close teammates may still compete, make mistakes or be unhappy about benching and roles. Locker, weight, training and film rooms are everyday spaces, with brief conversations, meals, assignments and naps around training."
+      "ko": "비시즌에도 수업·과제와 웨이트·컨디셔닝·유닛훈련·필름·전술미팅·트레이너 관리를 병행합니다. 출전시간은 뎁스·컨디션·훈련평가·상대 전술에 따라 달라지며 친분이나 주장 지위로 특혜를 받지 않습니다. 주장은 선수와 코치를 조율하고 분위기를 관리하며 후배를 돕습니다. 부상은 스포츠의학·재활·복귀 절차를 우선합니다. 원정은 이동·호텔·식사·미팅까지 팀 일정이며 경기 후에도 회복·치료·피드백·필름이 우선이고 파티로 자동 연결되지 않습니다. 팀식사·스터디·라커룸 장난·단체채팅 등 교류가 많지만 친한 사이에도 경쟁·벤치·역할 불만은 존재합니다. 일정과 친분에 따라 소수가 모입니다. 남자농구가 인기 1위, 라크로스가 2위인 대표 스포츠로 팬·동문 지원이 탄탄합니다. 팬 응대는 경기 전후와 공개행사 중심입니다. 키건·어거스트·주노·알피는 Avery Court의 알피 스위트에서 게임·배달음식·경기 시청·잡담을 즐깁니다. 네 사람의 아지트이며 함께 거주하는 곳은 아닙니다. 알피는 그곳에서도 침대를 애용합니다.",
+      "en": "Outside the season, classes and assignments continue alongside weights, conditioning, unit drills, film, tactical meetings and trainer care. Playing time depends on depth, condition, training assessment and the opposition; friendship and captaincy bring no special treatment. The captain coordinates players and coaches, supports the team atmosphere and helps younger teammates. Sports medicine, rehabilitation and return procedures take priority for injuries. Travel includes transport, hotels, meals and meetings; recovery, treatment, feedback and film come before celebrations after games. Team meals, study, locker-room jokes and group chats coexist with competition and dissatisfaction over benching or roles. Small groups gather according to schedules and friendships. Men’s basketball ranks first in campus popularity and lacrosse second, with strong fan and alumni support. Fan interaction centers on games and public events. Keegan, August, Juno and Alfie use Alfie’s Avery Court suite for games, takeout, watching sports and conversation. It is their hangout, not a shared residence; Alfie still favors the bed."
     },
     "dark": {
       "ko": "Delta Rho Kappa(ΔΡΚ), 통칭 Dark는 오래된 엘리트 프래터니티입니다. 공식 선발은 성적·평판·교내활동·조직 적합성을 보지만 추천·레거시·프렙스쿨·가문 인맥·높은 회비·문화자본이 강한 필터로 작용합니다. 법조·정치·금융·기업계 동문층이 두텁고 배타적·속물적이라는 평도 있습니다. Dark House는 Westgate Row의 오래된 대저택형 건물로 거실·식당·회원방·행사공간이 있으며 파티·식사·동문 리셉션이 열립니다. 회원 사이에도 친밀도·파벌·활동량의 차이가 있습니다.",
@@ -896,6 +896,25 @@ window.SCHOOLS = {
           "ko": "20세·2학년. 붙임성 있고 질문이 집요하며 기술 노트를 쓴다. 주노와 팀원을 놀리는 듀오로, 진지한 척 농담을 키우고 서로도 놀린다. 알피에게 배우며 출전 욕심이 있고 자기 세이브 클립을 수집한다.",
           "en": "20, a sophomore. Friendly and persistent with questions, keeping technical notes. He and Juno tease teammates, escalating jokes with a straight face and teasing each other too. Learns from Alfie, wants playing time and collects his own save clips."
         }
+      },
+      {
+        "id": "dorian-westcott",
+        "name": {
+          "ko": "도리언 웨스트콧",
+          "en": "Dorian Westcott"
+        },
+        "role": {
+          "ko": "1학년 디펜스",
+          "en": "Freshman Defense"
+        },
+        "publicBio": {
+          "ko": "빠른 발과 판단을 강점으로 팀 수비에 적응 중인 1학년 디펜스입니다.",
+          "en": "A freshman defender with quick feet and decisions, adapting to team defense."
+        },
+        "details": {
+          "ko": "19세·1학년 디펜스. 그랜트 웨스트콧의 세 살 아래 사촌이자 삼촌의 아들로, 그랜트를 보고 라크로스를 시작했으며 형을 진심으로 존경한다. 빠른 발·판단·공격적인 수비가 강점이고 팀 수비에 적응 중이다. 재능에 대한 인정과 주목에 익숙하다.",
+          "en": "19, a freshman defender. Grant Westcott’s cousin, three years younger and his uncle’s son, who took up lacrosse after watching Grant and sincerely admires him. Quick feet, decisions and aggressive defense are strengths; he is still adapting to team defense. He is accustomed to recognition and attention for his talent."
+        }
       }
     ]
   },
@@ -934,7 +953,7 @@ window.SCHOOLS = {
       },
       {
         "id": "facility-1",
-        "name": "Bellweather Tower",
+        "name": "Ashburn Tower",
         "point": [
           48,
           15
@@ -950,7 +969,7 @@ window.SCHOOLS = {
       },
       {
         "id": "facility-2",
-        "name": "Whitmore Library",
+        "name": "Fenwick Library",
         "point": [
           22,
           26
@@ -974,7 +993,7 @@ window.SCHOOLS = {
       },
       {
         "id": "facility-4",
-        "name": "Marlowe Commons",
+        "name": "Brier Commons",
         "point": [
           24,
           53
@@ -986,7 +1005,7 @@ window.SCHOOLS = {
       },
       {
         "id": "facility-5",
-        "name": "Rutherford Athletics",
+        "name": "Hardwick Athletics",
         "point": [
           71,
           21
@@ -1022,19 +1041,19 @@ window.SCHOOLS = {
       },
       {
         "id": "facility-8",
-        "name": "Westgate Row",
+        "name": "Kingston Row",
         "point": [
           18,
           72
         ],
         "description": {
-          "ko": "상급생 주거",
-          "en": "Upperclass housing"
+          "ko": "학생기숙사동",
+          "en": "Student residence buildings"
         }
       },
       {
         "id": "facility-9",
-        "name": "Carroway Hall",
+        "name": "Winslow Hall",
         "point": [
           50,
           77
@@ -1046,7 +1065,7 @@ window.SCHOOLS = {
       },
       {
         "id": "facility-10",
-        "name": "Vale Health",
+        "name": "Linden Health",
         "point": [
           80,
           76
@@ -1246,8 +1265,8 @@ window.SCHOOLS = {
           "en": "Open House Night"
         },
         "details": {
-          "ko": "10월 30일 학생자치 야간행사. 19:00 기숙사·동아리 공용공간이 DJ룸·호러룸·게임·노래방·포토존·모크테일바 등 자체 테마로 열립니다. 원하는 곳만 골라 순회하며 코스튬은 의무가 아닙니다. 22:30 공식 프로그램 종료. 선택형 스탬프 패스를 일정 수 모으면 Marlowe Commons에서 야식으로 교환할 수 있습니다. 학교는 공용구역 인원·소음·안전을 관리하고 Ravens House도 참가할 수 있습니다. 인기 있는 방에는 대기줄이 생기며 공식 종료 후 일부 학생은 사적 파티로 이동합니다.",
-          "en": "A student-led evening on October 30. At 19:00, residence and club common spaces open with their own themes: DJ, horror, games, karaoke, photos or mocktail bars. Students choose spaces freely; costumes are optional. The official program ends at 22:30. An optional stamp pass can be exchanged for late-night food at Marlowe Commons after enough visits. The university manages shared-space capacity, noise and safety; Ravens House may participate. Popular rooms develop queues, and some students move to private parties after the official program."
+          "ko": "10월 30일 학생자치 야간행사. 19:00 기숙사·동아리 공용공간이 DJ룸·호러룸·게임·노래방·포토존·모크테일바 등 자체 테마로 열립니다. 원하는 곳만 골라 순회하며 코스튬은 의무가 아닙니다. 22:30 공식 프로그램 종료. 선택형 스탬프 패스를 일정 수 모으면 Brier Commons에서 야식으로 교환할 수 있습니다. 학교는 공용구역 인원·소음·안전을 관리하고 Ravens House도 참가할 수 있습니다. 인기 있는 방에는 대기줄이 생기며 공식 종료 후 일부 학생은 사적 파티로 이동합니다.",
+          "en": "A student-led evening on October 30. At 19:00, residence and club common spaces open with their own themes: DJ, horror, games, karaoke, photos or mocktail bars. Students choose spaces freely; costumes are optional. The official program ends at 22:30. An optional stamp pass can be exchanged for late-night food at Brier Commons after enough visits. The university manages shared-space capacity, noise and safety; Ravens House may participate. Popular rooms develop queues, and some students move to private parties after the official program."
         },
         "moments": [
           {
@@ -1344,8 +1363,8 @@ window.SCHOOLS = {
           "en": "Raven Hunt"
         },
         "details": {
-          "ko": "2월 18일 수십 년 된 학생회 팀제 보물찾기 전통. 12:00 Marlowe Commons에서 3~6인 팀 체크인·미션 공개. 캠퍼스·인근 다운타운에서 사진·장소찾기·학교 전통 퀴즈·퍼포먼스·물건 획득 미션을 수행합니다. 20:00 제출 마감, 21:00 결과 발표. 수업과 훈련은 정상 진행되며 속도 외에 창의성·팀워크 보너스가 있습니다. 우승팀은 소액 상금과 Raven 트로피를 받습니다. 학생회 진행요원이 인증하고 위험행동·사유지 침입은 실격입니다. 일부 미션은 특정 장소에서 제한시간 안에 수행하며 학교 미신을 활용한 보너스 문항도 있습니다.",
-          "en": "A decades-old student-government team scavenger hunt on February 18. Teams of three to six check in at Marlowe Commons at noon and receive tasks involving photos, locations, tradition quizzes, performances and objects across campus and nearby downtown. Submissions close at 20:00; results at 21:00. Classes and training continue normally. Creativity and teamwork earn bonuses beyond speed, with a small cash prize and Raven trophy for the winners. Student-government staff validate tasks; dangerous behavior and trespassing disqualify a team. Some tasks must be completed at specified places within a time limit, with bonus questions drawing on campus superstitions."
+          "ko": "2월 18일 수십 년 된 학생회 팀제 보물찾기 전통. 12:00 Brier Commons에서 3~6인 팀 체크인·미션 공개. 캠퍼스·인근 다운타운에서 사진·장소찾기·학교 전통 퀴즈·퍼포먼스·물건 획득 미션을 수행합니다. 20:00 제출 마감, 21:00 결과 발표. 수업과 훈련은 정상 진행되며 속도 외에 창의성·팀워크 보너스가 있습니다. 우승팀은 소액 상금과 Raven 트로피를 받습니다. 학생회 진행요원이 인증하고 위험행동·사유지 침입은 실격입니다. 일부 미션은 특정 장소에서 제한시간 안에 수행하며 학교 미신을 활용한 보너스 문항도 있습니다.",
+          "en": "A decades-old student-government team scavenger hunt on February 18. Teams of three to six check in at Brier Commons at noon and receive tasks involving photos, locations, tradition quizzes, performances and objects across campus and nearby downtown. Submissions close at 20:00; results at 21:00. Classes and training continue normally. Creativity and teamwork earn bonuses beyond speed, with a small cash prize and Raven trophy for the winners. Student-government staff validate tasks; dangerous behavior and trespassing disqualify a team. Some tasks must be completed at specified places within a time limit, with bonus questions drawing on campus superstitions."
         },
         "moments": [
           {
@@ -1430,53 +1449,6 @@ window.SCHOOLS = {
           {
             "ko": "해질녘 둘만 남기",
             "en": "Remaining together at sunset"
-          }
-        ]
-      },
-      {
-        "start": "2027-05-08",
-        "end": "",
-        "precision": "day",
-        "name": {
-          "ko": "파운틴 런",
-          "en": "Fountain Run"
-        },
-        "details": {
-          "ko": "5월 8일 수업 종료 직후 밤의 비공식 학생 전통. 21:30 중앙분수 주변에 자연스럽게 모여 22:00 음악·사진·카운트다운을 즐기고 자정 전후 해산합니다. 일부 학생은 신발을 벗고 입수하거나 물을 끼얹지만 입수는 규정상 금지이며 경고 안내가 발송됩니다. 공식 학교 행사가 아니고 학생회도 공식 주최를 부정합니다. 구경만 해도 되고 입수를 강요하지 않습니다. 의료·보안인력은 멀리서 대기합니다. 졸업 예정자에게는 마지막 학부생 의식처럼 여겨지기도 합니다. 여벌옷과 수건을 준비하는 학생이 있고, 이후 뜨거운 음식이나 야식을 먹으러 이동하는 무리가 많습니다.",
-          "en": "An unofficial student tradition on the night of May 8 after classes end. Students gather around the central fountain at 21:30 for music, photos and a 22:00 countdown, dispersing around midnight. Some remove shoes and enter or splash water, although entering the fountain is prohibited and warning notices are issued. It is not an official university event; student government denies official sponsorship. Watching is welcome without pressure to enter. Medical and security staff stand by at a distance. Some graduating students see it as a final undergraduate ritual. Students may bring spare clothes and towels; many groups leave afterward for hot food or a late-night meal."
-        },
-        "kind": {
-          "ko": "비공식 학생 전통",
-          "en": "Unofficial Student Tradition"
-        },
-        "moments": [
-          {
-            "ko": "입수 내기",
-            "en": "Dares about entering the fountain"
-          },
-          {
-            "ko": "먼저 물 뿌리기",
-            "en": "Being first to splash water"
-          },
-          {
-            "ko": "젖은 채 사진",
-            "en": "Photos while soaked"
-          },
-          {
-            "ko": "수건·후드 빌려 주기",
-            "en": "Lending towels or hoodies"
-          },
-          {
-            "ko": "맨발로 숙소까지 걷기",
-            "en": "Walking barefoot to the residence"
-          },
-          {
-            "ko": "분수 끝에서 소원·진로 이야기",
-            "en": "Wishes and future plans at the fountain edge"
-          },
-          {
-            "ko": "둘만 먼저 빠져나오기",
-            "en": "Leaving early together"
           }
         ]
       },
@@ -1572,10 +1544,10 @@ window.SCHOOLS = {
         }
       },
       {
-        "name": "3F Light",
+        "name": "Fountain Run",
         "body": {
-          "ko": "시험기간 새벽, 도서관 3층에서 홀로 불이 켜진 자리에 앉으면 아는 문제만 틀린다는 미신.",
-          "en": "During exams, sitting at the lone lit third-floor library seat in the early hours is said to make you miss only questions you know."
+          "ko": "5월 8일 밤 분수에 들어가 물장난을 하며 졸업 전 추억을 남기는 비공식 학생 전통. 참여는 자유다.",
+          "en": "An unofficial student tradition on the night of May 8: entering the fountain and splashing water to make memories before graduation. Participation is optional."
         }
       },
       {
@@ -1943,6 +1915,25 @@ window.SCHOOLS = {
         "details": {
           "ko": "21세·3학년 FOGO. 사석에서는 느긋하고 말이 느리며 엉뚱한 비유를 쓴다. 경기에는 집중하고 장비 손질에 집요하며 남에게 맡기기를 싫어한다.",
           "en": "21, a junior FOGO. Relaxed and slow-speaking in private, with unexpected comparisons. Focused in games and meticulous with equipment, disliking leaving it in someone else’s hands."
+        }
+      },
+      {
+        "id": "nico-valdes",
+        "name": {
+          "ko": "니코 발데스",
+          "en": "Nico Valdés"
+        },
+        "role": {
+          "ko": "1학년 SSDM",
+          "en": "Freshman SSDM"
+        },
+        "publicBio": {
+          "ko": "Ravens의 1학년 쇼트스틱 수비형 미드필더입니다.",
+          "en": "A freshman short-stick defensive midfielder for the Ravens."
+        },
+        "details": {
+          "ko": "19세·1학년 SSDM. 사석에서는 수다스럽고 경기에서는 성급한 면이 있다. 실수를 만회하는 데 과몰입하며 주전 자리를 원한다.",
+          "en": "19, a freshman SSDM. Talkative off the field and prone to impatience in games. Can become overinvested in making up for mistakes and wants a starting role."
         }
       }
     ]

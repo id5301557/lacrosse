@@ -18,10 +18,10 @@ try{
   await go(`${school}/mens-lacrosse.html`,lang);
   const model=ctx.window.SCHOOLS[school];
   assert((await page.locator('#main').innerText()).includes(model.coach.name[lang]),'Head coach localized');
-  assert(await page.locator('.team-people .facility').count()===4,'Four supporting people shown publicly');
+  assert(await page.locator('.team-people .facility').count()===model.supportingCast.length,'All supporting people shown publicly');
   assert(!(await page.locator('.team-people').innerText()).includes('Miles'),'Staff family detail excluded from public team page');
   await go(`${school}/staff/index.html`,lang);if(await page.locator('[data-action="signin"]').count())await page.locator('[data-action="signin"]').click();
-  assert(await page.locator('.team-people .record-entry').count()===4,'Supporting details accessible in staff directory');
+  assert(await page.locator('.team-people .record-entry').count()===model.supportingCast.length,'Supporting details accessible in staff directory');
   for(const p of model.supportingCast)assert((await page.locator('.team-people').innerText()).includes(p.details[lang]),'Original supporting-person detail present');
   for(const p of ctx.window.PLAYERS.filter(p=>p.school===school)){
    await visit(`${school}/staff/index.html`,{id:p.id},lang);

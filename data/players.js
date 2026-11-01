@@ -385,6 +385,19 @@ window.PLAYERS = [
               "unverified",
               "unknown"
             ]
+          },
+          {
+            "title": {
+              "ko": "Avery Court · 네 사람의 아지트",
+              "en": "Avery Court · Shared Hangout"
+            },
+            "body": {
+              "ko": "키건·어거스트·주노·알피는 Avery Court의 알피 1인 스위트를 게임·배달음식·경기 시청·잡담을 위한 아지트로 사용한다. 네 사람이 공동거주하는 것은 아니다.",
+              "en": "Keegan, August, Juno and Alfie use Alfie’s single suite at Avery Court as a hangout for games, takeout, watching sports and conversation. They do not live there together."
+            },
+            "sources": [
+              "staff"
+            ]
           }
         ]
       },
@@ -481,8 +494,8 @@ window.PLAYERS = [
       "en": "Lives in the Delta Rho Kappa (ΔΡΚ), or Dark, fraternity house on Westgate Row. Joined through freshman rush; his brother is an alumnus. He is the fraternity’s only current lacrosse player."
     },
     "languages": {
-      "ko": "매끈한 미국 영어를 쓰며 은근한 빈정거림과 경쟁심이 말에 섞인다.",
-      "en": "He speaks polished American English, with understated sarcasm and competitiveness in his remarks."
+      "ko": "매끈한 미국 영어를 쓰며 예의가 기본이다. 빈정거림은 가끔 가볍게 섞인다.",
+      "en": "He speaks polished American English with courtesy as the baseline. Occasional sarcasm is light."
     },
     "appearance": {
       "ko": "단정한 백금발 머리, 밝은 바이올렛 눈, 탄탄한 운동 체형. 늘 은은한 미소를 띠며 프레피 스타일을 선호한다.",
@@ -675,8 +688,8 @@ window.PLAYERS = [
               "en": "Languages & Speech"
             },
             "body": {
-              "ko": "매끈한 미국 영어를 쓰며 은근한 빈정거림과 경쟁심이 말에 섞인다.",
-              "en": "He speaks polished American English, with understated sarcasm and competitiveness in his remarks."
+              "ko": "매끈한 미국 영어를 쓰며 예의가 기본이다. 빈정거림은 가끔 가볍게 섞인다.",
+              "en": "He speaks polished American English with courtesy as the baseline. Occasional sarcasm is light."
             },
             "sources": [
               "staff"
@@ -871,6 +884,19 @@ window.PLAYERS = [
               "private",
               "unverified",
               "unknown"
+            ]
+          },
+          {
+            "title": {
+              "ko": "Avery Court · 네 사람의 아지트",
+              "en": "Avery Court · Shared Hangout"
+            },
+            "body": {
+              "ko": "키건·어거스트·주노·알피는 Avery Court의 알피 1인 스위트를 게임·배달음식·경기 시청·잡담을 위한 아지트로 사용한다. 네 사람이 공동거주하는 것은 아니다.",
+              "en": "Keegan, August, Juno and Alfie use Alfie’s single suite at Avery Court as a hangout for games, takeout, watching sports and conversation. They do not live there together."
+            },
+            "sources": [
+              "staff"
             ]
           }
         ]
@@ -1306,6 +1332,19 @@ window.PLAYERS = [
               "unverified",
               "unknown"
             ]
+          },
+          {
+            "title": {
+              "ko": "Avery Court · 네 사람의 아지트",
+              "en": "Avery Court · Shared Hangout"
+            },
+            "body": {
+              "ko": "키건·어거스트·주노·알피는 Avery Court의 알피 1인 스위트를 게임·배달음식·경기 시청·잡담을 위한 아지트로 사용한다. 네 사람이 공동거주하는 것은 아니다.",
+              "en": "Keegan, August, Juno and Alfie use Alfie’s single suite at Avery Court as a hangout for games, takeout, watching sports and conversation. They do not live there together."
+            },
+            "sources": [
+              "staff"
+            ]
           }
         ]
       },
@@ -1394,8 +1433,8 @@ window.PLAYERS = [
       "en": "A goalkeeper with strong judgment and concentration under pressure. Restrained in emotional expression but loud and clear in calling to the defense from the goal."
     },
     "residence": {
-      "ko": "Avery Court의 교내 최고급 상급생 1인 스위트. 부모가 마련했으며 영국 본가의 방보다는 소박하다. 시설보다 침대를 애용한다.",
-      "en": "A premium single upperclass suite at Avery Court, arranged by his parents and modest compared with his room at home in Britain. Makes more use of the bed than the amenities."
+      "ko": "Avery Court의 교내 최고급 상급생 1인 스위트. 부모가 마련했으며 영국 본가의 방보다는 소박하다. 시설보다 침대를 애용한다. 키건·어거스트·주노·알피 네 사람의 아지트이지만 공동거주는 아니다.",
+      "en": "A premium single upperclass suite at Avery Court, arranged by his parents and modest compared with his room at home in Britain. Makes more use of the bed than the amenities. It is a hangout for Keegan, August, Juno and Alfie, not a shared residence."
     },
     "languages": {
       "ko": "강한 맨체스터·북잉글랜드 영어를 쓴다. mate, proper, you lot, nowt, summat 같은 표현이 자연스럽게 나온다. 여성에게 비연애적인 love 호칭을 써 플러팅으로 오해받곤 하지만 본인은 그 오해를 자각하지 못한다.",
@@ -1472,8 +1511,8 @@ window.PLAYERS = [
           "en": "Intimacy · Sustained contact"
         },
         "body": {
-          "ko": "저온 서비스·센슈얼탑·손 페티쉬 성향. 손·손가락·등허리선·오래 밀착하는 접촉을 선호한다. 말보다 접촉으로 조용히 이끌며 의외로 집요하다. 끝난 뒤에는 어리광이 늘어난다.",
-          "en": "Low-temperature Service / Sensual Top with a hand fetish. Preferences include hands, fingers, the lower-back line and prolonged close contact. Leads quietly through touch rather than words and is unexpectedly persistent. Becomes more cuddly and seeks indulgence afterward."
+          "ko": "저온 서비스·센슈얼탑 성향. 손·손가락·등허리선·오래 밀착하는 접촉을 선호한다. 말보다 접촉으로 조용히 이끌며 의외로 집요하다. 끝난 뒤에는 어리광이 늘어난다.",
+          "en": "Low-temperature Service / Sensual Top. Preferences include hands, fingers, the lower-back line and prolonged close contact. Leads quietly through touch rather than words and is unexpectedly persistent. Seeks more affection afterward."
         }
       }
     ],
@@ -1493,8 +1532,8 @@ window.PLAYERS = [
           "en": "Intimacy · Sustained contact"
         },
         "body": {
-          "ko": "저온 서비스·센슈얼탑·손 페티쉬 성향. 손·손가락·등허리선·오래 밀착하는 접촉을 선호한다. 말보다 접촉으로 조용히 이끌며 의외로 집요하다. 끝난 뒤에는 어리광이 늘어난다.",
-          "en": "Low-temperature Service / Sensual Top with a hand fetish. Preferences include hands, fingers, the lower-back line and prolonged close contact. Leads quietly through touch rather than words and is unexpectedly persistent. Becomes more cuddly and seeks indulgence afterward."
+          "ko": "저온 서비스·센슈얼탑 성향. 손·손가락·등허리선·오래 밀착하는 접촉을 선호한다. 말보다 접촉으로 조용히 이끌며 의외로 집요하다. 끝난 뒤에는 어리광이 늘어난다.",
+          "en": "Low-temperature Service / Sensual Top. Preferences include hands, fingers, the lower-back line and prolonged close contact. Leads quietly through touch rather than words and is unexpectedly persistent. Seeks more affection afterward."
         },
         "sources": [
           "private",
@@ -1543,8 +1582,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "Avery Court의 교내 최고급 상급생 1인 스위트. 부모가 마련했으며 영국 본가의 방보다는 소박하다. 시설보다 침대를 애용한다.",
-              "en": "A premium single upperclass suite at Avery Court, arranged by his parents and modest compared with his room at home in Britain. Makes more use of the bed than the amenities."
+              "ko": "Avery Court의 교내 최고급 상급생 1인 스위트. 부모가 마련했으며 영국 본가의 방보다는 소박하다. 시설보다 침대를 애용한다. 키건·어거스트·주노·알피 네 사람의 아지트이지만 공동거주는 아니다.",
+              "en": "A premium single upperclass suite at Avery Court, arranged by his parents and modest compared with his room at home in Britain. Makes more use of the bed than the amenities. It is a hangout for Keegan, August, Juno and Alfie, not a shared residence."
             },
             "sources": [
               "administrative"
@@ -1764,6 +1803,19 @@ window.PLAYERS = [
               "unverified",
               "unknown"
             ]
+          },
+          {
+            "title": {
+              "ko": "Avery Court · 네 사람의 아지트",
+              "en": "Avery Court · Shared Hangout"
+            },
+            "body": {
+              "ko": "키건·어거스트·주노·알피는 Avery Court의 알피 1인 스위트를 게임·배달음식·경기 시청·잡담을 위한 아지트로 사용한다. 네 사람이 공동거주하는 것은 아니다.",
+              "en": "Keegan, August, Juno and Alfie use Alfie’s single suite at Avery Court as a hangout for games, takeout, watching sports and conversation. They do not live there together."
+            },
+            "sources": [
+              "staff"
+            ]
           }
         ]
       },
@@ -1865,8 +1917,8 @@ window.PLAYERS = [
       "en": "Neat ash / dark-blond hair, gray-blue eyes and angular features. A broad, large goalkeeper build and a restrained appearance."
     },
     "family": {
-      "ko": "아버지는 독일 외교관, 어머니는 재택 번역가다. 아버지의 해외 발령을 따라 독일과 해외에서 성장했다. 네 살 위의 누나는 외교관을 지망하는 석사과정 학생으로, 유능하고 정서적으로 건강하다. 가족은 자기관리·책임·언행의 절제를 중시하며, 냉혹하거나 폭력적인 가정은 아니다.",
-      "en": "His father is a German diplomat and his mother a translator who works from home. He grew up in Germany and abroad, following his father’s overseas postings. His sister, four years older, is a capable, emotionally healthy master’s student who aspires to become a diplomat. The family values self-management, responsibility and restraint in words and actions; the home is neither cold nor violent."
+      "ko": "아버지는 독일 외교관, 어머니는 재택 번역가다. 아버지의 해외 발령을 따라 독일과 해외에서 성장했다. 네 살 위의 누나 헨리케 하르트만(Henrike Hartmann)은 외교관을 지망하는 석사과정 학생으로, 유능하고 정서적으로 건강하다. 가족은 자기관리·책임·언행의 절제를 중시하며, 냉혹하거나 폭력적인 가정은 아니다.",
+      "en": "His father is a German diplomat and his mother a translator who works from home. He grew up in Germany and abroad, following his father’s overseas postings. His sister Henrike Hartmann, four years older, is a capable, emotionally healthy master’s student who aspires to become a diplomat. The family values self-management, responsibility and restraint in words and actions; the home is neither cold nor violent."
     },
     "training": {
       "ko": "차분하고 정확하며 성실하고 책임감이 강하다. 완벽주의와 자기통제가 강하다. 타인의 실수에는 현실적으로 대응하지만 자신의 실수에는 특히 엄격하다.",
@@ -1887,8 +1939,8 @@ window.PLAYERS = [
           "en": "Family and choice"
         },
         "body": {
-          "ko": "네 살 위의 누나는 외교관을 지망하는 석사과정 학생이며 유능하고 정서적으로 건강하다. 가족이 중시하는 자기관리·책임·언행의 절제는 바스티안의 책임감과 연결되어 있다.",
-          "en": "His sister, four years older, is a capable and emotionally healthy master’s student who aspires to become a diplomat. The family’s emphasis on self-management, responsibility and restraint in words and actions connects with Bastian’s sense of accountability."
+          "ko": "네 살 위의 누나 헨리케 하르트만(Henrike Hartmann)은 외교관을 지망하는 석사과정 학생이며 유능하고 정서적으로 건강하다. 가족이 중시하는 자기관리·책임·언행의 절제는 바스티안의 책임감과 연결되어 있다.",
+          "en": "His sister Henrike Hartmann, four years older, is a capable and emotionally healthy master’s student who aspires to become a diplomat. The family’s emphasis on self-management, responsibility and restraint in words and actions connects with Bastian’s sense of accountability."
         }
       },
       {
@@ -1961,8 +2013,8 @@ window.PLAYERS = [
           "en": "Intimacy · Protection and checking"
         },
         "body": {
-          "ko": "마스터·돔·서비스탑·본디지 성향. 지배·규칙·결박을 선호한다. 부드러운 지시·결박·시선 및 절정 조절을 좋아하며 상대 상태 확인과 애프터케어를 중시한다.",
-          "en": "Master / Dom / Service Top / Bondage. Prefers dominance, rules and bondage. Preferences include gentle instructions, bondage, gaze and climax control, with attention to the partner’s condition and aftercare."
+          "ko": "마스터·돔·서비스탑·본디지 성향. 부드러운 지시·결박·시선 및 절정 조절을 좋아하며 상대 상태 확인과 애프터케어를 중시한다.",
+          "en": "Master / Dom / Service Top / Bondage. Preferences include gentle instructions, bondage, gaze and climax control, with attention to the partner’s condition and aftercare."
         }
       }
     ],
@@ -1978,8 +2030,8 @@ window.PLAYERS = [
           "en": "Intimacy · Protection and checking"
         },
         "body": {
-          "ko": "마스터·돔·서비스탑·본디지 성향. 지배·규칙·결박을 선호한다. 부드러운 지시·결박·시선 및 절정 조절을 좋아하며 상대 상태 확인과 애프터케어를 중시한다.",
-          "en": "Master / Dom / Service Top / Bondage. Prefers dominance, rules and bondage. Preferences include gentle instructions, bondage, gaze and climax control, with attention to the partner’s condition and aftercare."
+          "ko": "마스터·돔·서비스탑·본디지 성향. 부드러운 지시·결박·시선 및 절정 조절을 좋아하며 상대 상태 확인과 애프터케어를 중시한다.",
+          "en": "Master / Dom / Service Top / Bondage. Preferences include gentle instructions, bondage, gaze and climax control, with attention to the partner’s condition and aftercare."
         },
         "sources": [
           "private",
@@ -2154,8 +2206,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "아버지는 독일 외교관, 어머니는 재택 번역가다. 아버지의 해외 발령을 따라 독일과 해외에서 성장했다. 네 살 위의 누나는 외교관을 지망하는 석사과정 학생으로, 유능하고 정서적으로 건강하다. 가족은 자기관리·책임·언행의 절제를 중시하며, 냉혹하거나 폭력적인 가정은 아니다.",
-              "en": "His father is a German diplomat and his mother a translator who works from home. He grew up in Germany and abroad, following his father’s overseas postings. His sister, four years older, is a capable, emotionally healthy master’s student who aspires to become a diplomat. The family values self-management, responsibility and restraint in words and actions; the home is neither cold nor violent."
+              "ko": "아버지는 독일 외교관, 어머니는 재택 번역가다. 아버지의 해외 발령을 따라 독일과 해외에서 성장했다. 네 살 위의 누나 헨리케 하르트만(Henrike Hartmann)은 외교관을 지망하는 석사과정 학생으로, 유능하고 정서적으로 건강하다. 가족은 자기관리·책임·언행의 절제를 중시하며, 냉혹하거나 폭력적인 가정은 아니다.",
+              "en": "His father is a German diplomat and his mother a translator who works from home. He grew up in Germany and abroad, following his father’s overseas postings. His sister Henrike Hartmann, four years older, is a capable, emotionally healthy master’s student who aspires to become a diplomat. The family values self-management, responsibility and restraint in words and actions; the home is neither cold nor violent."
             },
             "sources": [
               "administrative"
@@ -2167,8 +2219,8 @@ window.PLAYERS = [
               "en": "Family and choice"
             },
             "body": {
-              "ko": "네 살 위의 누나는 외교관을 지망하는 석사과정 학생이며 유능하고 정서적으로 건강하다. 가족이 중시하는 자기관리·책임·언행의 절제는 바스티안의 책임감과 연결되어 있다.",
-              "en": "His sister, four years older, is a capable and emotionally healthy master’s student who aspires to become a diplomat. The family’s emphasis on self-management, responsibility and restraint in words and actions connects with Bastian’s sense of accountability."
+              "ko": "네 살 위의 누나 헨리케 하르트만(Henrike Hartmann)은 외교관을 지망하는 석사과정 학생이며 유능하고 정서적으로 건강하다. 가족이 중시하는 자기관리·책임·언행의 절제는 바스티안의 책임감과 연결되어 있다.",
+              "en": "His sister Henrike Hartmann, four years older, is a capable and emotionally healthy master’s student who aspires to become a diplomat. The family’s emphasis on self-management, responsibility and restraint in words and actions connects with Bastian’s sense of accountability."
             },
             "sources": [
               "private",
@@ -2380,12 +2432,12 @@ window.PLAYERS = [
       "en": "Born in the United States, he grew up moving between Japan and the US. Tamoi is an uncommon surname. His paternal family is longstanding private commercial wealth in northern Kyoto / Tango, developing from traditional textiles into real estate, asset management and brands. It is not a court-aristocratic, peerage or military elite family. His mother lives in the United States."
     },
     "training": {
-      "ko": "상냥하고 세련되며 눈치가 빠르다. 예의 바르고 팬서비스에 능숙하며 사회적인 상황을 매끄럽게 다룬다.",
-      "en": "Kind, polished and perceptive; courteous, accomplished at fan service and smooth in social situations."
+      "ko": "상냥하고 세련되며 눈치가 빠르다. 친구들과 원만하게 지내고 예의 바르며 팬서비스에 능숙하다.",
+      "en": "Kind, polished and perceptive. He gets along well with friends, is courteous and handles fan interaction smoothly."
     },
     "staff": {
-      "ko": "상냥하고 예의 바르며 사회성과 눈치가 좋다. 팬 응대·사진·인터뷰에 능숙하며 상처받으면 과도하게 정중해진다.",
-      "en": "Warm, courteous and socially adept, with good awareness of others. Skilled with fans, photos and interviews, becoming excessively polite when hurt."
+      "ko": "상냥하고 예의 바르며 친구들과 원만하고 사회성과 눈치가 좋다. 팬 응대·사진·인터뷰에 능숙하며 상처받으면 과도하게 정중해진다.",
+      "en": "Warm, courteous and socially adept, getting along well with friends and reading others well. Skilled with fans, photos and interviews, becoming excessively polite when hurt."
     },
     "future": null,
     "restrictedRecords": [
@@ -2417,8 +2469,8 @@ window.PLAYERS = [
           "en": "Feelings that can change silently"
         },
         "body": {
-          "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 외적으로 사회적 기능을 잘 유지하는 고기능 멘헤라 성향이며, 가까울수록 애정 불안·질투·확인 욕구가 커진다. 사소한 변화를 자기와 연결해 해석한다. 자신의 과민함을 일부 자각해도 그것이 해소되지는 않는다.",
-          "en": "“People’s feelings can change without a word.” He has a high-functioning “menhera” disposition, maintaining outward social functioning while attachment anxiety, jealousy and the need for confirmation grow with closeness. He connects small changes to himself; partial awareness of his oversensitivity does not resolve it."
+          "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 외적인 사회 기능을 잘 유지하는 고기능 멘헤라 성향이다. 친구들과는 원만하게 지내지만 연애감정을 느끼는 대상에게는 애착이 커질수록 애정 불안·질투·확인 욕구가 강화된다. 교제가 성립한 뒤에만 나타나는 것은 아니다. 사소한 변화를 자기와 연결해 해석하며, 자신의 과민함을 일부 자각해도 그것이 해소되지는 않는다.",
+          "en": "“People’s feelings can change without a word.” He has a high-functioning “menhera” disposition while maintaining outward social functioning. He gets along well with friends, but attachment anxiety, jealousy and the need for reassurance intensify toward someone he has romantic feelings for as attachment grows. This is not limited to an established relationship. He connects small changes to himself; partial awareness of his oversensitivity does not resolve it."
         }
       },
       {
@@ -2459,8 +2511,8 @@ window.PLAYERS = [
           "en": "Intimacy · Reassurance and praise"
         },
         "body": {
-          "ko": "서비스탑이며 친밀 욕구가 높다. 발 페티쉬·프레이즈 킨크·어펌메이션 성향으로 애정의 지속성과 일관성을 확인하는 것을 선호한다. 구체적 칭찬·애정 확인·“너라서 원한다”는 표현·눈맞춤·감정 고백·관계 상징·사적 마킹을 좋아한다. 맨발·발목·발등, 발을 만지거나 입맞추는 접촉을 선호한다.",
-          "en": "Service Top with a strong desire for intimacy. Foot fetish / Praise Kink / Affirmation, preferring reassurance of affection’s continuity and consistency. Preferences include specific praise, affirmation, “I want you because it is you,” eye contact, emotional confessions, relationship symbols and private marking, along with bare feet, ankles, the tops of feet, and touching or kissing feet."
+          "ko": "서비스탑이며 친밀 욕구가 높다. 발 페티쉬·프레이즈 킨크·어펌메이션 성향이다. 구체적 칭찬·애정 확인·“너라서 원한다”는 표현·눈맞춤·감정 고백·관계 상징·사적 마킹을 좋아한다.",
+          "en": "Service Top with a strong desire for intimacy. Foot fetish / Praise Kink / Affirmation. Preferences include specific praise, affirmation, “I want you because it is you,” eye contact, emotional confessions, relationship symbols and private marking."
         }
       }
     ],
@@ -2476,8 +2528,8 @@ window.PLAYERS = [
           "en": "Intimacy · Reassurance and praise"
         },
         "body": {
-          "ko": "서비스탑이며 친밀 욕구가 높다. 발 페티쉬·프레이즈 킨크·어펌메이션 성향으로 애정의 지속성과 일관성을 확인하는 것을 선호한다. 구체적 칭찬·애정 확인·“너라서 원한다”는 표현·눈맞춤·감정 고백·관계 상징·사적 마킹을 좋아한다. 맨발·발목·발등, 발을 만지거나 입맞추는 접촉을 선호한다.",
-          "en": "Service Top with a strong desire for intimacy. Foot fetish / Praise Kink / Affirmation, preferring reassurance of affection’s continuity and consistency. Preferences include specific praise, affirmation, “I want you because it is you,” eye contact, emotional confessions, relationship symbols and private marking, along with bare feet, ankles, the tops of feet, and touching or kissing feet."
+          "ko": "서비스탑이며 친밀 욕구가 높다. 발 페티쉬·프레이즈 킨크·어펌메이션 성향이다. 구체적 칭찬·애정 확인·“너라서 원한다”는 표현·눈맞춤·감정 고백·관계 상징·사적 마킹을 좋아한다.",
+          "en": "Service Top with a strong desire for intimacy. Foot fetish / Praise Kink / Affirmation. Preferences include specific praise, affirmation, “I want you because it is you,” eye contact, emotional confessions, relationship symbols and private marking."
         },
         "sources": [
           "private",
@@ -2687,8 +2739,8 @@ window.PLAYERS = [
               "en": "Training & Everyday Behavior"
             },
             "body": {
-              "ko": "상냥하고 세련되며 눈치가 빠르다. 예의 바르고 팬서비스에 능숙하며 사회적인 상황을 매끄럽게 다룬다.",
-              "en": "Kind, polished and perceptive; courteous, accomplished at fan service and smooth in social situations."
+              "ko": "상냥하고 세련되며 눈치가 빠르다. 친구들과 원만하게 지내고 예의 바르며 팬서비스에 능숙하다.",
+              "en": "Kind, polished and perceptive. He gets along well with friends, is courteous and handles fan interaction smoothly."
             },
             "sources": [
               "staff"
@@ -2709,8 +2761,8 @@ window.PLAYERS = [
               "en": "Team Relationships & Communication"
             },
             "body": {
-              "ko": "상냥하고 예의 바르며 사회성과 눈치가 좋다. 팬 응대·사진·인터뷰에 능숙하며 상처받으면 과도하게 정중해진다.",
-              "en": "Warm, courteous and socially adept, with good awareness of others. Skilled with fans, photos and interviews, becoming excessively polite when hurt."
+              "ko": "상냥하고 예의 바르며 친구들과 원만하고 사회성과 눈치가 좋다. 팬 응대·사진·인터뷰에 능숙하며 상처받으면 과도하게 정중해진다.",
+              "en": "Warm, courteous and socially adept, getting along well with friends and reading others well. Skilled with fans, photos and interviews, becoming excessively polite when hurt."
             },
             "sources": [
               "staff"
@@ -2722,8 +2774,8 @@ window.PLAYERS = [
               "en": "Feelings that can change silently"
             },
             "body": {
-              "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 외적으로 사회적 기능을 잘 유지하는 고기능 멘헤라 성향이며, 가까울수록 애정 불안·질투·확인 욕구가 커진다. 사소한 변화를 자기와 연결해 해석한다. 자신의 과민함을 일부 자각해도 그것이 해소되지는 않는다.",
-              "en": "“People’s feelings can change without a word.” He has a high-functioning “menhera” disposition, maintaining outward social functioning while attachment anxiety, jealousy and the need for confirmation grow with closeness. He connects small changes to himself; partial awareness of his oversensitivity does not resolve it."
+              "ko": "“사람의 마음은 말없이 바뀔 수 있다.” 외적인 사회 기능을 잘 유지하는 고기능 멘헤라 성향이다. 친구들과는 원만하게 지내지만 연애감정을 느끼는 대상에게는 애착이 커질수록 애정 불안·질투·확인 욕구가 강화된다. 교제가 성립한 뒤에만 나타나는 것은 아니다. 사소한 변화를 자기와 연결해 해석하며, 자신의 과민함을 일부 자각해도 그것이 해소되지는 않는다.",
+              "en": "“People’s feelings can change without a word.” He has a high-functioning “menhera” disposition while maintaining outward social functioning. He gets along well with friends, but attachment anxiety, jealousy and the need for reassurance intensify toward someone he has romantic feelings for as attachment grows. This is not limited to an established relationship. He connects small changes to himself; partial awareness of his oversensitivity does not resolve it."
             },
             "sources": [
               "private",
@@ -3323,8 +3375,8 @@ window.PLAYERS = [
           "en": "Changing comparison within the family"
         },
         "body": {
-          "ko": "두세 살 아래의 사촌은 어릴 때 그랜트를 동경해 라크로스를 시작했다. 이후 더 큰 재능과 리크루팅·기록으로 두각을 나타냈지만, 지금도 그랜트를 좋아하고 존경하며 악의적인 경쟁자는 아니다. 부모도 그랜트를 사랑하고 지지한다. 다만 칭찬이 “넌 최고야”에서 “넌 네 방식대로 잘하고 있어”로 미묘하게 바뀌었다. 사촌은 삼촌의 아들이다. 칭찬의 변화는 그랜트가 체감한 변화로, 가족의 사랑과 지원은 충분하다.",
-          "en": "A cousin two or three years younger began lacrosse in admiration of Grant, then stood out more in talent, recruitment and records. The cousin still likes and respects him and is not a malicious rival. His parents continue to love and support him, although their praise subtly shifted from “You’re the best” to “You’re doing well in your own way.” The cousin is his uncle’s son. The shift in praise is how Grant experiences it; family love and support remain ample."
+          "ko": "세 살 아래의 사촌 도리언 웨스트콧(Dorian Westcott)은 삼촌의 아들이며 Aldermere의 1학년 디펜스다. 어릴 때 그랜트를 보고 라크로스를 시작했고 더 큰 재능으로 더 높은 평가와 주목을 받았지만 그랜트를 진심으로 존경한다. 부모의 사랑과 지원은 충분하다. 다만 그랜트는 칭찬이 “넌 최고야”에서 “넌 네 방식대로 잘하고 있어”로 바뀌었다고 체감한다.",
+          "en": "His cousin Dorian Westcott, three years younger and his uncle’s son, is a freshman defender at Aldermere. He took up lacrosse after watching Grant and showed greater talent and drew higher ratings and more attention, while sincerely admiring Grant. Parental love and support remain ample. Grant nevertheless experiences their praise as having shifted from “You’re the best” to “You’re doing well in your own way.”"
         }
       },
       {
@@ -3387,8 +3439,8 @@ window.PLAYERS = [
           "en": "Intimacy · Being specifically chosen"
         },
         "body": {
-          "ko": "돔이며 인정·선택 욕구가 강하다. 체격과 힘을 통한 신체 구속을 선호하고 상대의 선제 표현 후 주도한다. 먼저 시작해 주는 접촉·구체적 칭찬·“너라서 원한다”는 표현·눈맞춤을 좋아한다. 들어안기·체격차·밀착 제압·자기 몸에 남는 마킹을 선호한다.",
-          "en": "Dom with a strong desire for recognition and selection. Prefers physical restraint through size and strength, taking the lead after a partner’s initiating expression. Preferences include partner-initiated touch, specific praise, “I want you because it is you,” eye contact, lifting and carrying, size difference, close restraint and marks left on his own body."
+          "ko": "돔이며 인정·선택 욕구가 강하다. 상대의 선제 표현 후 주도한다. 먼저 시작해 주는 접촉·구체적 칭찬·“너라서 원한다”는 표현·눈맞춤을 좋아한다. 들어안기·체격차·밀착 제압·자기 몸에 남는 마킹을 선호한다.",
+          "en": "Dom with a strong desire for recognition and selection, taking the lead after a partner’s initiating expression. Preferences include partner-initiated touch, specific praise, “I want you because it is you,” eye contact, lifting and carrying, size difference, close restraint and marks left on his own body."
         }
       }
     ],
@@ -3404,8 +3456,8 @@ window.PLAYERS = [
           "en": "Intimacy · Being specifically chosen"
         },
         "body": {
-          "ko": "돔이며 인정·선택 욕구가 강하다. 체격과 힘을 통한 신체 구속을 선호하고 상대의 선제 표현 후 주도한다. 먼저 시작해 주는 접촉·구체적 칭찬·“너라서 원한다”는 표현·눈맞춤을 좋아한다. 들어안기·체격차·밀착 제압·자기 몸에 남는 마킹을 선호한다.",
-          "en": "Dom with a strong desire for recognition and selection. Prefers physical restraint through size and strength, taking the lead after a partner’s initiating expression. Preferences include partner-initiated touch, specific praise, “I want you because it is you,” eye contact, lifting and carrying, size difference, close restraint and marks left on his own body."
+          "ko": "돔이며 인정·선택 욕구가 강하다. 상대의 선제 표현 후 주도한다. 먼저 시작해 주는 접촉·구체적 칭찬·“너라서 원한다”는 표현·눈맞춤을 좋아한다. 들어안기·체격차·밀착 제압·자기 몸에 남는 마킹을 선호한다.",
+          "en": "Dom with a strong desire for recognition and selection, taking the lead after a partner’s initiating expression. Preferences include partner-initiated touch, specific praise, “I want you because it is you,” eye contact, lifting and carrying, size difference, close restraint and marks left on his own body."
         },
         "sources": [
           "private",
@@ -3563,8 +3615,8 @@ window.PLAYERS = [
               "en": "Changing comparison within the family"
             },
             "body": {
-              "ko": "두세 살 아래의 사촌은 어릴 때 그랜트를 동경해 라크로스를 시작했다. 이후 더 큰 재능과 리크루팅·기록으로 두각을 나타냈지만, 지금도 그랜트를 좋아하고 존경하며 악의적인 경쟁자는 아니다. 부모도 그랜트를 사랑하고 지지한다. 다만 칭찬이 “넌 최고야”에서 “넌 네 방식대로 잘하고 있어”로 미묘하게 바뀌었다. 사촌은 삼촌의 아들이다. 칭찬의 변화는 그랜트가 체감한 변화로, 가족의 사랑과 지원은 충분하다.",
-              "en": "A cousin two or three years younger began lacrosse in admiration of Grant, then stood out more in talent, recruitment and records. The cousin still likes and respects him and is not a malicious rival. His parents continue to love and support him, although their praise subtly shifted from “You’re the best” to “You’re doing well in your own way.” The cousin is his uncle’s son. The shift in praise is how Grant experiences it; family love and support remain ample."
+              "ko": "세 살 아래의 사촌 도리언 웨스트콧(Dorian Westcott)은 삼촌의 아들이며 Aldermere의 1학년 디펜스다. 어릴 때 그랜트를 보고 라크로스를 시작했고 더 큰 재능으로 더 높은 평가와 주목을 받았지만 그랜트를 진심으로 존경한다. 부모의 사랑과 지원은 충분하다. 다만 그랜트는 칭찬이 “넌 최고야”에서 “넌 네 방식대로 잘하고 있어”로 바뀌었다고 체감한다.",
+              "en": "His cousin Dorian Westcott, three years younger and his uncle’s son, is a freshman defender at Aldermere. He took up lacrosse after watching Grant and showed greater talent and drew higher ratings and more attention, while sincerely admiring Grant. Parental love and support remain ample. Grant nevertheless experiences their praise as having shifted from “You’re the best” to “You’re doing well in your own way.”"
             },
             "sources": [
               "private",

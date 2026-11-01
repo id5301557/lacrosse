@@ -55,7 +55,7 @@ try{
     await page.locator('[data-events="all"]').click();
     assert(await page.locator('.tradition').count()===SCHOOLS[school].traditions.length,'All source traditions retained');
     const details=page.locator('.event-details');
-    assert(await details.count()===(school==='aldermere'?6:9),'All major events have detail');
+    assert(await details.count()===SCHOOLS[school].events.filter(event=>event.details).length,'All major events have detail');
     for(const detail of await details.all()){
      await detail.locator('summary').click();
      assert(await detail.locator('.event-moments li').count()>=4,'Event detail includes original small activities');
