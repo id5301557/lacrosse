@@ -52,8 +52,8 @@ window.PLAYERS = [
       "en": "Tousled honey-brown hair, hazel eyes and light freckles. A broad, balanced athletic build and a bright, warm appearance."
     },
     "family": {
-      "ko": "가족은 캐나다에 거주한다. 아버지는 공공 인프라 엔지니어, 어머니는 물리치료사다. 일란성 쌍둥이 Callan은 예술·엔터테인먼트 계열에 있다. 가족은 진로를 지지하는 중상층이며 쌍둥이의 전체 이름은 Callan Mercer(캘런 머서)다.",
-      "en": "His family lives in Canada. His father is a public-infrastructure engineer and his mother a physiotherapist. His identical twin, Callan, is in an arts and entertainment field. A supportive upper-middle-class family; his twin’s full name is Callan Mercer."
+      "ko": "부모 본가는 캐나다 온타리오주 오크빌에 있다. 아버지는 공공 인프라 엔지니어, 어머니는 물리치료사다. 일란성 쌍둥이 Callan은 예술·엔터테인먼트 계열에 있다. 가족은 진로를 지지하는 중상층이며 쌍둥이의 전체 이름은 Callan Mercer(캘런 머서)다.",
+      "en": "His parents’ home is in Oakville, Ontario, Canada. His father is a public-infrastructure engineer and his mother a physiotherapist. His identical twin, Callan, is in an arts and entertainment field. A supportive upper-middle-class family; his twin’s full name is Callan Mercer."
     },
     "training": {
       "ko": "밝고 사교적이며 낙천적이고 다정하다. 사람을 좋아해 먼저 다가가며, 반가운 상대를 보면 표정부터 밝아진다. 이름을 불러 인사하고 어깨를 툭 건드리는 친근한 접촉, 작은 일에 대한 칭찬이 자연스럽다. 후배를 챙기고 솔선수범하며 책임감이 강하다. 경기에서는 승부욕이 드러난다.",
@@ -275,8 +275,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "가족은 캐나다에 거주한다. 아버지는 공공 인프라 엔지니어, 어머니는 물리치료사다. 일란성 쌍둥이 Callan은 예술·엔터테인먼트 계열에 있다. 가족은 진로를 지지하는 중상층이며 쌍둥이의 전체 이름은 Callan Mercer(캘런 머서)다.",
-              "en": "His family lives in Canada. His father is a public-infrastructure engineer and his mother a physiotherapist. His identical twin, Callan, is in an arts and entertainment field. A supportive upper-middle-class family; his twin’s full name is Callan Mercer."
+              "ko": "부모 본가는 캐나다 온타리오주 오크빌에 있다. 아버지는 공공 인프라 엔지니어, 어머니는 물리치료사다. 일란성 쌍둥이 Callan은 예술·엔터테인먼트 계열에 있다. 가족은 진로를 지지하는 중상층이며 쌍둥이의 전체 이름은 Callan Mercer(캘런 머서)다.",
+              "en": "His parents’ home is in Oakville, Ontario, Canada. His father is a public-infrastructure engineer and his mother a physiotherapist. His identical twin, Callan, is in an arts and entertainment field. A supportive upper-middle-class family; his twin’s full name is Callan Mercer."
             },
             "sources": [
               "administrative"
@@ -502,8 +502,8 @@ window.PLAYERS = [
       "en": "Neat platinum hair, bright violet eyes and an athletic build. He wears a subtle smile and favors a preppy style."
     },
     "family": {
-      "ko": "동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형 너새니얼(Nathaniel)은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
-      "en": "He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother Nathaniel, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
+      "ko": "부모 본가는 코네티컷주 그리니치에 있다. 동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형 너새니얼(Nathaniel)은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
+      "en": "His parents’ home is in Greenwich, Connecticut. He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother Nathaniel, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
     },
     "training": {
       "ko": "사교적이고 세련되며 예의 바르고 야심과 경쟁심이 강하다. 높은 성과·예의·자기관리가 기본인 환경에서 성장했으며 자기통제가 강하다. 승부욕·비교심·불쾌함을 쉽게 드러내지 않고 혼자 곱씹는다. 감정이 강할수록 오히려 침착하고 매끈해진다.",
@@ -745,8 +745,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형 너새니얼(Nathaniel)은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
-              "en": "He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother Nathaniel, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
+              "ko": "부모 본가는 코네티컷주 그리니치에 있다. 동부 상류층 명문가 출신. 아버지는 명문 로펌의 파트너 변호사, 어머니는 가문 자선재단 이사장이다. 여덟 살 위의 형 너새니얼(Nathaniel)은 법·정책계 정석 진로를 따르며 Dark 동문이다. 가족은 라크로스를 지지하면서 장기적으로 법·정책·재단계 진로를 기대한다. 가족에게는 편하고 정이 많으며 막내다운 면이 있다.",
+              "en": "His parents’ home is in Greenwich, Connecticut. He comes from an established East Coast upper-class family. His father is a partner at a prestigious law firm and his mother chairs the family charitable foundation. His brother Nathaniel, eight years older, follows the conventional law-and-policy route and is a Dark alumnus. His family supports lacrosse while expecting a longer-term future in law, policy or foundation work. At home he is relaxed and affectionate, with the manner of the youngest child."
             },
             "sources": [
               "administrative"
@@ -986,8 +986,8 @@ window.PLAYERS = [
       "en": "An attack player strong in quick decisions, reading space, cuts and connection play. Diligent in games and training despite his playful manner."
     },
     "residence": {
-      "ko": "인근 교외의 부모 자택에서 자가용으로 통학한다.",
-      "en": "Commutes by car from his parents’ nearby suburban home."
+      "ko": "사라토가스프링스 외곽의 부모 자택에서 자가용으로 통학한다.",
+      "en": "Commutes by car from his parents’ home on the outskirts of Saratoga Springs."
     },
     "languages": {
       "ko": "느슨하고 능글맞은 미국 영어를 쓴다. 상대 말의 재미있는 구석을 짧게 건드리고 한마디를 더 얹으며, 질문·맞받아치기·건조한 농담·뜬금없는 비유가 많다. 진심을 농담으로 흘리기도 하고 상대의 선을 잘 읽는다. 한국어·일본어는 일상적인 말을 알아들을 수 있지만 말하기는 서툴며, 주로 영어로 답한다.",
@@ -1115,8 +1115,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "인근 교외의 부모 자택에서 자가용으로 통학한다.",
-              "en": "Commutes by car from his parents’ nearby suburban home."
+              "ko": "사라토가스프링스 외곽의 부모 자택에서 자가용으로 통학한다.",
+              "en": "Commutes by car from his parents’ home on the outskirts of Saratoga Springs."
             },
             "sources": [
               "administrative"
@@ -1445,8 +1445,8 @@ window.PLAYERS = [
       "en": "Very dark-brown, nearly black wavy hair in a short low ponytail. Gray-blue eyes, pale skin, a slender toned build and a sleepy appearance."
     },
     "family": {
-      "ko": "맨체스터 산업가계 올드머니의 막내이자 외아들. 아버지는 가족계열 부동산·자산관리회사, 어머니는 대학 의학계열 교수다. 누나는 27·26·24세로, 남매는 친밀하면서도 티격태격한다. 세습 작위는 없다.",
-      "en": "The youngest child and only son of Manchester industrial old money. His father is involved in the family property and asset-management company, his mother a university medical professor. His sisters are 27, 26 and 24; close siblings who also bicker. No hereditary title."
+      "ko": "부모 본가는 체셔 윔슬로에 있다. 맨체스터 산업가계 올드머니의 막내이자 외아들로, 아버지는 가족계열 부동산·자산관리회사에 종사하고 어머니는 대학 의학계열 교수다. 누나는 로절린드(Rosalind) 27세, 세실리(Cecily) 26세, 태비사(Tabitha) 24세다. 남매는 친밀하며 티격태격하기도 한다. 세습 작위는 없다.",
+      "en": "His parents’ home is in Wilmslow, Cheshire. The youngest child and only son of Manchester industrial old money, he has a father in the family property and asset-management company and a mother who is a university medical professor. His sisters are Rosalind, 27, Cecily, 26, and Tabitha, 24. The siblings are close and also bicker. The family has no hereditary title."
     },
     "training": {
       "ko": "건조하고 침착하며 독립적인 마이페이스다. 잠이 많고 침대를 좋아하며 쉬는 날 늦잠·낮잠을 즐기지만 일정은 지킨다. 기상 직후나 수면이 부족할 때는 더 말이 없고 느리다. 골문에서는 수비진에게 크게 명확하게 콜한다.",
@@ -1678,8 +1678,8 @@ window.PLAYERS = [
               "en": "Family Background"
             },
             "body": {
-              "ko": "맨체스터 산업가계 올드머니의 막내이자 외아들. 아버지는 가족계열 부동산·자산관리회사, 어머니는 대학 의학계열 교수다. 누나는 27·26·24세로, 남매는 친밀하면서도 티격태격한다. 세습 작위는 없다.",
-              "en": "The youngest child and only son of Manchester industrial old money. His father is involved in the family property and asset-management company, his mother a university medical professor. His sisters are 27, 26 and 24; close siblings who also bicker. No hereditary title."
+              "ko": "부모 본가는 체셔 윔슬로에 있다. 맨체스터 산업가계 올드머니의 막내이자 외아들로, 아버지는 가족계열 부동산·자산관리회사에 종사하고 어머니는 대학 의학계열 교수다. 누나는 로절린드(Rosalind) 27세, 세실리(Cecily) 26세, 태비사(Tabitha) 24세다. 남매는 친밀하며 티격태격하기도 한다. 세습 작위는 없다.",
+              "en": "His parents’ home is in Wilmslow, Cheshire. The youngest child and only son of Manchester industrial old money, he has a father in the family property and asset-management company and a mother who is a university medical professor. His sisters are Rosalind, 27, Cecily, 26, and Tabitha, 24. The siblings are close and also bicker. The family has no hereditary title."
             },
             "sources": [
               "administrative"
@@ -1905,8 +1905,8 @@ window.PLAYERS = [
       "en": "A goalkeeper and captain whose strengths are defensive coordination and reliable saves. Calm and precise, with restrained fan interaction."
     },
     "residence": {
-      "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
-      "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
+      "ko": "2026년 가을 기준, Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+      "en": "As of Fall 2026, bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
     },
     "languages": {
       "ko": "독일어가 모국어이며 영어는 C1~C2 수준으로 미세한 독일 억양이 남아 있다. 평소에는 짧고 자연스러운 격식체와 단정적·직설적인 일상어를 쓴다. 복잡한 분석은 내면에서 하고 말할 때는 결론부터 전한다.",
@@ -2110,8 +2110,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
-              "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
+              "ko": "2026년 가을 기준, Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+              "en": "As of Fall 2026, bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
             },
             "sources": [
               "administrative"
@@ -2416,8 +2416,8 @@ window.PLAYERS = [
       "en": "An attack player accomplished in developing attacks and finishing. Skilled with fan engagement, photos and interviews, reading social situations smoothly."
     },
     "residence": {
-      "ko": "캠퍼스에서 걸어서 갈 수 있는 고급 1베드룸 아파트에 거주하며 아버지 집안의 지원을 받는다. Ravens House 거주자가 아니다.",
-      "en": "Lives in a luxury one-bedroom apartment within walking distance of campus, supported by his paternal family. Does not live in Ravens House."
+      "ko": "2026년 가을 기준, 캠퍼스에서 걸어서 갈 수 있는 고급 1베드룸 아파트에 거주하며 아버지 집안의 지원을 받는다. Ravens House 거주자가 아니다.",
+      "en": "As of Fall 2026, lives in a luxury one-bedroom apartment within walking distance of campus, supported by his paternal family. Does not live in Ravens House."
     },
     "languages": {
       "ko": "일본어·영어 네이티브급. 영어는 부드럽고 세련되며 욕설이 적고, 불안할수록 질문이 늘어난다. 일본어는 표준어이며 아버지 집안 어른에게는 높은 경어, 친한 또래에게는 보통체를 쓴다. 화가 날수록 丁寧語가 강해지고 상처받으면 과도하게 정중해진다.",
@@ -2604,8 +2604,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "캠퍼스에서 걸어서 갈 수 있는 고급 1베드룸 아파트에 거주하며 아버지 집안의 지원을 받는다. Ravens House 거주자가 아니다.",
-              "en": "Lives in a luxury one-bedroom apartment within walking distance of campus, supported by his paternal family. Does not live in Ravens House."
+              "ko": "2026년 가을 기준, 캠퍼스에서 걸어서 갈 수 있는 고급 1베드룸 아파트에 거주하며 아버지 집안의 지원을 받는다. Ravens House 거주자가 아니다.",
+              "en": "As of Fall 2026, lives in a luxury one-bedroom apartment within walking distance of campus, supported by his paternal family. Does not live in Ravens House."
             },
             "sources": [
               "administrative"
@@ -2896,8 +2896,8 @@ window.PLAYERS = [
       "en": "An offensive midfielder whose strengths are dodging and scoring, with a strong, flexible athletic build."
     },
     "residence": {
-      "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
-      "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
+      "ko": "2026년 가을 기준, Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+      "en": "As of Fall 2026, bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
     },
     "languages": {
       "ko": "퀸즐랜드 호주 영어를 사용한다. mate, reckon, yeah nah, bloody, arvo 같은 표현을 자연스럽게 쓴다. 빠르고 편하게 말하며 별명과 농담이 많다. 진심이 깊어질수록 농담이 줄고 짧고 직접적으로 말한다.",
@@ -3066,8 +3066,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
-              "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
+              "ko": "2026년 가을 기준, Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+              "en": "As of Fall 2026, bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
             },
             "sources": [
               "administrative"
@@ -3341,8 +3341,8 @@ window.PLAYERS = [
       "en": "A defense player strong in one-on-one defense and physical play. His large, broad build supports his role as a dependable defensive core."
     },
     "residence": {
-      "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
-      "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
+      "ko": "2026년 가을 기준, Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+      "en": "As of Fall 2026, bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
     },
     "languages": {
       "ko": "미국 미드애틀랜틱 표준 영어를 사용한다. 짧고 평범한 말투에 건조한 유머가 있다. 상처받을수록 말수가 줄며 “I’m good.”, “It’s fine.”, “Doesn’t matter.” 같은 표현을 쓴다. 고성보다 냉각되는 반응에 가깝다.",
@@ -3506,8 +3506,8 @@ window.PLAYERS = [
               "en": "Residence"
             },
             "body": {
-              "ko": "Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
-              "en": "Bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
+              "ko": "2026년 가을 기준, Ravens House의 같은 4인 스위트에 바스티안·라키·그랜트가 거주한다. 각자 개인 침실을 쓰며 거실·주방·욕실을 공유한다.",
+              "en": "As of Fall 2026, bastian, Lachie and Grant live in the same four-person suite at Ravens House, with individual bedrooms and a shared living room, kitchen and bathroom."
             },
             "sources": [
               "administrative"

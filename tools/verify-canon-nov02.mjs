@@ -11,7 +11,7 @@ let count=0;const assert=(ok,why)=>{if(!ok)throw Error(why);count++};
 const oldNames=/Bellweather|Whitmore|Marlowe|Rutherford|Westgate|Carroway|Vale Health|3F Light/;
 assert(!oldNames.test(JSON.stringify(SCHOOLS.harrowgate)),'Harrowgate old facility names removed');
 assert(SCHOOLS.aldermere.facilities.some(f=>f.name==='Bellweather Tower')&&SCHOOLS.aldermere.facilities.some(f=>f.name==='Vale Health Center'),'Aldermere original facility names retained');
-assert(SCHOOLS.harrowgate.events.length===8&&!SCHOOLS.harrowgate.events.some(e=>e.name.en==='Fountain Run'),'Fountain Run removed from calendar');
+assert(SCHOOLS.harrowgate.events.length===7&&!SCHOOLS.harrowgate.events.some(e=>e.name.en==='Fountain Run'),'Fountain Run removed from calendar');
 assert(SCHOOLS.harrowgate.traditions.length===8&&SCHOOLS.harrowgate.traditions.some(t=>t.name==='Fountain Run'&&t.body.ko.includes('비공식')),'Fountain Run is an unofficial tradition');
 assert(PLAYERS.length===8,'Main athletes preserved without invented profiles');
 assert(SCHOOLS.aldermere.supportingCast.some(p=>p.id==='dorian-westcott')&&SCHOOLS.harrowgate.supportingCast.some(p=>p.id==='nico-valdes'),'Both new supporting players present');
@@ -54,7 +54,7 @@ try{
    if(school==='harrowgate'){
     assert(!(await page.locator('#events').innerText()).includes('Fountain Run'),'Fountain Run absent from events');
     assert((await page.locator('.tradition-grid').innerText()).includes('Fountain Run'),'Fountain Run visible in lore');
-    for(const name of ['Open House Night','Raven Hunt']){
+    for(const name of ['Open House Night']){
      const event=page.locator('.event').filter({has:page.getByRole('heading',{name:model.events.find(e=>e.name.en===name).name[lang],exact:true})});
      await event.locator('summary').click();assert((await event.innerText()).includes('Brier Commons'),'Updated event location');
     }

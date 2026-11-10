@@ -167,6 +167,30 @@ window.SCHOOLS = {
           "ko": "학생 진료 · 상담",
           "en": "Student health care · counseling"
         }
+      },
+      {
+        "id": "facility-12",
+        "name": "Ridley Arena",
+        "point": [
+          91,
+          17
+        ],
+        "description": {
+          "ko": "농구 홈 경기장 · 대형 행사",
+          "en": "Basketball home venue · major events"
+        }
+      },
+      {
+        "id": "facility-13",
+        "name": "Northgate Plaza",
+        "point": [
+          13,
+          85
+        ],
+        "description": {
+          "ko": "정문광장 · 셔틀 · 차량 픽업 · 자전거 거치대",
+          "en": "Main-gate plaza · shuttle · vehicle pickup · bicycle racks"
+        }
       }
     ],
     "academics": [
@@ -916,6 +940,176 @@ window.SCHOOLS = {
           "en": "19, a freshman defender. Grant Westcott’s cousin, three years younger and his uncle’s son, who took up lacrosse after watching Grant and sincerely admires him. Quick feet, decisions and aggressive defense are strengths; he is still adapting to team defense. He is accustomed to recognition and attention for his talent."
         }
       }
+    ],
+    "womensTeam": {
+      "reference": {
+        "ko": "2026년 가을 기준",
+        "en": "As of Fall 2026"
+      },
+      "overview": {
+        "ko": "오드리 케슬러 감독과 주장 시몬 홀리스를 중심으로 하는 Stags 여자 라크로스팀을 만나보세요.",
+        "en": "Meet the Stags women’s lacrosse program, including head coach Audrey Kessler and captain Simone Hollis."
+      },
+      "people": [
+        {
+          "id": "audrey-kessler",
+          "name": {
+            "ko": "오드리 케슬러",
+            "en": "Audrey Kessler"
+          },
+          "role": {
+            "ko": "헤드코치",
+            "en": "Head Coach"
+          },
+          "publicBio": {
+            "ko": "자율성을 중시하며 선수들이 제안한 일의 실행을 맡기는 감독입니다.",
+            "en": "Values autonomy and entrusts players with carrying out their proposals."
+          },
+          "details": {
+            "ko": "44세·미국 국적·백인. 실용적이고 건조한 유머를 쓰며 자율성을 중시한다. 선수 제안의 실행을 맡기고 결과와 예산을 확인한다.",
+            "en": "44, an American white head coach. Practical, with dry humor and an emphasis on autonomy. Lets players execute their proposals and checks the results and budget."
+          }
+        },
+        {
+          "id": "simone-hollis",
+          "name": {
+            "ko": "시몬 홀리스",
+            "en": "Simone Hollis"
+          },
+          "role": {
+            "ko": "4학년 미디 · 주장",
+            "en": "Senior Midfielder · Captain"
+          },
+          "publicBio": {
+            "ko": "사교적이고 승부욕이 강하며 팀 행사 추진에 적극적인 주장입니다.",
+            "en": "A sociable, competitive captain active in organizing team events."
+          },
+          "details": {
+            "ko": "미국 국적·흑인. 4학년 미디이자 주장으로 사교적이고 승부욕이 강하다. 행사를 추진하고 사람을 챙기며 일정 관리와 뒷수습 능력을 과신하는 면이 있다.",
+            "en": "An American Black senior midfielder and captain. Sociable and competitive, organizing events and caring for people, with a tendency to overestimate her ability to manage schedules and clean up complications."
+          }
+        },
+        {
+          "id": "paige-donovan",
+          "name": {
+            "ko": "페이지 도너번",
+            "en": "Paige Donovan"
+          },
+          "role": {
+            "ko": "3학년 디펜스",
+            "en": "Junior Defense"
+          },
+          "publicBio": {
+            "ko": "교내에 아는 사람이 많고 카페 아르바이트를 하는 디펜스입니다.",
+            "en": "A well-connected defender on campus who also works part-time at a café."
+          },
+          "details": {
+            "ko": "미국 국적·백인. 느긋한 3학년 디펜스로 교내 인맥이 넓고 카페 아르바이트를 한다. 부탁에 약해 대타와 행사 일에 얽히곤 하며 자기 일에 도움을 청하는 데 어려움이 있다.",
+            "en": "An American white junior defender. Easygoing, well connected on campus and working part-time at a café. Finds requests hard to refuse, becoming entangled in covering shifts and event work, while struggling to ask for help with her own responsibilities."
+          }
+        },
+        {
+          "id": "marisol-vega",
+          "name": {
+            "ko": "마리솔 베가",
+            "en": "Marisol Vega"
+          },
+          "role": {
+            "ko": "1학년 골리",
+            "en": "Freshman Goalie"
+          },
+          "publicBio": {
+            "ko": "붙임성이 좋으며 선수생활 채널을 운영하는 유튜버를 지망합니다.",
+            "en": "An approachable goalie who runs a student-athlete channel and aspires to become a YouTuber."
+          },
+          "details": {
+            "ko": "멕시코계 미국인. 붙임성 있는 1학년 골리로 유튜버를 지망하며 선수생활 채널을 운영한다. 조회수에 예민하고 자신의 야심을 쑥스러워해 농담으로 돌린다.",
+            "en": "A Mexican American freshman goalie. Approachable, running a student-athlete channel and aspiring to become a YouTuber. Sensitive to view counts, she jokes about her ambitions out of embarrassment."
+          }
+        }
+      ]
+    },
+    "localPlaces": [
+      {
+        "id": "juniper-diner",
+        "name": {
+          "ko": "주니퍼 다이너",
+          "en": "Juniper Diner"
+        },
+        "location": {
+          "ko": "정문 밖",
+          "en": "Outside the main gate"
+        },
+        "body": {
+          "ko": "부스석이 있는 동네 식당. 팬케이크·오믈렛·버거·커피를 낸다.",
+          "en": "A neighborhood diner with booths, serving pancakes, omelets, burgers and coffee."
+        },
+        "owner": {
+          "name": {
+            "ko": "버니스 쇼",
+            "en": "Bernice Shaw"
+          },
+          "details": {
+            "ko": "50대 사장. 무뚝뚝하며 주문 결정을 늦추면 재촉하지만 학생 아르바이트생의 실수는 뒤에서 수습한다.",
+            "en": "The owner, in their fifties, is blunt and hurries slow decisions over orders, but quietly sorts out student employees’ mistakes."
+          }
+        }
+      },
+      {
+        "id": "corner-slice",
+        "name": {
+          "ko": "코너 슬라이스",
+          "en": "Corner Slice"
+        },
+        "location": {
+          "ko": "시가지",
+          "en": "In town"
+        },
+        "body": {
+          "ko": "조각피자와 한 판 포장을 파는 피자가게. 경기 관람용 TV가 있다.",
+          "en": "A pizza shop selling slices and whole pies to go, with TVs for watching games."
+        },
+        "owner": {
+          "name": {
+            "ko": "루벤 모랄레스",
+            "en": "Ruben Morales"
+          },
+          "details": {
+            "ko": "40대 사장. 수다스럽고 농구 팬이며 경기 결과 맞히기를 좋아한다.",
+            "en": "The owner, in their forties, is talkative, a basketball fan and fond of predicting game results."
+          }
+        }
+      },
+      {
+        "id": "green-and-grind",
+        "name": {
+          "ko": "그린 앤 그라인드",
+          "en": "Green & Grind"
+        },
+        "location": {
+          "ko": "Marlowe Commons 안 · GG / 지지",
+          "en": "Inside Marlowe Commons · GG"
+        },
+        "body": {
+          "ko": "교내 카페. 학생들은 GG 또는 지지라고 부른다.",
+          "en": "An on-campus café, commonly called GG."
+        }
+      },
+      {
+        "id": "meridian-bistro",
+        "name": {
+          "ko": "메리디언 비스트로",
+          "en": "Meridian Bistro"
+        },
+        "location": {
+          "ko": "시가지",
+          "en": "In town"
+        },
+        "body": {
+          "ko": "따뜻한 조명과 천 냅킨, 계절 메뉴와 와인을 갖춘 프렌치·아메리칸 식당. 생일·가족 식사·데이트에 찾으며 학생에게는 가끔 마음먹고 가는 가격대다.",
+          "en": "A French-American restaurant with warm lighting, cloth napkins, seasonal menus and wine. A place for birthdays, family meals and dates, priced as an occasional planned outing for students."
+        }
+      }
     ]
   },
   "harrowgate": {
@@ -1097,6 +1291,18 @@ window.SCHOOLS = {
         "description": {
           "ko": "보트하우스 · Dock Day",
           "en": "Boathouse · Dock Day"
+        }
+      },
+      {
+        "id": "facility-13",
+        "name": "Dock Street",
+        "point": [
+          93,
+          61
+        ],
+        "description": {
+          "ko": "수변 상점가 · 델리 · 캠퍼스로 이어지는 강변길",
+          "en": "Waterfront shops · deli · riverside path toward campus"
         }
       }
     ],
@@ -1351,53 +1557,6 @@ window.SCHOOLS = {
           {
             "ko": "함께 귀가",
             "en": "Going home together"
-          }
-        ]
-      },
-      {
-        "start": "2027-02-18",
-        "end": "",
-        "precision": "day",
-        "name": {
-          "ko": "레이븐 헌트",
-          "en": "Raven Hunt"
-        },
-        "details": {
-          "ko": "2월 18일 수십 년 된 학생회 팀제 보물찾기 전통. 12:00 Brier Commons에서 3~6인 팀 체크인·미션 공개. 캠퍼스·인근 다운타운에서 사진·장소찾기·학교 전통 퀴즈·퍼포먼스·물건 획득 미션을 수행합니다. 20:00 제출 마감, 21:00 결과 발표. 수업과 훈련은 정상 진행되며 속도 외에 창의성·팀워크 보너스가 있습니다. 우승팀은 소액 상금과 Raven 트로피를 받습니다. 학생회 진행요원이 인증하고 위험행동·사유지 침입은 실격입니다. 일부 미션은 특정 장소에서 제한시간 안에 수행하며 학교 미신을 활용한 보너스 문항도 있습니다.",
-          "en": "A decades-old student-government team scavenger hunt on February 18. Teams of three to six check in at Brier Commons at noon and receive tasks involving photos, locations, tradition quizzes, performances and objects across campus and nearby downtown. Submissions close at 20:00; results at 21:00. Classes and training continue normally. Creativity and teamwork earn bonuses beyond speed, with a small cash prize and Raven trophy for the winners. Student-government staff validate tasks; dangerous behavior and trespassing disqualify a team. Some tasks must be completed at specified places within a time limit, with bonus questions drawing on campus superstitions."
-        },
-        "moments": [
-          {
-            "ko": "2인 사진 미션",
-            "en": "Two-person photo tasks"
-          },
-          {
-            "ko": "상대가 고른 포즈",
-            "en": "A pose chosen by a teammate"
-          },
-          {
-            "ko": "즉석 역할극",
-            "en": "Impromptu roleplay"
-          },
-          {
-            "ko": "손잡고 달리기",
-            "en": "Running hand in hand"
-          },
-          {
-            "ko": "업거나 끌어 주기",
-            "en": "Carrying or pulling a teammate along"
-          },
-          {
-            "ko": "미신 장소 방문",
-            "en": "Visiting superstition sites"
-          },
-          {
-            "ko": "길을 잃고 둘만 남기",
-            "en": "Getting lost with one teammate"
-          },
-          {
-            "ko": "마지막 미션을 둘이 해결",
-            "en": "Solving the last task as a pair"
           }
         ]
       },
@@ -1875,8 +2034,8 @@ window.SCHOOLS = {
           "en": "Combines firm care with respect for junior staff judgment."
         },
         "details": {
-          "ko": "30대 후반 선임 AT. 건조한 농담을 하고 단호하며 후배 판단을 존중한다. 술을 좋아하고 취하면 가족사진을 보여주거나 눈물·연애 조언이 늘어난다. 진지할 때는 솔직하다. 남편 Ben과 입양한 다섯 살 아들 Miles가 있다.",
-          "en": "A senior athletic trainer in his late thirties. Dryly funny and firm, respecting junior colleagues’ judgment. Likes drinking; when drunk shows family photos, becomes tearful and offers relationship advice. Candid when serious. Has a husband, Ben, and an adopted five-year-old son, Miles."
+          "ko": "30대 후반 선임 AT. 건조한 농담을 하고 단호하며 후배 판단을 존중한다. 술을 좋아하고 취하면 가족사진을 보여주거나 눈물·연애 조언이 늘어난다. 진지할 때는 솔직하다. 남편 Ben과 입양한 2021년생 아들 Miles가 있다.",
+          "en": "A senior athletic trainer in his late thirties. Dryly funny and firm, respecting junior colleagues’ judgment. Likes drinking; when drunk shows family photos, becomes tearful and offers relationship advice. Candid when serious. Has a husband, Ben, and an adopted son, Miles, born in 2021."
         }
       },
       {
@@ -1934,6 +2093,199 @@ window.SCHOOLS = {
         "details": {
           "ko": "19세·1학년 SSDM. 사석에서는 수다스럽고 경기에서는 성급한 면이 있다. 실수를 만회하는 데 과몰입하며 주전 자리를 원한다.",
           "en": "19, a freshman SSDM. Talkative off the field and prone to impatience in games. Can become overinvested in making up for mistakes and wants a starting role."
+        }
+      }
+    ],
+    "recordReference": {
+      "ko": "2026년 가을 기준",
+      "en": "As of Fall 2026"
+    },
+    "womensTeam": {
+      "reference": {
+        "ko": "2026년 가을 기준",
+        "en": "As of Fall 2026"
+      },
+      "overview": {
+        "ko": "에린 비숍 감독과 주장 슬론 휘태커를 중심으로 하는 Ravens 여자 라크로스팀을 만나보세요.",
+        "en": "Meet the Ravens women’s lacrosse program, including head coach Erin Bishop and captain Sloane Whitaker."
+      },
+      "people": [
+        {
+          "id": "erin-bishop",
+          "name": {
+            "ko": "에린 비숍",
+            "en": "Erin Bishop"
+          },
+          "role": {
+            "ko": "헤드코치",
+            "en": "Head Coach"
+          },
+          "publicBio": {
+            "ko": "D1 디펜스 출신으로 전술과 공정한 기준을 중시합니다.",
+            "en": "A former Division I defender who emphasizes tactics and fair standards."
+          },
+          "details": {
+            "ko": "41세·여자팀 헤드코치·전 D1 디펜스. 직설적이고 전술에 집요하며 공정하다. 공개 질책이 잦아 선수들과 마찰을 빚기도 한다.",
+            "en": "41, women’s head coach and a former Division I defender. Direct, persistent about tactics and fair. Frequent public criticism can cause friction with players."
+          }
+        },
+        {
+          "id": "sloane-whitaker",
+          "name": {
+            "ko": "슬론 휘태커",
+            "en": "Sloane Whitaker"
+          },
+          "role": {
+            "ko": "4학년 미디 · 주장",
+            "en": "Senior Midfielder · Captain"
+          },
+          "publicBio": {
+            "ko": "사교적이며 통솔력과 승부욕이 강한 주장입니다.",
+            "en": "A sociable captain with strong leadership and competitive drive."
+          },
+          "details": {
+            "ko": "금발·벽안의 백인. 4학년 미디이자 주장으로 사교적이고 통솔력과 승부욕이 강하다. 높은 기준과 은근한 계층 편견이 있으며 팀 예산과 시설 배정에 민감하다.",
+            "en": "A white senior midfielder and captain with blond hair and blue eyes. Sociable, commanding and competitive, with high standards and subtle class prejudice. Sensitive to team budgets and facility allocations."
+          }
+        },
+        {
+          "id": "jordan-park",
+          "name": {
+            "ko": "조던 박",
+            "en": "Jordan Park"
+          },
+          "role": {
+            "ko": "3학년 디펜스",
+            "en": "Junior Defense"
+          },
+          "publicBio": {
+            "ko": "졸려 보이는 인상과 뛰어난 관찰력을 지닌 디펜스입니다.",
+            "en": "A defender with a sleepy appearance and strong powers of observation."
+          },
+          "details": {
+            "ko": "한국계 미국인. 늘 졸려 보이는 3학년 디펜스로 관찰력이 강하다. 친한 사이에서는 독설을 하며 다른 사람의 싸움을 지켜보기만 할 수도 있다.",
+            "en": "A Korean American junior defender who always looks sleepy and is highly observant. Sharp-tongued among friends and sometimes content to watch other people’s disputes without intervening."
+          }
+        },
+        {
+          "id": "talia-bennett",
+          "name": {
+            "ko": "탈리아 베넷",
+            "en": "Talia Bennett"
+          },
+          "role": {
+            "ko": "3학년 미디",
+            "en": "Junior Midfielder"
+          },
+          "publicBio": {
+            "ko": "수다와 파티를 좋아하는 미드필더입니다.",
+            "en": "A talkative midfielder who enjoys parties."
+          },
+          "details": {
+            "ko": "3학년 미디. 수다와 파티를 좋아하고 거친 농담과 뒷담을 즐기며 가십에 관심이 많다.",
+            "en": "A junior midfielder who likes conversation and parties, enjoys rough jokes and talking behind people’s backs, and is drawn to gossip."
+          }
+        },
+        {
+          "id": "harper-collins",
+          "name": {
+            "ko": "하퍼 콜린스",
+            "en": "Harper Collins"
+          },
+          "role": {
+            "ko": "1학년 어택",
+            "en": "Freshman Attack"
+          },
+          "publicBio": {
+            "ko": "고교 스타 출신으로 출전 의지가 강한 1학년 어택입니다.",
+            "en": "A former high-school star and freshman attacker eager for playing time."
+          },
+          "details": {
+            "ko": "고교 스타 출신 1학년 어택. 야심과 출전 욕심이 강하다. 선배를 존경하면서도 경쟁심을 느끼며 벤치에 대한 불만과 돌출 발언이 나올 수 있다.",
+            "en": "A freshman attacker and former high-school star with strong ambitions and a desire to play. Respects senior teammates while competing with them; dissatisfaction with benching can surface in impulsive remarks."
+          }
+        }
+      ]
+    },
+    "localPlaces": [
+      {
+        "id": "harbor-side-deli",
+        "name": {
+          "ko": "하버 사이드 델리",
+          "en": "Harbor Side Deli"
+        },
+        "location": {
+          "ko": "Dock Street",
+          "en": "Dock Street"
+        },
+        "body": {
+          "ko": "오래된 샌드위치 가게로 학생·선수·지역주민이 드나든다.",
+          "en": "A longstanding sandwich shop visited by students, athletes and local residents."
+        },
+        "owner": {
+          "name": {
+            "ko": "살",
+            "en": "Sal"
+          },
+          "details": {
+            "ko": "60대 사장. 단골의 얼굴과 주문을 기억하며 선수들과 능청스럽게 농담한다.",
+            "en": "The owner, in their sixties, remembers regulars’ faces and orders and trades playful jokes with athletes."
+          }
+        }
+      },
+      {
+        "id": "breakwater-grill",
+        "name": {
+          "ko": "브레이크워터 그릴",
+          "en": "Breakwater Grill"
+        },
+        "location": {
+          "ko": "Dock Street",
+          "en": "Dock Street"
+        },
+        "body": {
+          "ko": "피시 샌드위치·버거·크랩 수프를 내는 캐주얼 식당.",
+          "en": "A casual restaurant serving fish sandwiches, burgers and crab soup."
+        },
+        "owner": {
+          "name": {
+            "ko": "네이딘 콜",
+            "en": "Nadine Cole"
+          },
+          "details": {
+            "ko": "50대 사장. 호탕하고 직설적이며 붐비면 농담은 줄고 손이 빨라진다.",
+            "en": "The owner, in their fifties, is hearty and direct; when it gets busy, she jokes less and works faster."
+          }
+        }
+      },
+      {
+        "id": "common-grounds",
+        "name": {
+          "ko": "커먼 그라운즈",
+          "en": "Common Grounds"
+        },
+        "location": {
+          "ko": "Brier Commons 안 · 커먼즈",
+          "en": "Inside Brier Commons · Commons"
+        },
+        "body": {
+          "ko": "교내 카페. 학생들 사이의 통칭은 커먼즈다.",
+          "en": "An on-campus café, nicknamed “Commons” by students."
+        }
+      },
+      {
+        "id": "salt-and-glass",
+        "name": {
+          "ko": "솔트 앤 글라스",
+          "en": "Salt & Glass"
+        },
+        "location": {
+          "ko": "수변",
+          "en": "Waterfront"
+        },
+        "body": {
+          "ko": "큰 창과 석양 전망이 있는 모던 해산물 식당. 굴·생선 요리·칵테일을 내며 기념일·가족 식사·저녁 약속에 찾는다. 학생에게는 가끔 마음먹고 가는 가격대다.",
+          "en": "A modern seafood restaurant with large windows and sunset views, serving oysters, fish dishes and cocktails. A place for anniversaries, family meals and dinner plans, priced as an occasional planned outing for students."
         }
       }
     ]
